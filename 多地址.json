@@ -1,41 +1,78 @@
 {
     "api":[
-{"key":"我的","name":"我的",
-    "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/Q.json",
-    "date":"2022-09-23"},
-{"key":"IPTV","name":"IPTV",
-    "ext":"http://zb.iptv6.top/TVB随机密码8848加群获取最新密码/电视猫16.json",
-    "date":">推荐线路①"},
-{"key":"刚刚线路","name":"刚刚线路",
-    "ext":"http://刚刚.live/猫 ",
-    "date":">推荐线路②"},
-{"key":"BOX线路","name":"BOX线路",
-    "ext":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-   "date":">推荐线路③"},   
-{"key":"小苹果","name":"小苹果",
-    "ext":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-    "date":">推荐线路④"},   
-{"key":"推荐线路","name":"推荐线路",
-    "ext":"http://111.67.196.181/mtv/270.txt",
-    "date":">推荐线路⑤"},   
-{"key":"推荐线路","name":"推荐线路",
-    "ext":"https://agit.ai/n/b/raw/branch/a/b/c.json",
-    "date":">推荐线路⑥"},  
-{"key":"推荐线路","name":"推荐线路",
-    "ext":"https://raw.iqiq.io/liu673cn/box/main/m.json",
-    "date":">推荐线路⑦"}, 
-{"key":"推荐线路","name":"推荐线路",
-    "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-    "date":">推荐线路⑧"}, 
-{"key":"推荐线路","name":"推荐线路",
-    "ext":"http://ob4.cn/tvmao",
-    "date":">推荐线路⑧"}, 
-{"key":"推荐线路","name":"推荐线路",
-    "ext":"https://wds.ecsxs.com/223843.txt",
-    "date":">推荐线路⑨"},               
-{"key":"️哔哩学习","name":"哔哩学习线路",
-    "ext":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-    "date":">娱乐学习线路"}]
+        {
+            "key":"我的",
+            "name":"我的",
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/Q.json",
+            "date":"2022-09-23"
+        },
+        {
+            "key":"IPTV",
+            "name":"IPTV",
+            "ext":"http://zb.iptv6.top/TVB随机密码8848加群获取最新密码/电视猫16.json",
+            "date":">推荐线路①"
+        },
+        {
+            "key":"刚刚线路",
+            "name":"刚刚线路",
+            "ext":"http://刚刚.live/猫",
+            "date":">推荐线路②"
+        },
+        {
+            "key":"BOX线路",
+            "name":"BOX线路",
+            "ext":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "date":">推荐线路③"
+        },
+        {
+            "key":"小苹果",
+            "name":"小苹果",
+            "ext":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "date":">推荐线路④"
+        },
+        {
+            "key":"推荐线路",
+            "name":"推荐线路",
+            "ext":"http://111.67.196.181/mtv/270.txt",
+            "date":">推荐线路⑤"
+        },
+        {
+            "key":"推荐线路",
+            "name":"推荐线路",
+            "ext":"https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "date":">推荐线路⑥"
+        },
+        {
+            "key":"推荐线路",
+            "name":"推荐线路",
+            "ext":"https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "date":">推荐线路⑦"
+        },
+        {
+            "key":"推荐线路",
+            "name":"推荐线路",
+            "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "date":">推荐线路⑧"
+        },
+        {
+            "key":"推荐线路",
+            "name":"推荐线路",
+            "ext":"http://ob4.cn/tvmao",
+            "date":">推荐线路⑧"
+        },
+        {
+            "key":"推荐线路",
+            "name":"推荐线路",
+            "ext":"https://wds.ecsxs.com/223843.txt",
+            "date":">推荐线路⑨"
+        },
+        {
+            "key":"️哔哩学习",
+            "name":"哔哩学习线路",
+            "ext":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "date":">娱乐学习线路"
+        }
+    ]
 }
 
 
