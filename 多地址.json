@@ -7,6 +7,12 @@
             "date":">首选线路"
         },
         {
+            "key":"我的本地",
+            "name":"我的本地",
+            "ext":"clan://localhost/amaomao/Q.json",
+            "date":">本地线路"
+        },
+        {
             "key":"线路①",
             "name":"线路①",
             "ext":"http://zb.iptv6.top/TVB随机密码8848加群获取最新密码/电视猫16.json",
