@@ -28,7 +28,7 @@
         {"key": "csp_xBPQ_荐片","name": "荐片影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/xBPQ.jar"},
         {"key": "csp_xBPQ_爱看影视","name": "爱看影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/xBPQ.jar"},
         {"key": "csp_xBPQ_cokemv","name": "cokemv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/xBPQ.jar"},
-        {"key": "csp_xBPQ_555yy1","name": "555yy1️(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",
+        {"key": "csp_xBPQ_555yy","name": "555yy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",
 \"导演\": \"导演：&&</div\",
 \"主演\": \"主演：&&</div\",
 \"简介\": \"show-desc&&</p>\",
@@ -317,16 +317,6 @@
             "filterable": 1
         },
         {
-            "key": "Smdyy_spider",
-            "name": "SP | 神马影视",
-            "api": "csp_Smdyy",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
-        {
             "key": "csp_Cokemv",
             "name": "SP | Cokemv",
             "type": 3,
@@ -403,24 +393,6 @@
         "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
-        "key": "小城",
-        "name": "小城影视",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://bc.yybox.xyz/api.php/v1.vod"
-        },
-        {
-            "key": "考拉直链",
-            "name": "SP | 考拉直链",
-            "type": 1,
-            "api": "https://ikaola.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "Gitcafe",
             "name": "SP | 小纸条",
             "type": 3,
@@ -489,6 +461,16 @@
         "quickSearch":1,
         "filterable":1,
         "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/XYQ/qsp.json"
+        },
+        {
+        "key":"csy_XYQHiker",
+        "name":"XYQH | 子子影视",
+        "type":3,
+        "api":"csp_XYQHiker",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/XYQ/ZZYS.json"
         },
         {
       "key": "csp_XYQBiu_艾菲影视",
@@ -690,16 +672,6 @@
             "filterable": 0,
             "ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/XB/zaixzjia.json"
         },
-        {
-			"key": "csp_biubiu_特狗影视",
-			"name": "XB | 特狗影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/XB/TGYS.json"
-		},
         {
             "key": "csp_biubiu_宝仙HD",
             "name": "XB | 宝仙HD",
