@@ -19,17 +19,17 @@
             "date":">推荐线路②"
         },
         {
-            "key":"BOX线路",
-            "name":"BOX线路",
-            "ext":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "date":">推荐线路③"
-        },
-        {
             "key":"小苹果",
             "name":"小苹果",
             "ext":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "date":">推荐线路④"
+            "date":">推荐线路③"
         },
+        {
+            "key":"线路④",
+            "name":"线路④",
+            "ext":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "date":">推荐线路④"
+        },    
         {
             "key":"线路⑤",
             "name":"线路⑤",
