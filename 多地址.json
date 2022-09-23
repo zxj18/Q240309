@@ -4,23 +4,23 @@
             "key":"我的",
             "name":"我的",
             "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/Q.json",
-            "date":"首选"
+            "date":">首选线路"
         },
         {
-            "key":"IPTV",
-            "name":"IPTV",
+            "key":"线路①",
+            "name":"线路①",
             "ext":"http://zb.iptv6.top/TVB随机密码8848加群获取最新密码/电视猫16.json",
             "date":">推荐线路①"
         },
         {
-            "key":"刚刚线路",
-            "name":"刚刚线路",
+            "key":"线路②",
+            "name":"线路②",
             "ext":"http://刚刚.live/猫",
             "date":">推荐线路②"
         },
         {
-            "key":"小苹果",
-            "name":"小苹果",
+            "key":"线路③",
+            "name":"线路③",
             "ext":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "date":">推荐线路③"
         },
@@ -68,7 +68,7 @@
         },
         {
             "key":"️哔哩学习",
-            "name":"哔哩学习线路",
+            "name":"娱乐学习线路",
             "ext":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
             "date":">娱乐学习线路"
         }
