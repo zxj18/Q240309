@@ -40,6 +40,27 @@
         {"key": "csp_xf_cs","name": "️FREEOK(XF)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$4#动漫$3#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}/\"}",
 "jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/xBPQ.jar"},
+      {
+      "key": "csp_xBPQ_番茄",
+      "name": "番茄影视",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{
+\"免嗅\":\"1\",
+\"播放标题\":\"span>&&<\",
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"简介\": \"hl-content-text&&</span>\",
+\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",
+\"播放标题\":\">&&<\",
+\"播放数组\":\"class=\\\"hl-plays-list&&</div>\",
+\"分类\":\"国产电视剧$13#剧电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5\",
+\"分类url\":\"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}",
+"jar":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/xBPQ.jar"
+        },
         {
             "key":"T4a",
             "name":"📡T4聚合",
