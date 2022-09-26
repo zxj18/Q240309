@@ -42,10 +42,10 @@
 "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/plugin/Py.json",
 "date":"Py线路"},
 {
-"key":"娱乐学习",
-"name":"娱乐学习",
-"ext":"http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-"date":"娱乐学习"},
+"key":"公益接口",
+"name":"公益接口",
+"ext":"http://43.139.29.179:5705/config/2",
+"date":"公益线路"},
 {
 "key":"线路①",
 "name":"推荐接口①",
