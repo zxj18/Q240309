@@ -1,5 +1,5 @@
 {
-    "spider":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/LZ0925.jar;md5;a1df350ddb1735dbed67ee65227e6cd9",
+    "spider":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/LZ0627-2.jar;md5;33bdafb58db23f4ddf5acca246a6c9c5",
     "lives": [
         {
             "group": "redirect",
@@ -14,9 +14,11 @@
         }
     ],
 "sites": [ 
+                {"key":"T4a","name":"📡T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,bdys01,onelist,dy555,gitcafe&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=6","searchable":1,"quickSearch":1,"filterable":0},
         {"key": "csp_xBPQ_荐片","name": "xBPQ | 荐片","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/jianpian.json"},
         {"key": "csp_xBPQ_大米星球","name": "️xBPQ | 大米星球","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/damixq.json"},
         {"key": "csp_xBPQ_素白白","name": "xBPQ | 素白白","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/subaibai.json"},
+        {"key":"csp_xBPQ_在线之家","name":"️xBPQ | 在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/zxzj.json"},
         {"key": "csp_xBPQ_厂长","name": "xBPQ | 厂长资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/changzzy.json"},
         {"key": "csp_xBPQ_极品影视","name": "xBPQ | 极品影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/jipinys.json"},
         {"key": "csp_xBPQ_皮皮泡影视","name": "xBPQ | 皮皮泡影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/pipipaoys.json"},
@@ -25,14 +27,21 @@
       {"key": "csp_xf_cs","name": "️xBPQ | FREEOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/FREEOK.json"},
       {"key": "csp_xBPQ_番茄","name": "xBPQ | 番茄影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/fanqieys.json"},
         {"key": "csp_xBPQ_蓝光影视","name": "xBPQ | 蓝光影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/languangys.json"},
-         {"key": "csp_xBPQ_um影院","name": "xBPQ | UM影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/UMyy.json"},  
-    {"key": "csp_xBPQ_瓜皮TV","name": "xBPQ | 瓜皮TV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/guapitv.json"},
+         {"key": "csp_xBPQ_um影院","name": "xBPQ | UM影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/UMyy.json"},       {"key": "csp_xBPQ_瓜皮TV","name": "xBPQ | 瓜皮TV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/guapitv.json"},
         {"key": "csp_xBPQ_cokemv","name": "xBPQ | cokemv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/cokemv.json"},
         {"key": "csp_xBPQ_诺信影视","name": "xBPQ | 诺信影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/nuoxunys.json"},        
         {"key": "csp_xBPQ_酷客影视","name": "xBPQ | 酷客影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/kukeys.json"},
         {"key": "csp_xBPQ_干饭影视","name": "️️xBPQ | 干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/ganfanys.json"},
          {"key": "csp_xBPQ_花猫tv","name": "xBPQ | 花猫tv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/huamaotv.json"},
-        {"key": "csp_xBPQ","name": "️xBPQ | 真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/zhenbuka.json"}],
+        {"key": "csp_xBPQ","name": "️xBPQ | 真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/zhenbuka.json"},
+        {"key": "csp_xBPQ","name": "️xBPQ | 爱酷影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/aikuyy.json"},
+        {"key": "csp_xBPQ","name": "️xBPQ | 巨人影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/jurenyy.json"},
+         {"key": "csp_xBPQ","name": "️xBPQ | App影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/appys.json"},
+        {"key": "csp_xBPQ","name": "️xBPQ | 热播酷","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/reboku.json"},
+       {"key": "csp_xBPQ","name": "️xBPQ | 达达龟","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/dadagui.json"},
+        {"key": "csp_xBPQ","name": "️xBPQ | 饭团TV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/fantuanTV.json"},
+        {"key": "csp_xBPQ","name": "️xBPQ | 凌云影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/lingyunys.json"},
+        {"key": "csp_xBPQ","name": "️xBPQ | 胖虎影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/panghuys.json"}],
         "parses": [
         {
             "name": "解析聚合",
