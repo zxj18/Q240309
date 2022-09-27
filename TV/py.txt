@@ -2,7 +2,16 @@
     //"spider":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/LZ0627.jar;md5;a69fd95c257c3a6982d2797fa505ffb6",
     "spider":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jar/LZ0627-2.jar;md5;33bdafb58db23f4ddf5acca246a6c9c5",
     //"spider":"clan://amaomao/TVBox/jar/LZ0627-2.jar",
-    "lives": [
+    "lives": [{
+           "key": "dr_酷云77",
+              "name": "酷云77(道长)",
+                 "type": 1,
+                    "api": "http://43.139.29.179:5705/vod?rule=酷云77",
+                       "searchable": 2,
+                          "quickSearch": 0,
+                             "filterable": 1
+    },
+    }
         {
             "group": "redirect",
             "channels": [
