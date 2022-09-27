@@ -62,6 +62,11 @@
 "ext":"https://gitcode.net/bd/v/-/raw/8e2a75439a868668b5e552c63a8ad3326f575e73/8.txt?inline=false",
 "date":"推荐线路⑨"},
 {
+"key":"线路⑩",
+"name":"推荐接口⑩",
+"ext":"http://2link.atwebpages.com",
+"date":"推荐线路⑩"},
+{
 "key":"SP线路",
 "name":"SP接口",
 "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/XP/SP.json",
