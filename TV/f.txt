@@ -49,7 +49,7 @@
 ,
 {
 "key": "Yiso",
-    "name": " 🎐Py | 易搜(仅搜索)",
+    "name":"🌶Py | 易搜(仅搜索)",
     "type": 3,
     "api": "py_yiso",
     "searchable": 1,
