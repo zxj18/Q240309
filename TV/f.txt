@@ -1,8 +1,7 @@
 ﻿{
 
-    //"spider":"https://agit.ai/895322156/Q/raw/branch/master/jar/LZ0627.jar;md5;a69fd95c257c3a6982d2797fa505ffb6",
+    //"spider":"https://agit.
     "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/LZ0627-2.jar;md5;33bdafb58db23f4ddf5acca246a6c9c5",
-        //"spider":"clan://amaomao/TVBox/jar/LZ0627-2.jar",
         "lives": [ {
 
         "group": "redirect",
