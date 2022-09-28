@@ -1,6 +1,4 @@
 ﻿{
-
-    //"spider":"https://agit.
     "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/LZ0627-2.jar;md5;33bdafb58db23f4ddf5acca246a6c9c5",
         "lives": [ {
 
