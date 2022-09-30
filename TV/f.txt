@@ -1,6 +1,6 @@
 ﻿{
 
-    "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/LZ0627-2.jar;md5;33bdafb58db23f4ddf5acca246a6c9c5",
+    "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/0928.jar",
         "lives": [ {
 
         "group": "redirect",
@@ -46,7 +46,7 @@
 
 ,
 {
-"key": "Yiso",
+"key": "Yiso1",
     "name":"💠Py | 易搜(仅搜索)",
     "type": 3,
     "api": "py_yiso",
@@ -89,8 +89,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]"
 }
 
 ,
@@ -103,8 +102,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
 }
 
 ,
@@ -116,8 +114,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.555yy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.555yy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 }
 
 ,
@@ -129,8 +126,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://m.7caa.com/list/{cateId}-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"
 }
 
 ,
@@ -142,8 +138,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 }
 
 ,
@@ -156,8 +151,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
 }
 
 ,
@@ -169,9 +163,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
-}
+"ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html"}
 
 ,
 {
@@ -182,8 +174,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"
 }
 
 ,
@@ -195,8 +186,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 }
 
 ,
@@ -208,8 +198,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html"
 }
 
 ,
@@ -221,8 +210,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.ftcgj.com/{cateId}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.ftcgj.com/{cateId}.html"
 }
 
 ,
@@ -234,8 +222,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html"
 }
 
 ,
@@ -247,8 +234,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html"
 }
 
 ,
@@ -260,8 +246,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"
 }
 
 ,
@@ -273,8 +258,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"
 }
 
 ,
@@ -286,8 +270,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html"
 }
 
 ,
@@ -299,8 +282,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://www.huamaotv.com/type/{cateId}-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://www.huamaotv.com/type/{cateId}-{catePg}.html"
 }
 
 ,
@@ -312,8 +294,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html"
 }
 
 ,
@@ -325,8 +306,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://6d.wpwpzm.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://6d.wpwpzm.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"
 }
 
 ,
@@ -338,8 +318,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html"
 }
 
 ,
@@ -351,8 +330,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.html"
 }
 
 ,
@@ -364,8 +342,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 }
 
 ,
@@ -377,8 +354,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"
 }
 
 ,
@@ -390,8 +366,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 }
 
 ,
@@ -403,8 +378,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
 }
 
 ,
@@ -416,8 +390,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
 }
 
 ,
@@ -430,8 +403,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
 }
 
 ,
@@ -444,8 +416,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"
 }
 
 ,
@@ -457,8 +428,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"
 }
 
 ,
@@ -471,8 +441,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
 }
 
 ,
@@ -485,8 +454,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
 
 ,
@@ -499,8 +467,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
 }
 
 ,
@@ -513,8 +480,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
 }
 
 ,
@@ -527,8 +493,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 }
 
 ,
@@ -545,7 +510,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar" },
+  "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"},
 
 {
   "key": "csp_xb_23ys",
@@ -555,7 +520,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-"ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+"ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {
   "key": "csp_xb_kyk",
   "name": "💠看一看(R)",
@@ -564,7 +529,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html"},
 {
 key: 'dr_007影视', name:' 🎑007影视(道长)', type:1, api:'https://drpy.justmiss.repl.co/vod?rule=007影视', searchable:2, quickSearch:0, filterable:0
 }
