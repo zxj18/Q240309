@@ -1,12 +1,12 @@
 ﻿{
 
-    "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/y.jar",
+    "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/LZ0627-2.jar;md5;33bdafb58db23f4ddf5acca246a6c9c5",
         "lives": [ {
 
         "group": "redirect",
         "channels": [ {
- "name": "live",
-"urls": [ "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
+            "name": "live",
+                "urls": [ "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9iZC92Ly0vcmF3L21haW4vbGl2ZS96Yi50eHQ="]
         }
 
         ]
