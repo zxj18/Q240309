@@ -171,7 +171,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/py/py_qie.py"
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_qie.py"
 }
 
 ,
@@ -183,7 +183,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/py/py_freezb.py"
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_freezb.py"
 }
 
 ,
@@ -197,7 +197,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/py/py_jrskbs.py"
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_jrskbs.py"
 }
 
 ,
