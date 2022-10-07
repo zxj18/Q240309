@@ -30,19 +30,17 @@ class Spider(Spider):  # 元类 默认的元类 type
         result = {}
         cateManual = {
             "Zard": "Zard",
-			"演唱会": "演唱会4K",
-			"韩国女团": "韩国女团4K",
-			"日本女团": "日本女团4K",
-			"MV": "MV 4K",
-			"舞曲": "DJ舞曲 4K",
-			"纯音乐": "纯音乐 轻音乐",
-			"假窗-白噪音": "窗+白噪音",
-			"纪录片": "纪录片",
-			"昆虫": "昆虫",
-			"玩具汽车": "玩具汽车",
-			"儿童": "儿童",
-			"幼儿": "幼儿",
-			"儿童玩具": "儿童玩具"
+            "玩具汽车": "玩具汽车",
+            "儿童": "儿童",
+            "幼儿": "幼儿",
+            "儿童玩具": "儿童玩具",
+            "昆虫": "昆虫",
+            "动物世界": "动物世界",
+            "纪录片": "纪录片",
+            "相声小品": "相声小品",
+            "搞笑": "搞笑",
+            "假窗-白噪音": "窗+白噪音",
+            "演唱会": "演唱会"
         }
         classes = []
         for k in cateManual:
@@ -65,7 +63,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def getCookie(self):
         # 在cookies_str中填入会员或大会员cookie，以获得更好的体验。
-        cookies_str = "innersign=0; buvid3=0BE6DC00-7EC8-F14C-5022-273B6A46C4C146692infoc; i-wanna-go-back=-1; _uuid=9876F5E7-A2610-17F3-A821-453368B2A13B46427infoc; buvid4=909DE9E8-B2F3-0737-BE05-CBCE52B8F1DF50069-022082212-KrOZh+8iydjdQTLhzp96QF38tYbYJ8K8cXQog40LGu3fOfuINFkXpw%3D%3D; LIVE_BUVID=AUTO5316611442538552; b_timer=%7B%22ffp%22%3A%7B%22333.1007.fp.risk_0BE6DC00%22%3A%22182C3E9AD8B%22%2C%22333.42.fp.risk_0BE6DC00%22%3A%22182C3E9D59E%22%7D%7D; buvid_fp_plain=undefined; SESSDATA=ddac727d%2C1676696334%2C25fac%2A81; bili_jct=cfeaf9060dc34924f82d015212a108c5; DedeUserID=389957880; DedeUserID__ckMd5=42e393d5b4adaf41; sid=8sdohh2u; fingerprint=7564ac47b00541a5b904d49f13e9989a; fingerprint3=4b65d5467158b4fcf6747d29562dd032; b_ut=5; buvid_fp=6393a802b9740ddf1b1443b39e2e9b50; b_lsid=2F7F5E96_18312CBD612"
+        cookies_str = "innersign=0; buvid3=606BE156-AE37-AEA8-7052-9DA0B21766E776404infoc; b_nut=1663302976; i-wanna-go-back=-1; b_ut=7; b_lsid=4106252F6_18344933A90; _uuid=586AAEB7-6B88-A691-F7AC-95C27E57F53C43036infoc; buvid4=B6FF1449-4361-1C76-DEFC-4AFCA1777B7E78304-022091612-PdJr0jKE6N5TamfAEX9uACD1RXvklspbNdlcIQEFLMu0d9wS3G3sdA%3D%3D; buvid_fp=2a9b54d5e06aa54293dc7544e000552d"
         cookies_dic = dict([co.strip().split('=') for co in cookies_str.split(';')])
         rsp = session()
         cookies_jar = utils.cookiejar_from_dict(cookies_dic)
