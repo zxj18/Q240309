@@ -163,6 +163,7 @@
 }
 
 ,
+ 
 {
 "key": "csp_Kunyu77",
     "name": "🌸SP | 七七",
@@ -764,6 +765,106 @@
 }
 
 ,
+        {
+            "key":"csp_xb_玄天2",
+            "name":" 🎐新XB┃玄天影院",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"
+        },
+        {
+            "key":"csp_xb_mztys2",
+            "name":" 🎐新XB┃莫扎影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key":"csp_xb_nikeys2",
+            "name":" 🎐新XB┃耐克影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.ajeee.com/show/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key":"csp_xb_ysgc2",
+            "name":" 🎐新XB┃影视工厂",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html"
+        },
+        {
+            "key":"csp_xb_fqys2",
+            "name":" 🎐新XB┃番茄影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"
+        },
+        {
+            "key":"csp_xb_gfys2",
+            "name":" 🎐新XB┃干饭影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key":"csp_xb_hmtv2",
+            "name":" 🎐新XB┃花猫影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://www.huamaotv.com/type/{cateId}-{catePg}.html"
+        },
+        {
+            "key":"csp_xb_pipipaoys2",
+            "name":" 🎐新XB┃皮皮影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key":"csp_xb_yanaifei2",
+            "name":" 🎐新XB┃奈飞影视",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+        },
+        {
+            "key":"CITY2",
+            "name":" 🎐新XB┃城市电影",
+            "type":3,
+            "api":"csp_XBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.citydy.com/show/id-{cateId}/page/{catePg}.html"
+        },
 {
 "key": "csp_xb_heihei",
 "name": "💠嘿嘿视频(R)",
@@ -1231,7 +1332,7 @@
 
 ,
 {
-"key": "dr_酷云777", "name": "💠酷云77(道长)", "type": 1, "api": "http://43.139.29.179:5705/vod?rule=酷云77", "searchable": 2, "quickSearch": 0, "filterable": 1
+"key": "dr_酷云777", "name": "💠酷云77(道长)", "type": 1, "api": "https://boxpy.once678.repl.co/vod?rule=酷云77", "searchable": 2, "quickSearch": 0, "filterable": 1
 }
 
 ,
@@ -1273,459 +1374,13 @@
 
 ,
 {
-"key": "dr_百忙无果",
-    "name": "🎀芒果(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=百忙无果",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 1
-}
-
-,
-{
 "key": "dr_腾云驾雾",
     "name": "🎀腾讯(道长)",
     "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=腾云驾雾",
+    "api": "https://boxpy.once678.repl.co/vod?rule=腾云驾雾",
     "searchable": 2,
     "quickSearch": 0,
     "filterable": 1
-}
-
-,
-{
-"key": "dr_奇珍异兽",
-    "name": "🎀奇异(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=奇珍异兽",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 1
-}
-
-,
-{
-"key": "dr_优酷",
-    "name": "🎀优酷(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=优酷",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 1
-}
-
-,
-{
-"key": "dr_蓝光影院",
-    "name": "🎀蓝光影院(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=蓝光影院",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_兔小贝",
-    "name": "🎀兔小贝(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=兔小贝",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_影视工厂",
-    "name": "🎀影视工厂(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=影视工厂",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_蓝莓影视",
-    "name": "🎀蓝莓影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=蓝莓影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-
-{
-"key": "dr_大米星球",
-    "name": "🎀大米星球(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=大米星球",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_莫扎兔",
-    "name": "🎀莫扎兔(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=莫扎兔",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_vip影院",
-    "name": "🎀vip影院(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=vip影院",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_小猫咪",
-    "name": "🎀小猫咪(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=小猫咪",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_干饭影视",
-    "name": "🎀干饭影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=干饭影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_小强迷",
-    "name": "🎀小强迷(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=小强迷",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-
-{
-"key": "dr_万能影视",
-    "name": "🎀万能影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=万能影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_cokemv",
-    "name": "🎀cokemv(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=cokemv",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-
-{
-"key": "dr_凌云影视",
-    "name": "🎀凌云影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=凌云影视",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_看视界",
-    "name": "🎀看视界(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=看视界",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_l0l",
-    "name": "🎀l0l(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=l0l",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_追剧喵",
-    "name": "🎀追剧喵(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=追剧喵",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_夜空",
-    "name": "🎀夜空(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=夜空",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_在线之家",
-    "name": "🎀在线之家(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=在线之家",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_菜狗",
-    "name": "🎀菜狗(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=菜狗",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 1
-}
-
-,
-{
-"key": "dr_鸭奈飞",
-    "name": "🎀鸭奈飞(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=鸭奈飞",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_360影视",
-    "name": "🎀360影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=360影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_番茄影视",
-    "name": "🎀番茄影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=番茄影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_AnFuns",
-    "name": "🎀AnFuns(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=AnFuns",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_555影视",
-    "name": "🎀555影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=555影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_喵喵",
-    "name": "🎀喵喵(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=喵喵",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_LIBVIO",
-    "name": "🎀LIBVIO(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=LIBVIO",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_剧白白",
-    "name": "🎀剧白白(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=剧白白",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_瓜皮TV",
-    "name": "🎀瓜皮TV(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=瓜皮TV",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_库马伊",
-    "name": "🎀库马伊(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=库马伊",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_drpy",
-    "name": "🎀drpy(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=drpy",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "dr_007影视",
-    "name": "🎀007影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=007影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-
-{
-"key": "dr_奇优影院",
-    "name": "🎀奇优影院(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=奇优影院",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-
-{
-"key": "dr_猫了个咪",
-    "name": "🎀猫了个咪(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=猫了个咪",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_牛马TV",
-    "name": "🎀牛马TV(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=牛马TV",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_人人影视",
-    "name": "🎀人人影视(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=人人影视",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-{
-"key": "dr_玄天",
-    "name": "🎀玄天(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=玄天",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
-}
-
-,
-
-{
-"key": "dr_1080P",
-    "name": "🎀1080P(道长)",
-    "type": 1,
-    "api": "http://43.139.29.179:5705/vod?rule=1080P",
-    "searchable": 2,
-    "quickSearch": 0,
-    "filterable": 0
 }
 
 ,
