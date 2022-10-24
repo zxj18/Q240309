@@ -791,12 +791,27 @@
 
 ,
 {
+"key": "drpy_js_310直播",
+    "name": " 🎐310直播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/310直播.js"
+}
+
+,
+
+{
 "key": "drpy_js_JRS录像", "name": "🎐JRS录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS录像.js"
 }
 
 ,
 {
-"key": "drpy_js_学生球赛录像[js1]", "name": "🎐学生球赛录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/学生球赛录像[js1].js"
+"key": "drpy_js_学生球赛录像[js1]", "name": "🎐学生球赛录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/学生球赛录像[js1].js"
+}
+
+,
+{
+"key": "drpy_js_88看球", "name": "🎐88看球[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
 
 ,
