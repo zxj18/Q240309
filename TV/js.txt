@@ -3,31 +3,13 @@
     "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/新神器.jar",
 
 
-    "sites" : [ {
-        "key": "Gitcafe2", "name": " 🦜小纸条(新)", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "token;desc", "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-    }
+    "sites" : [
+{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
 
-    ,
-    {
-    "key": "找资源3", "name": " 💲资源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
-{
-"key": "upyunsou2", "name": " 🐟云搜", "type": 3, "api": "csp_Upyunso", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
-{
-"key": "yisou2", "name": " 🐉宜搜", "type": 3, "api": "csp_Yisou", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
-{
-"key": "AliPS2", "name": " 🍁盘搜", "type": 3, "api": "csp_AliPS", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
 {
 "key": "drpy_js_豆瓣", "name": "🎐豆瓣首页[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
 }
@@ -229,6 +211,31 @@
 
 ,
 {
+"key": "drpy_js_188看", "name": "🎐188看[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/188看.js"
+}
+
+,
+{
+"key": "drpy_js_饭团", "name": "🎐饭团[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团.js"
+}
+
+,
+{
+"key": "drpy_js_量子影视", "name": "🎐量子影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
+}
+
+,
+{
+"key": "drpy_js_新视觉影视", "name": "🎐新视觉影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/新视觉影视.js"
+}
+
+,
+{
+"key": "drpy_js_小白菜电影", "name": "🎐小白菜电影[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小白菜电影.js"
+}
+
+,
+{
 "key": "drpy_js_酷奇MV",
     "name": " 🎐酷奇MV[DRPY]",
     "type": 3,
@@ -243,15 +250,27 @@
 
 ,
 {
+"key": "drpy_js_DJ音乐", "name": "🎐DJ音乐[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/DJ音乐.js"
+}
+
+,
+{
 "key": "drpy_js_JRS录像", "name": "🎐JRS录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS录像.js"
 }
 
 ,
 {
+"key": "drpy_js_88看球", "name": "🎐88看球[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
+}
+
+,
+
+{
 "key": "drpy_js_学生球赛录像[js1]", "name": "🎐学生球赛录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/学生球赛录像[js1].js"
 }
 
 ,
+ {            "key" : "drpy_js_学生球赛录像[js2]",            "name" : "学生球赛录像[js1][DRPY]",            "type" : 3,            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",            "ext" : "./js/学生球赛录像[js1].js"        },
 {
 "key": "drpy_js_JRKAN直播",
     "name": " 🎐JRKAN直播[DRPY]",
@@ -735,6 +754,103 @@
 }
 
 ,
+{
+"key": "drpy_js_趣享星趣", "name": "🎐趣享星趣[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/趣享星趣.js"
+}
+
+,
+{
+"key": "drpy_js_豆芽影院", "name": "🎐豆芽影院[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/豆芽影院.js"
+}
+
+,
+{
+"key": "drpy_js_独播库[飞]", "name": "🎐独播库[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/独播库[飞].js"
+}
+
+,
+{
+"key": "drpy_js_爱酷影视", "name": "🎐爱酷影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱酷影视.js"
+}
+
+,
+{
+"key": "drpy_js_我爱电影网", "name": "🎐我爱电影网[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/我爱电影网.js"
+}
+
+,
+{
+"key": "drpy_js_兰花影院", "name": "🎐兰花影院[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兰花影院.js"
+}
+
+,
+{
+"key": "drpy_js_NY影院", "name": "🎐NY影院[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/NY影院.js"
+}
+
+,
+{
+"key": "drpy_js_蜻蜓FM", "name": "🎐蜻蜓FM[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蜻蜓FM.js"
+}
+
+,
+{
+"key": "drpy_js_海盗听书", "name": "🎐海盗听书[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/海盗听书.js"
+}
+
+,
+
+            {
+            "key" : "drpy_js_18av",
+            "name" : "18av[DRPY]",
+            "type" : 3,
+           "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/18av.js"
+        },
+           
+            {
+            "key" : "drpy_js_banan",
+            "name" : "banan[DRPY]",
+            "type" : 3,
+          "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/banan.js"
+        },
+            {
+            "key" : "drpy_js_Missav",
+            "name" : "Missav[DRPY]",
+            "type" : 3,
+          "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/Missav.js"
+        },
+		 {
+            "key" : "drpy_js_玩偶姐姐",
+            "name" : "玩偶姐姐[DRPY]",
+            "type" : 3,
+         "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/玩偶姐姐.js"
+        },
+            {
+            "key" : "drpy_js_18av",
+            "name" : "吸瓜[DRPY]",
+            "type" : 3,
+         "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/吸瓜.js"
+        },
+           
+            {
+            "key" : "drpy_js_banan",
+            "name" : "banan[DRPY]",
+            "type" : 3,
+         "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/banan.js"
+        },
+            {
+            "key" : "drpy_js_朱古力",
+            "name" : "Missav[DRPY]",
+            "type" : 3,
+         "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://raw.iqiq.io/zqk219/baip/main/JS/9/朱古力.js"
+        },
 {
 "key": "drpy_js_起飞影院",
     "name": "起飞影院[DRPY]",

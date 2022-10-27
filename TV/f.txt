@@ -128,27 +128,11 @@
 }
 
 ,
-
-{
-"key": "找资源3", "name": " 💲资源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
-{
-"key": "upyunsou2", "name": " 🐟云搜", "type": 3, "api": "csp_Upyunso", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
-{
-"key": "yisou2", "name": " 🐉宜搜", "type": 3, "api": "csp_Yisou", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
-{
-"key": "AliPS2", "name": " 🍁盘搜", "type": 3, "api": "csp_AliPS", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
-}
-
-,
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
 
 {
 "key": "csp_Kunyu77",
@@ -350,7 +334,7 @@
 
 ,
 {
-"key": "Gitcafe",
+"key": "Gitcafe2",
     "name": "🌸SP | 小纸条",
     "type": 3,
     "api": "csp_Gitcafe",
