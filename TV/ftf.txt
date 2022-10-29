@@ -1,6 +1,7 @@
 ﻿{
 
     "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/28.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
+    "wallpaper":"https://壁纸.神器每日推送.tk",
     "lives": [ {
 
         "group": "redirect",
@@ -75,23 +76,21 @@
 }
 
 ,
+{
+"key": "csp_biubiu_爱港剧", "name":"💦爱港剧(XB)", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXB/爱港剧.json"
+}
 
+,
+{
+key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickSearch:1, filterable:1, jar:'http://stevenfang.github.io/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c'
+}
+
+,
 {
 "key": "csp_Kunyu77",
     "name": "🌸SP | 七七",
     "type": 3,
     "api": "csp_Kunyu77",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "csp_293",
-    "name": "🌸SP | 293",
-    "type": 3,
-    "api": "csp_SP293",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -804,7 +803,7 @@
 ,
 {
 "key": "drpy_js_云播",
-    "name": " 🎐云播[DRPY]",
+    "name": " 🎐TVB云播[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/tva云播.js"
@@ -1237,14 +1236,14 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 
 ,
 {
-"name": "10%聚合",
+"name": "FTF1",
     "type":1,
     "url":"http://43.139.102.88:88/parse/de.php?url="
 }
 
 ,
 {
-"name": "10%",
+"name": "FTF2",
     "type": 1,
     "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="
 }
@@ -1252,7 +1251,7 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 ,
 {
 
-"name": "江湖",
+"name": "FTF3",
 "type": 1,
 "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
 "ext": {
@@ -1288,14 +1287,14 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 
 ,
 {
-"name": "10%备用1",
+"name": "FTF4",
     "type":1,
     "url":"http://43.139.102.88:88/jx/10.php?url="
 }
 
 ,
 {
-"name": "10%嗅探",
+"name": "FTF5",
     "type":1,
     "url":"http://43.139.102.88:88/parse/player.php?url="
 }
