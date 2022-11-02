@@ -57,10 +57,10 @@
 ,
 {"key":"Gitcafe","name":"♒小纸条(二)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"daae36603bcd490681bdd8d03940783a","jar":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840"},
 {key:'Gitcafe0',name:'♒小纸条（三）',type:3,api:'csp_Gitcafe',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
+{"key":"FindZY","name":"💦找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
+{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
 {
 "key": "csp_biubiu_爱港剧", "name":"💦爱港剧(XB)", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXB/爱港剧.json"
 }
