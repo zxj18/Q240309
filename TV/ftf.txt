@@ -102,6 +102,70 @@ key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', search
 
 ,
 {
+      "key": "VIPlive",
+      "name": "🎀VIP直播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/ssiop789/999/raw/branch/master/ubfigc.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhibo1",
+      "name": "🎀T4直播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/ssiop789/999/raw/branch/master/zb.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhibo2",
+      "name": "🎀T4直播2",
+      "type": 4,
+      "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly9hZ2l0LmFpL3NzaW9wNzg5Lzk5OS9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ {
+      "key": "极速资源lz",
+      "name": "🌸SP┃极速资源lz",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
+    },
+    {
+      "key": "极速资源xl",
+      "name": "🌸SP┃极速资源xl",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]
+    },
+    {
+      "key": "极速资源dd",
+      "name": "🌸SP┃极速资源",
+      "type": 1,
+      "api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","纪录片","动画片","国产动漫","日韩动漫","欧美动漫","国内综艺","海外综艺"]
+    },
+    {
+      "key": "极速资源gs",
+      "name": "🌸SP┃极速资源gs",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]
+    },
+{
 "key": "MiniYs_spider", "name":"🌸SP |迷你影视", "api":"csp_MiniYs", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
 }
 
@@ -227,7 +291,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Juhuang",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,"jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/jiuyin.jar"
+    "filterable": 1,"jar": "https://agit.ai/ssiop789/999/raw/branch/master/xo1104.jar"
 }
 
 ,
@@ -239,7 +303,8 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Auete",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,"jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/jiuyin.jar"}
+    "filterable": 1,"jar":"http://xn--sss604efuw.ml/tvb/jar/xo.jar;md5;1c3849989bca743018b55a2fba946a26"
+}
 
 ,
 {
