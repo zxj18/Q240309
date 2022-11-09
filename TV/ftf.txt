@@ -92,17 +92,12 @@ key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', search
 
 ,
 {
-"key": "dr_学生球赛录像2[js1]", "name": "🏀NBA球赛录像[js1](drpy)", "type": 3, "api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://drpyfork.fenwe521.repl.co/admin/view/学生球赛录像[js1].js"
+"key": "dr_学生球赛录像2[js1]", "name": "🏀NBA球赛录像", "type": 3, "api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://drpyfork.fenwe521.repl.co/admin/view/学生球赛录像[js1].js"
 }
 
 ,
 {
-"key": "drpy_js_88看球", "name": "🏀88看球[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
-}
-
-,
-{
-"key": "csp_biubiu_爱港剧", "name":"💦爱港剧(XB)", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXB/爱港剧.json"
+"key": "drpy_js_88看球0", "name": "🏀NBA直播[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
 
 ,
@@ -163,9 +158,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "filterable": 1,
     "quickSearch": 1,
     "searchable": 1,
-    "ext": "", "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
-
+    "ext": "","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
 }
 
 ,
@@ -232,8 +225,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Auete",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1, "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
+    "filterable": 1, "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
 }
 
 ,
@@ -298,8 +290,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Yanet",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1, "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
+    "filterable": 1,"jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
 }
 
 ,
@@ -326,7 +317,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "Pang", "name":"🌸胖虎(SP)", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+"key": "Pang", "name":"🌸胖虎(SP)", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
 }
 
 ,
@@ -346,8 +337,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "csp_Xxys", "name":"🌸小熊(SP)", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1, "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
+"key": "csp_Xxys", "name":"🌸小熊(SP)", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1,"jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0" 
 }
 
 ,
@@ -383,6 +373,11 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/tva云播.js"
+}
+
+,
+{
+"key": "csp_biubiu_爱港剧", "name":"💦爱港剧(XB)", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXB/爱港剧.json"
 }
 
 ,
