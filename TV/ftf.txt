@@ -1,6 +1,6 @@
 ﻿{
 
-    "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/28.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
+    "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/9.jar;md5;CD3F89F218985E3C3BA577CEBF5C039C",
     "wallpaper":"https://壁纸.神器每日推送.tk",
     "lives": [ {
 
@@ -57,10 +57,10 @@
 ,
 {"key":"Gitcafe","name":"♒小纸条(二)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"daae36603bcd490681bdd8d03940783a","jar":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840"},
 {key:'Gitcafe0',name:'♒小纸条（三）',type:3,api:'csp_Gitcafe',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"FindZY","name":"💦找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+{"key":"FindZY","name":"🎄资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Upyunso","name":"☁️云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
 {
 "key": "csp_xBPQ_体育录像", "name":"🏀 NBA体育录像", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"
 https://agit.ai/895322156/Q/raw/branch/master/jar/xBPQ_1107.jar"
@@ -1323,51 +1323,14 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 
 ,
 {
-
 "name": "FTF3",
-"type": 1,
-"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
-"ext": {
-    "flag": [ "qiyi",
-        "iqiyi",
-        "奇艺",
-        "爱奇艺",
-        "qq",
-        "腾讯",
-        "youku",
-        "优酷",
-        "pptv",
-        "PPTV",
-        "letv",
-        "乐视",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩",
-        "mgtv",
-        "芒果",
-        "xigua",
-        "西瓜",
-        "sohu",
-        "搜狐",
-        "cntv",
-        "cctv",
-        "央视",
-        "1905",
-        "m1905"
-        ]
-}
-}
-
-,
-{
-"name": "FTF4",
     "type":1,
     "url":"http://43.139.102.88:88/jx/10.php?url="
 }
 
 ,
 {
-"name": "FTF5",
+"name": "FTF4",
     "type":1,
     "url":"http://43.139.102.88:88/parse/player.php?url="
 }
