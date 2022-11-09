@@ -227,7 +227,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Juhuang",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1,"jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/jiuyin.jar"
 }
 
 ,
@@ -239,8 +239,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Auete",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
-}
+    "filterable": 1,"jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/jiuyin.jar"}
 
 ,
 {
