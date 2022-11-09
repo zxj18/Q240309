@@ -164,7 +164,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "quickSearch": 1,
     "searchable": 1,
     "ext": "", "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
 
 }
 
@@ -233,7 +233,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1, "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
 }
 
 ,
@@ -299,7 +299,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1, "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
 }
 
 ,
@@ -347,7 +347,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Xxys", "name":"🌸小熊(SP)", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1, "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
 }
 
 ,
