@@ -97,12 +97,27 @@ key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', search
 
 ,
 {
-"key": "drpy_js_88看球0", "name": "🏀NBA直播[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
+"key": "drpy_js_88看球0", "name": "🏀NBA直播", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
 
 ,
 {
-key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickSearch:1, filterable:1, jar:'http://stevenfang.github.io/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c'
+"key": "MiniYs_spider", "name":"🌸SP |迷你影视", "api":"csp_MiniYs", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+}
+
+,
+{
+"key": "棉花影视", "name":"🌸SP |棉花影视", "type":3, "api":"csp_MianHua", "searchable":1, "quickSearch":1, "filterable":0, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+}
+
+,
+{
+"key": "sliu_spider", "name":"🌸SP |石榴电影", "api":"csp_ShiLiuDY", "type":3, "filterable":1, "quickSearch":1, "playerType":2, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+}
+
+,
+{
+key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickSearch:1, filterable:1, jar:'http://stevenfang.github.io/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c'
 }
 
 ,
@@ -157,8 +172,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "type": 3,
     "filterable": 1,
     "quickSearch": 1,
-    "searchable": 1,
-    "ext": "","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+    "searchable": 1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
 }
 
 ,
@@ -225,7 +239,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Auete",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1, "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+    "filterable": 1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
 }
 
 ,
@@ -285,18 +299,18 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Yanet",
-    "name": "🌸Yanet(SP)",
+    "name": "🌸SP |Yanet",
     "type": 3,
     "api": "csp_Yanet",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,"jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+    "filterable": 1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
 }
 
 ,
 {
 "key": "Lgyy",
-    "name": "🌸蓝光(SP)",
+    "name": "🌸SP |蓝光",
     "type": 3,
     "api": "csp_Lgyy",
     "searchable": 1,
@@ -307,7 +321,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Ddys",
-    "name": "🌸低端(SP)",
+    "name": "🌸SP |低端",
     "type": 3,
     "api": "csp_Ddys",
     "searchable": 1,
@@ -317,34 +331,34 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "Pang", "name":"🌸胖虎(SP)", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+"key": "Pang", "name":"🌸SP |胖虎", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
 }
 
 ,
 {
-"key": "csp_fant", "name":"🌸饭团(SP)", "api":"csp_Fantuan", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+"key": "csp_fant", "name":"🌸SP |饭团", "api":"csp_Fantuan", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
 }
 
 ,
 {
-"key": "csp_Dy1010", "name":"🌸双十(SP)", "type":3, "api":"csp_Dy1010", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+"key": "csp_Dy1010", "name":"🌸SP |双十", "type":3, "api":"csp_Dy1010", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
 }
 
 ,
 {
-"key": "csp_Nkdy", "name":"🌸南柯(SP)", "type":3, "api":"csp_Nkdy", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+"key": "csp_Nkdy", "name":"🌸SP |南柯", "type":3, "api":"csp_Nkdy", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
 }
 
 ,
 {
-"key": "csp_Xxys", "name":"🌸小熊(SP)", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1,"jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0" 
+"key": "csp_Xxys", "name":"🌸SP |小熊", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1,"jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
 }
 
 ,
 
 {
 "key": "Dm84",
-    "name": "🌸Dm84(SP)",
+    "name": "🌸SP |Dm84",
     "type": 3,
     "api": "csp_Dm84",
     "searchable": 1,
