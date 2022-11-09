@@ -1,8 +1,8 @@
 ﻿{
 
     "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/9.jar;md5;CD3F89F218985E3C3BA577CEBF5C039C",
-    "wallpaper":"https://壁纸.神器每日推送.tk",
-    "lives": [ {
+        "wallpaper":"https://壁纸.神器每日推送.tk",
+        "lives": [ {
 
         "group": "redirect",
         "channels": [ {
@@ -55,19 +55,47 @@
 }
 
 ,
-{"key":"Gitcafe","name":"♒小纸条(二)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"daae36603bcd490681bdd8d03940783a","jar":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840"},
-{key:'Gitcafe0',name:'♒小纸条（三）',type:3,api:'csp_Gitcafe',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
-{"key":"FindZY","name":"🎄资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Upyunso","name":"☁️云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0},
 {
-"key": "csp_xBPQ_体育录像", "name":"🏀 NBA体育录像", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"
-https://agit.ai/895322156/Q/raw/branch/master/jar/xBPQ_1107.jar"
+"key": "Gitcafe", "name":"♒小纸条(二)", "type":3, "api":"csp_Gitcafe", "searchable":1, "quickSearch":1, "filterable":1, "ext":"daae36603bcd490681bdd8d03940783a", "jar":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840"
 }
 
 ,
-{"key": "dr_学生球赛录像2[js1]","name": "🏀NBA球赛录像[js1](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/学生球赛录像[js1].js"},
+{
+key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', searchable:1, quickSearch:1, filterable:1, ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'
+}
+
+,
+{
+"key": "AliPS", "name":"😻盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1
+}
+
+,
+{
+"key": "FindZY", "name":"🎄资源", "type":3, "api":"csp_Zhaozy", "searchable":1, "playerType":1, "quickSearch":1, "filterable":0
+}
+
+,
+{
+"key": "csp_Yisou", "name":"🆎易搜", "type":3, "api":"csp_Yisou", "searchable":1, "playerType":1, "quickSearch":1, "filterable":0
+}
+
+,
+{
+"key": "csp_Upyunso", "name":"☁️云搜", "type":3, "api":"csp_Upyunso", "searchable":1, "playerType":1, "quickSearch":1, "filterable":0
+}
+
+,
+{
+"key": "csp_xBPQ_体育录像", "name":"🏀 NBA体育录像", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/xBPQ_1107.jar"
+}
+
+,
+{
+"key": "dr_学生球赛录像2[js1]", "name": "🏀NBA球赛录像[js1](drpy)", "type": 3, "api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://drpyfork.fenwe521.repl.co/admin/view/学生球赛录像[js1].js"
+}
+
+,
 {
 "key": "drpy_js_88看球", "name": "🏀88看球[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
@@ -135,7 +163,9 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "filterable": 1,
     "quickSearch": 1,
     "searchable": 1,
-    "ext": ""
+    "ext": "", "jar":"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
+
 }
 
 ,
@@ -202,7 +232,8 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Auete",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1, "jar":"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
 }
 
 ,
@@ -267,7 +298,8 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Yanet",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1, "jar":"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
 }
 
 ,
@@ -294,7 +326,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "Pang", "name":"🌸胖虎(SP)", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"
+"key": "Pang", "name":"🌸胖虎(SP)", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
 }
 
 ,
@@ -314,7 +346,8 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "csp_Xxys", "name":"🌸小熊(SP)", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1
+"key": "csp_Xxys", "name":"🌸小熊(SP)", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1, "jar":"
+ https: //agit.ai/895322156/Q/raw/branch/master/jar/28.jar"
 }
 
 ,
@@ -1012,7 +1045,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-    "key": "csp_xBPQ_VOFLIX", "name":"🎈PQ|VOFLIX", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/VOFLIX.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+"key": "csp_xBPQ_VOFLIX", "name":"🎈PQ|VOFLIX", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/VOFLIX.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
@@ -1242,7 +1275,7 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-    "key": "csp_xBPQ_188影视", "name":"🎈PQ|188影视", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/188影视.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+"key": "csp_xBPQ_188影视", "name":"🎈PQ|188影视", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/188影视.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
@@ -1252,9 +1285,21 @@ key: 'IKan', name:'🌸爱看(SP)', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{"key":"csp_xBPQ_牛马TV","name":"🎈PQ|牛马TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/牛马TV.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"},
-{"key":"csp_xBPQ_真不卡影院","name":"🎈PQ|真不卡影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/真不卡影院.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"},
-{"key":"csp_xBPQ_石榴电影","name":"🎈PQ|石榴电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/石榴电影.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"},
+{
+"key": "csp_xBPQ_牛马TV", "name":"🎈PQ|牛马TV", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/牛马TV.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+}
+
+,
+{
+"key": "csp_xBPQ_真不卡影院", "name":"🎈PQ|真不卡影院", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/真不卡影院.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+}
+
+,
+{
+"key": "csp_xBPQ_石榴电影", "name":"🎈PQ|石榴电影", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/石榴电影.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+}
+
+,
 {
 "key": "csp_xBPQ_足球", "name":"🎈PQ|足球", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/足球.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
@@ -1907,5 +1952,3 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 "cms.qdwght.com"
 ]
 }
-
-
