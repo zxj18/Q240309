@@ -147,7 +147,7 @@ key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', search
     },
     {
       "key": "极速资源三",
-      "name": "🌸SP┃极速资源",
+      "name": "🌸SP┃极速资源三",
       "type": 1,
       "api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
