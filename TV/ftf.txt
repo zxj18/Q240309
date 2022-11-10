@@ -1417,35 +1417,35 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 {"name":"💋天1","type":1,"url":"http://3.37.195.161:54371/parse/api/dyg.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💋天2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"💋天3","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"💋天4丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"💋天4","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"💋神1","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"💋神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"💋神3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
-{"name":"懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
-{"name":"懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"💋福1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
+{"name":"💋福2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {
-"name": "FTF1",
+"name": "💋FTF1",
     "type":1,
     "url":"http://43.139.102.88:88/parse/de.php?url="
 }
 
 ,
 {
-"name": "FTF2",
+"name": "💋FTF2",
     "type": 1,
     "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="
 }
 
 ,
 {
-"name": "FTF3",
+"name": "💋FTF3",
     "type":1,
     "url":"http://43.139.102.88:88/jx/10.php?url="
 }
 
 ,
 {
-"name": "FTF4",
+"name": "💋FTF4",
     "type":1,
     "url":"http://43.139.102.88:88/parse/player.php?url="
 }
