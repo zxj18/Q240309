@@ -1,7 +1,7 @@
 ﻿{
 "wallpaper":"https://壁纸.神器每日推送.tk",
     "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/9.jar;md5;CD3F89F218985E3C3BA577CEBF5C039C",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=https://gitcode.net/bh/tv/-/raw/master/zb.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
     "sites": [ {
         "key": "drpy_js_百忙无果",
             "name": "👑芒果TV[DRPY]",
