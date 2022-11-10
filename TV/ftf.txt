@@ -61,7 +61,7 @@
 
 ,
 {
-key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', searchable:1, quickSearch:1, filterable:1, ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'
+key: 'Gitcafe0', name:'♒小纸条(三)', type:3, api:'csp_Gitcafe', searchable:1, quickSearch:1, filterable:1, ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'
 }
 
 ,
@@ -97,7 +97,7 @@ key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', search
 
 ,
 {
-"key": "drpy_js_88看球0", "name": "🏀NBA直播", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
+"key": "drpy_js_88看球0", "name": "🏀NBA比赛直播", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
 
 ,
@@ -166,17 +166,17 @@ key: 'Gitcafe0', name:'♒小纸条（三）', type:3, api:'csp_Gitcafe', search
       "categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]
     },
 {
-"key": "MiniYs_spider", "name":"🌸SP |迷你影视", "api":"csp_MiniYs", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+"key": "MiniYs_spider", "name":"🌸SP |迷你", "api":"csp_MiniYs", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
 }
 
 ,
 {
-"key": "棉花影视", "name":"🌸SP |棉花影视", "type":3, "api":"csp_MianHua", "searchable":1, "quickSearch":1, "filterable":0, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+"key": "棉花影视", "name":"🌸SP |棉花", "type":3, "api":"csp_MianHua", "searchable":1, "quickSearch":1, "filterable":0, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
 }
 
 ,
 {
-"key": "sliu_spider", "name":"🌸SP |石榴电影", "api":"csp_ShiLiuDY", "type":3, "filterable":1, "quickSearch":1, "playerType":2, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+"key": "sliu_spider", "name":"🌸SP |石榴", "api":"csp_ShiLiuDY", "type":3, "filterable":1, "quickSearch":1, "playerType":2, "searchable":1, "ext":"", "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
 }
 
 ,
@@ -198,7 +198,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "bdys01",
-    "name": "🌸SP | 哔嘀影视",
+    "name": "🌸SP | 哔嘀",
     "api": "csp_Bdys01",
     "type": 3,
     "filterable": 1,
@@ -209,7 +209,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_LiteApple",
-    "name": "🌸SP | 小苹果",
+    "name": "🌸SP | 苹果",
     "type": 3,
     "api": "csp_LiteApple",
     "searchable": 1,
@@ -220,7 +220,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_图图",
-    "name": "🌸SP | 图图影视",
+    "name": "🌸SP | 图图",
     "type": 3,
     "api": "csp_AppTT",
     "searchable": 1,
@@ -231,7 +231,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "KanSJ_spider",
-    "name": "🌸SP | 看视界",
+    "name": "🌸SP | 视界",
     "api": "csp_KanSJ",
     "type": 3,
     "filterable": 1,
@@ -242,7 +242,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "360_spider",
-    "name": "🌸SP| 360影视",
+    "name": "🌸SP| 三六",
     "api": "csp_SP360",
     "type": 3,
     "filterable": 1,
@@ -253,7 +253,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Bttoo",
-    "name": "🌸SP | 两个BT",
+    "name": "🌸SP | BT",
     "type": 3,
     "api": "csp_Bttoo",
     "searchable": 1,
@@ -264,7 +264,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "快看影视",
-    "name": "🌸SP | 快看影视",
+    "name": "🌸SP | 快看",
     "type": 3,
     "api": "csp_Kuaikan",
     "searchable": 1,
@@ -275,7 +275,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "追剧喵",
-    "name": "🌸SP | 追剧喵",
+    "name": "🌸SP | 追剧",
     "type": 3,
     "api": "csp_ZJMiao",
     "searchable": 1,
@@ -286,7 +286,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Auete",
-    "name": "🌸SP | Auete",
+    "name": "🌸SP | 乌衣",
     "type": 3,
     "api": "csp_Auete",
     "searchable": 1,
@@ -297,7 +297,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Cokemv",
-    "name": "🌸SP | Cokemv",
+    "name": "🌸SP | 可乐",
     "type": 3,
     "api": "csp_Cokemv",
     "searchable": 1,
@@ -318,7 +318,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Lib",
-    "name": "🌸SP | Libvio",
+    "name": "🌸SP | 力播",
     "type": 3,
     "api": "csp_Lib",
     "searchable": 1,
@@ -340,7 +340,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_dd5555",
-    "name": "🌸SP | 555影视",
+    "name": "🌸SP | 三五",
     "api": "csp_Dy555",
     "type": 3,
     "filterable": 1,
@@ -351,7 +351,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Yanet",
-    "name": "🌸SP |Yanet",
+    "name": "🌸SP |亚呢",
     "type": 3,
     "api": "csp_Yanet",
     "searchable": 1,
@@ -410,7 +410,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "Dm84",
-    "name": "🌸SP |Dm84",
+    "name": "🌸SP |Dm",
     "type": 3,
     "api": "csp_Dm84",
     "searchable": 1,
