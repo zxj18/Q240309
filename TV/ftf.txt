@@ -1139,7 +1139,12 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "csp_xBPQ_VOFLIX", "name":"🎈PQ|VOFLIX", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/VOFLIX.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+"key":"csp_xBPQ_TVB", "name":"🎈PQ|TVB云播","type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/xBPQ/TVB.json","jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+}
+
+,
+{
+"key":"csp_xBPQ_VOFLIX", "name":"🎈PQ|VOFLIX","type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/VOFLIX.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
@@ -1391,11 +1396,6 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_xBPQ_石榴电影", "name":"🎈PQ|石榴电影", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/石榴电影.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-}
-
-,
-{
-"key": "csp_xBPQ_足球", "name":"🎈PQ|足球", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/足球.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
