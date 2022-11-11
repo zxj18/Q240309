@@ -411,7 +411,8 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
     "api": "csp_Czsapp",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1,
+      "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1020.jar"
 }
 
 ,
