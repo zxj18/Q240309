@@ -81,8 +81,7 @@
 
 ,
 {
-"key": "csp_xBPQ_体育录像", "name":"🏀 NBA体育录像一", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"
- https: //agit.ai/895322156/Q/raw/branch/master/jar/xBPQ_1107.jar"
+"key": "csp_xBPQ_体育录像", "name":"🏀 NBA体育录像一", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
