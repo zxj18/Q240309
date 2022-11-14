@@ -127,10 +127,26 @@
 }
 
 ,
-{"key":"csp_XYQBiu_17看","name":"🏀球赛直播五","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/17看.json"},
-{"key":"csp_xpath_qiumi","name":"🏀球赛直播六","type": 3,"api": "csp_XPath3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/dj看球.json"},
-{"key":"csp_XYQBiu_310直播","name":"🏀球赛直播七","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/310直播.json"},
-{"key":"csp_XPath3_88","name":"🏀球赛直播八","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--sss604efuw.ml/tvb/xp/88看球.json"},
+{
+"key": "csp_XYQBiu_17看", "name":"🏀球赛直播五", "type":3, "api":"csp_XYQBiu", "searchable":0, "quickSearch":0, "filterable":0, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/17看.json"
+}
+
+,
+{
+"key": "csp_xpath_qiumi", "name":"🏀球赛直播六", "type": 3, "api": "csp_XPath3", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/dj看球.json"
+}
+
+,
+{
+"key": "csp_XYQBiu_310直播", "name":"🏀球赛直播七", "type":3, "api":"csp_XYQBiu", "searchable":0, "quickSearch":0, "filterable":0, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/310直播.json"
+}
+
+,
+{
+"key": "csp_XPath3_88", "name":"🏀球赛直播八", "type":3, "api":"XPath3", "searchable":0, "quickSearch":0, "filterable":0, "ext":"http://xn--sss604efuw.ml/tvb/xp/88看球.json"
+}
+
+,
 {
 "key": "VIPlive",
     "name": "🎀电视直播一",
@@ -503,13 +519,13 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "drpy_js_豆瓣", "name": "🎐豆瓣首页[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
+"key": "drpy_js_豆瓣", "name": "🎐豆瓣首页[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
 }
 
 ,
 {
 "key": "drpy_js_360影视",
-    "name": " 🎐360影视[DRPY]",
+    "name": " 🎐三六影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
@@ -518,7 +534,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_云播",
-    "name": " 🎐TVB云播[DRPY]",
+    "name": " 🎐TV云播[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/tva云播.js"
@@ -526,7 +542,11 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "csp_biubiu_爱港剧", "name":"💦爱港剧(XB)", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/MaooXB/爱港剧.json"
+"key": "drpy_js_看视界",
+    "name": " 🎐看清视界[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看视界.js"
 }
 
 ,
@@ -542,7 +562,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_酷云77",
-    "name": " 🎐酷云77[DRPY]",
+    "name": " 🎐酷云七七[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"
@@ -560,7 +580,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_快看",
-    "name": " 🎐快看[DRPY]",
+    "name": " 🎐快看影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"
@@ -569,7 +589,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_低端",
-    "name": " 🎐低端[DRPY]",
+    "name": " 🎐低端影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"
@@ -626,7 +646,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_555影视",
-    "name": " 🎐555影视[DRPY]",
+    "name": " 🎐三五影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"
@@ -636,7 +656,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_007影视",
-    "name": " 🎐007影视[DRPY]",
+    "name": " 🎐零七影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"
@@ -645,7 +665,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_cokemv",
-    "name": " 🎐cokemv[DRPY]",
+    "name": " 🎐可乐影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/cokemv.js"
@@ -655,7 +675,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_荐片",
-    "name": " 🎐荐片[DRPY]",
+    "name": " 🎐荐片影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/荐片.js"
@@ -664,7 +684,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_真不卡",
-    "name": " 🎐真不卡[DRPY]",
+    "name": " 🎐真的不卡[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"
@@ -673,7 +693,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_菜狗",
-    "name": " 🎐菜狗[DRPY]",
+    "name": " 🎐菜狗影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"
@@ -696,7 +716,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_310直播",
-    "name": " 🎐310直播[DRPY]",
+    "name": " 🎐三一直播[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/310直播.js"
@@ -705,18 +725,18 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 
 {
-"key": "drpy_js_JRS录像", "name": "🎐JRS录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS录像.js"
+"key": "drpy_js_JRS录像", "name": "🎐JR录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS录像.js"
 }
 
 ,
 {
-"key": "drpy_js_学生球赛录像[js1]", "name": "🎐NBA球赛录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/学生球赛录像[js1].js"
+"key": "drpy_js_学生球赛录像[js1]", "name": "🎐球赛录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/学生球赛录像[js1].js"
 }
 
 ,
 {
 "key": "drpy_js_JRKAN直播",
-    "name": " 🎐JRKAN直播[DRPY]",
+    "name": " 🎐JK直播[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRKAN直播.js"
@@ -725,7 +745,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_JRS看直播",
-    "name": " 🎐JRS看直播[DRPY]",
+    "name": " 🎐JR直播[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS看直播.js"
@@ -734,19 +754,10 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_JRS看球网",
-    "name": " 🎐JRS看球网[DRPY]",
+    "name": " 🎐JR看球[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS看球网.js"
-}
-
-,
-{
-"key": "drpy_js_310直播",
-    "name": " 🎐310直播[DRPY]",
-    "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/310直播.js"
 }
 
 ,
@@ -766,7 +777,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_HDmoli",
-    "name": " 🎐HDmoli[DRPY]",
+    "name": " 🎐HD影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HDmoli.js"
@@ -776,7 +787,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_星辰",
-    "name": " 🎐星辰[DRPY]",
+    "name": " 🎐星辰影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星辰.js"
@@ -794,7 +805,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_四个圈影视",
-    "name": " 🎐四个圈影视[DRPY]",
+    "name": " 🎐四圈影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/四个圈影视.js"
@@ -813,7 +824,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_JustLive",
-    "name": " 🎐JustLive[DRPY]",
+    "name": " 🎐只是生活[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JustLive.js"
@@ -824,7 +835,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_蛋蛋赞",
-    "name": " 🎐蛋蛋赞[DRPY]",
+    "name": " 🎐蛋蛋影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蛋蛋赞.js"
@@ -833,7 +844,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_69美剧",
-    "name": " 🎐69美剧[DRPY]",
+    "name": " 🎐六九美剧[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"
@@ -842,7 +853,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_唐人街影视",
-    "name": " 🎐唐人街影视[DRPY]",
+    "name": " 🎐唐人影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/唐人街影视.js"
@@ -851,7 +862,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_素白白",
-    "name": " 🎐素白白[DRPY]",
+    "name": " 🎐素白影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/素白白.js"
@@ -869,7 +880,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_TV蜂",
-    "name": " 🎐TV蜂[DRPY]",
+    "name": " 🎐TV蜂影[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/TV蜂.js"
@@ -878,7 +889,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_8号影院",
-    "name": " 🎐8号影院[DRPY]",
+    "name": " 🎐八号影院[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
@@ -896,7 +907,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_冲TMTV[飞]",
-    "name": " 🎐冲TMTV[飞][DRPY]",
+    "name": " 🎐冲飞TV[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/冲TMTV[飞].js"
@@ -905,7 +916,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_KUBO影视[飞]",
-    "name": " 🎐KUBO影视[飞][DRPY]",
+    "name": " 🎐KU影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/KUBO影视[飞].js"
@@ -923,7 +934,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_短视频",
-    "name": " 🎐短视频[DRPY]",
+    "name": " 🎐短短视频[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/短视频.js"
@@ -932,7 +943,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_麦豆",
-    "name": " 🎐麦豆[DRPY]",
+    "name": " 🎐麦豆影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"
@@ -941,15 +952,13 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_l0l",
-    "name": " 🎐l0l[DRPY]",
+    "name": " 🎐l0影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/l0l.js"
 }
 
 ,
-
-
 {
 "key": "drpy_js_番茄影视",
     "name": " 🎐番茄影视[DRPY]",
@@ -970,7 +979,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_喵喵",
-    "name": " 🎐喵喵[DRPY]",
+    "name": " 🎐喵喵影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"
@@ -1010,7 +1019,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_玄天",
-    "name": " 🎐玄天[DRPY]",
+    "name": " 🎐玄天影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/玄天.js"
@@ -1019,7 +1028,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_鸭奈飞",
-    "name": " 🎐鸭奈飞[DRPY]",
+    "name": " 🎐鸭奈影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"
@@ -1037,7 +1046,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_莫扎兔",
-    "name": " 🎐莫扎兔[DRPY]",
+    "name": " 🎐莫扎影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/莫扎兔.js"
@@ -1055,7 +1064,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_剧白白",
-    "name": " 🎐剧白白[DRPY]",
+    "name": " 🎐剧白影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/剧白白.js"
@@ -1064,7 +1073,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_库马伊",
-    "name": " 🎐库马伊[DRPY]",
+    "name": " 🎐库马影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/库马伊.js"
@@ -1083,7 +1092,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_麦豆com",
-    "name": " 🎐麦豆com[DRPY]",
+    "name": " 🎐麦豆影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆com.js"
@@ -1092,7 +1101,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_gaze",
-    "name": " 🎐gaze[DRPY]",
+    "name": " 🎐凝视影院[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/gaze.js"
@@ -1102,7 +1111,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_有声小说吧",
-    "name": " 🎐有声小说吧[DRPY]",
+    "name": " 🎐有声小说[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声小说吧.js"
@@ -1111,7 +1120,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_兔小贝",
-    "name": " 🎐兔小贝[DRPY]",
+    "name": " 🎐小贝影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"
@@ -1123,7 +1132,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 {
 "key": "drpy_js_AGE动漫",
-    "name": " 🎐AGE动漫[DRPY]",
+    "name": " 🎐AG动漫[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"
@@ -1132,7 +1141,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_omofun动漫",
-    "name": " 🎐omofun动漫[DRPY]",
+    "name": " 🎐OM动漫[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/omofun动漫.js"
@@ -1141,7 +1150,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "drpy_js_异世界动漫",
-    "name": " 🎐异世界动漫[DRPY]",
+    "name": " 🎐世界动漫[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/异世界动漫.js"
@@ -1149,42 +1158,42 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "drpy_js_LIBVIO", "name": "🎐LIBVIO[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"
+"key": "drpy_js_LIBVIO", "name": "🎐力波影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"
 }
 
 ,
 {
-"key": "drpy_js_小强迷", "name": "🎐小强迷[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小强迷.js"
+"key": "drpy_js_小强迷", "name": "🎐强迷影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小强迷.js"
 }
 
 ,
 {
-"key": "drpy_js_追剧喵", "name": "🎐追剧喵[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧喵.js"
+"key": "drpy_js_追剧喵", "name": "🎐追剧喵喵[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧喵.js"
 }
 
 ,
 {
-"key": "drpy_js_大师兄影视", "name": "🎐大师兄影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大师兄影视.js"
+"key": "drpy_js_大师兄影视", "name": "🎐师兄影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大师兄影视.js"
 }
 
 ,
 {
-"key": "drpy_js_秋霞", "name": "🎐秋霞[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"
+"key": "drpy_js_秋霞", "name": "🎐秋霞影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"
 }
 
 ,
 {
-"key": "drpy_js_AnFuns", "name": "🎐AnFuns[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
+"key": "drpy_js_AnFuns", "name": "🎐安芬影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
 }
 
 ,
 {
-"key": "drpy_js_Fun4K", "name": "🎐Fun4K[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/Fun4K.js"
+"key": "drpy_js_Fun4K", "name": "🎐4K影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/Fun4K.js"
 }
 
 ,
 {
-"key": "drpy_js_vidhub", "name": "🎐vidhub[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vidhub.js"
+"key": "drpy_js_vidhub", "name": "🎐微服影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vidhub.js"
 }
 
 ,
@@ -1545,11 +1554,6 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 
 ,
 {
-"name": "💋天4", "type":0, "url":" https://tljiaqing.nde.tw/m3u8/?url="
-}
-
-,
-{
 "name": "💋神1", "type":1, "url":"http://api.ckflv.cn/?url="
 }
 
@@ -1580,6 +1584,12 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 }
 
 ,
+{
+"name": "💋福3", "type":0, "url":" https://tljiaqing.nde.tw/m3u8/?url="
+}
+
+,
+
 {
 "name": "💋FTF1",
     "type":1,
