@@ -3,6 +3,7 @@
     "wallpaper": "https://壁纸.神器每日推送.tk",
         "wallpaper": "https://www.yydsys.top/api.php",
         "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo1112.jar;md5;52AD1EDC82B5C9E611474504C35C25D4",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;093C54007D7EB201AE22D0A6ECA75857",
         "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/12.jar;md5;md5;DF9E39F198F5C88289BC056700447A51",
         "lives": [ {
 
@@ -73,26 +74,10 @@
 }
 
 ,
-{
-"key": "AliPS", "name":"😻盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
-}
-
-,
-{
-"key": "FindZY", "name":"🐱资源", "type":3, "api":"csp_Zhaozy", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
-}
-
-,
-{
-"key": "csp_Yisou", "name":"🆎易搜", "type":3, "api":"csp_Yisou", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
-}
-
-,
-{
-"key": "csp_Upyunso", "name":"🎄云搜", "type":3, "api":"csp_Upyunso", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
-}
-
-,
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {
 "key": "csp_xBPQ_体育录像", "name":"🏀球赛录像一", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
