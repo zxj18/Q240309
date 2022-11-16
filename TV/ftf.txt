@@ -100,10 +100,12 @@
 
 ,
 {
-"key": "dr_学生球赛录像2[js1]", "name": "🏀球赛录像二", "type": 3, "api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://drpyfork.fenwe521.repl.co/admin/view/学生球赛录像[js1].js"
-}
-
-,
+"key":"drpy_js_学生球赛录像8",
+"name":"🏀球赛录像二",
+"type":3,
+"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
+"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/学生球赛录像.js"
+},
 {
 "key": "drpy_js_88看球0", "name": "🏀球赛直播一", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
