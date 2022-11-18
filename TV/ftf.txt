@@ -392,17 +392,8 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{
-"key": "csp_图图",
-    "name": "🌸SP | 图图",
-    "type": 3,
-    "api": "csp_AppTT",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
+{"key":"csp_AppTT","name":"🌸SP |图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.11.9:6628"},
+ 
 {
 "key": "KanSJ_spider",
     "name": "🌸SP | 视界",
@@ -1719,6 +1710,8 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 }
 
 ,
+{"name":"💋FTF5","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+{"name":"💋FTF6","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {
 "name": "酷云",
     "type": 1,
