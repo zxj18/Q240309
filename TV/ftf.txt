@@ -1606,8 +1606,13 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 
 ,
 {"name":"💋天2","type":1,"url":"http://150.158.175.250:88/parse/sign/f9eec288fdae85420df3ce01e62891e2?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"💋天3","type":1,"url":"http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="
+}
+
+,
+
 {
-"name":"💋天3", "type":1, "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+"name":"💋天4", "type":1, "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
 }
 
 ,
