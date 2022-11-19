@@ -345,6 +345,25 @@
 
 ,
 {
+
+"key":"csp_xb_lez3",
+"name":"🌸SP |乐猪",
+"type":3,
+"api":"csp_XBiu",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext": {
+
+    "homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
+    "playlist": {
+        "sort": 1
+    }
+}
+}
+
+,
+{
 "key": "棉花影视", "name":"🌸SP |棉花", "type":3, "api":"csp_MianHua", "searchable":1, "quickSearch":1, "filterable":0, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
 }
 
@@ -392,7 +411,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{"key":"csp_AppTT","name":"🌸SP |图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.11.9:6628"},
+{"key":"csp_AppTT","name":"🌸SP |图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  
 {
 "key": "KanSJ_spider",
