@@ -1594,25 +1594,23 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 }
 
 ,
-{
-
-"name":"💋天1",
-"type":1,
-"url":"http://3.37.195.161:54371/parse/api/dyg.js?url=",
-"header": {
-    "User-Agent": "Mozilla/5.0"
-}
-}
-
-,
-{"name":"💋天2","type":1,"url":"http://150.158.175.250:88/parse/sign/f9eec288fdae85420df3ce01e62891e2?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"💋天3","type":1,"url":"http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="
-}
-
-,
-
+{"name":"💋天1","type":1,"url":"http://150.158.175.250:88/parse/sign/f9eec288fdae85420df3ce01e62891e2?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"💋天2","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
+{"name":"💋天3","type":1,"url":"http://150.158.175.250:88/parse/sign/6a1ce4c80b891d3b2a417ee19a44c0cf?url="},
 {
 "name":"💋天4", "type":1, "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+}
+
+,
+
+{
+
+"name": "💋天5",
+"type": 1,
+"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
+"ext": {
+    "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]
+}
 }
 
 ,
@@ -1629,11 +1627,11 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 ,
 {
 
-"name": "💋地2",
-"type": 1,
-"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
-"ext": {
-    "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]
+"name":"💋地2",
+"type":1,
+"url":"http://3.37.195.161:54371/parse/api/dyg.js?url=",
+"header": {
+    "User-Agent": "Mozilla/5.0"
 }
 }
 
@@ -1669,23 +1667,25 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 }
 
 ,
+{"name":"💋地4","type":1,"url":"http://jx.vipmv.co/json.php?token=123457&url="},
 {
-"name": "💋神1", "type":1, "url":"http://api.ckflv.cn/?url="
+"name":"💋神1", "type":1, "url":"http://api.ckflv.cn/?url="
 }
 
 ,
 {
-"name": "💋神2", "type":0, "url":"https://h5.freejson.xyz/player/?url="
+"name":"💋神2", "type":0, "url":"https://h5.freejson.xyz/player/?url="
 }
 
 ,
 {
-"name": "💋神3", "type":0, "url":"https://freejx.rx88.top:1234/?url="
+"name":"💋神3", "type":0, "url":"https://freejx.rx88.top:1234/?url="
 }
 
 ,
+ {"name":"💋神4","type":1,"url":"http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {
-"name": "💋福1", "type":1, "url":"http://123.57.56.94:9931/lanlan/?url="
+"name":"💋福1", "type":1, "url":"http://123.57.56.94:9931/lanlan/?url="
 }
 
 ,
