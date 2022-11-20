@@ -71,7 +71,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "categories":["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片", "其他剧"]
+    "categories":["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片", "其他剧"],"jar": "http://w.g9.pub:66/381203888/jar/qj1119.jar"
+
 }
 
 ,
@@ -85,7 +86,7 @@
     "quickSearch":1,
     "filterable":0,
     "categories":["喜剧片", "爱情片", "犯罪片", "纪录片", "动漫片", "动作片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "国产剧", "欧美剧", "日本剧", "日韩剧", "韩剧", "日剧", "港剧", "香港剧", "台湾剧", "台剧", "韩国剧", "其它剧", "综艺", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "动漫", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "少儿", "伦理", "三级片", "其他片", "直播", "体育", "短视频", "美女", "MV", "解说", "电影", "连续剧"],
-    "jar": ""
+    "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1112.jar"
 }
 
 ,
@@ -368,6 +369,27 @@
 }
 
 ,
+ {
+      "key": "qiyou", 
+      "name": "️🌸SP |奇优", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
+    }, 
+{
+      "key": "csp_Vofilx", 
+      "name": "🌸SP |维夫", 
+      "type": 3, 
+      "api": "csp_Voflix", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
+    }, 
 {
 "key": "csp_Nmys", "name":"🌸SP |农民", "type":3, "api":"csp_Nmys", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
 }
@@ -411,8 +433,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{"key":"csp_AppTT","name":"🌸SP |图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
- 
+{"key":"AppTT","name":"🌸SP |图图","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/qj1119.jar"},
 {
 "key": "KanSJ_spider",
     "name": "🌸SP | 视界",
@@ -579,7 +600,16 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-
+{
+      "key": "csp_Mjxq", 
+      "name": "🌸SP |美剧", 
+      "type": 3, 
+      "api": "csp_Mjxq", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
+    },
 {
 "key": "Dm84",
     "name": "🌸SP |Dm",
@@ -1602,7 +1632,6 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 }
 
 ,
-
 {
 
 "name": "💋天5",
@@ -1611,6 +1640,16 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 "ext": {
     "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]
 }
+}
+
+,
+{
+"name":"💋天6", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
+}
+
+,
+{
+"name":"💋天7", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
 }
 
 ,
@@ -1668,6 +1707,39 @@ key: 'push_agent', name:'🎯推送', type:3, api:'csp_PushAgent', searchable:0,
 
 ,
 {"name":"💋地4","type":1,"url":"http://jx.vipmv.co/json.php?token=123457&url="},
+{
+"name":"💋地5", "type":1, "url":"https://json.legendwhb.cn/llq/?url="
+}
+
+,
+    {
+      "name": "💋地6", 
+      "type": 1, 
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=", 
+      "ext": {
+        "flag": [
+          "qq", 
+          "腾讯", 
+          "qiyi", 
+          "爱奇艺", 
+          "奇艺", 
+          "youku", 
+          "优酷", 
+          "sohu", 
+          "搜狐", 
+          "letv", 
+          "乐视", 
+          "mgtv", 
+          "芒果", 
+          "CL4K", 
+          "renrenmi", 
+          "ltnb", 
+          "bilibili", 
+          "1905", 
+          "xigua"
+        ]
+      }
+    }, 
 {
 "name":"💋神1", "type":1, "url":"http://api.ckflv.cn/?url="
 }
