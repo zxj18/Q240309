@@ -125,37 +125,84 @@
 
 ,
 {
-"key": "py_gitcafe", "name": " 🐦小纸条", "type": 3, "api": "py_gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_gitcafe.py"
-}
-
-,
-
+		"key": "py_jrskbs",
+		"name": "🎄JRS直播",
+		"type": 3,
+		"api": "py_jrskbs",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_jrskbs.py"
+	},  {
+		"key": "py_yytv",
+		"name": "🎄JRS直播2",
+		"type": 3,
+		"api": "py_yytv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_yytv.py"
+	}, 
 {
-"key": "py_zhaozy", "name": "🔋资源", "type": 3, "api": "py_zhaozy", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_zhaozy.py"
-}
-
-,
-{
-"key": "py_pansou", "name": "💎盘搜", "type": 3, "api": "py_pansou", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_pansou.py"
-}
-
-,
-{
-"key": "py_yiso", "name": "💠易搜", "type": 3, "api": "py_yiso", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yiso.py"
-}
-
-,
-{
-"key": "py_push_agent", "name": " 🐦阿里", "type": 3, "api": "py_ali", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_ali.py"
-}
-
-,
-
-{
-"key": "push_agent", "name": "🚩Py | 阿里", "type": 3, "api": "py_ali", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_ali.py"
-}
-
-,
+		"key": "py_freezb",
+		"name": "🎄nba体育",
+		"type": 3,
+		"api": "py_freezb",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_freezb.py"
+       },        
+       {
+		"key": "py_zhaozy",
+		"name": "🎄找资源",
+		"type": 3,
+		"api": "py_zhaozy",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_zhaozy.py"
+       }, 
+       {
+		"key": "py_pansou",
+		"name": "🎄盘搜",
+		"type": 3,
+		"api": "py_pansou",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_pansou.py"
+       },
+       {
+		"key": "py_yiso",
+		"name": "🎄易搜",
+		"type": 3,
+		"api": "py_yiso",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "clan://0TVbox/py/py_yiso.py"
+       },
+       {
+		"key": "py_yunso",
+		"name": "🎄云搜",
+		"type": 3,
+		"api": "py_yunso",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+      "ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_yunso.py"
+       },
+       {
+		"key": "py_gitcafe",
+		"name": "🎄小纸条",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/xinyi1984/xinyi/raw/branch/master/py_gitcafe.py"
+       }, 
 {
     "key": "AliPS", "name":"😻盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
 }
