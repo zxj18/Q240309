@@ -90,6 +90,28 @@
 }
 
 ,
+ {
+            "key": "csp_xpath_酷狗MV",
+            "name": "👑酷狗MV",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/KLBDY/000000/raw/branch/master/XYQ/酷狗MV.json"
+        },
+{
+      "key": "csp_xpath_kuqimv",
+      "name": "👑酷奇MV",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%85%B7%E5%A5%87MV.json"
+    },
+{"key":"csp_Bili1","name":"♒哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://w.g9.pub:66/381203888/json/bilibili_2.json","jar":"http://w.g9.pub:66/381203888/jar/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar"},
+{"key":"csp_Bili","name":"♒哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://www.qiaoji8.com/tvbox/bili.json","jar":"http://w.g9.pub:66/381203888/jar/qj1119.jar"},
 {
 "key": "Gitcafe3", "name": " ♒小纸条(一)", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "token;desc", "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
 }
@@ -144,6 +166,7 @@
 "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
 "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/学生球赛录像.js"
 },
+{"key":"YQK_spider","name":"🏀球赛直播零","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://rl1eetffv.bkt.clouddn.com/qj1121.jar;md5;536fa865c4502be4907a2c6759373de8"},
 {
 "key": "drpy_js_88看球0", "name": "🏀球赛直播一", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
@@ -300,6 +323,56 @@
 }
 
 ,
+ {
+            "key": "知识",
+            "name": "🌏知识┃学堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/1/json/xx1.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+        },
+        {
+            "key": "儿童",
+            "name": "🌏少儿┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/1/json/xx2.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+        },
+        {
+            "key": "小学",
+            "name": "🌏小学┃课堂小学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/1/json/xx3.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+        },
+        {
+            "key": "初中",
+            "name": "🌏初中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/1/json/xx4.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+        },
+        {
+            "key": "高中",
+            "name": "🌏高中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/1/json/xx5.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+        },
 {
 "key": "极速资源lz",
     "name": "🌸SP┃极速资源一",
