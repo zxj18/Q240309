@@ -155,7 +155,7 @@
 
 ,
 {
-"key": "紙條",
+"key": "纸条",
     "name": "♒小纸条(三)",
     "type": 3,
     "api": "csp_Paper",
@@ -407,7 +407,7 @@
         },
 {
 "key": "极速资源lz",
-    "name": "🌸SP┃极速资源一",
+    "name": "🌸影视┃极速资源一",
     "type": 1,
     "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
     "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说"]
@@ -416,7 +416,7 @@
 ,
 {
 "key": "极速资源xl",
-    "name": "🌸SP┃极速资源二",
+    "name": "🌸影视┃极速资源二",
     "type": 1,
     "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
     "searchable": 1,
@@ -428,7 +428,7 @@
 ,
 {
 "key": "极速资源gs",
-    "name": "🌸SP┃极速资源三",
+    "name": "🌸影视┃极速资源三",
     "type": 1,
     "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
     "searchable": 1,
@@ -441,7 +441,7 @@
 {
 
 "key":"csp_xb_lez3",
-"name":"🌸SP |乐猪",
+"name":"🌸影视 | 乐猪",
 "type":3,
 "api":"csp_XBiu",
 "searchable":1,
@@ -458,13 +458,13 @@
 
 ,
 {
-"key": "棉花影视", "name":"🌸SP |棉花", "type":3, "api":"csp_MianHua", "searchable":1, "quickSearch":1, "filterable":0, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
+"key": "棉花影视", "name":"🌸影视 | 棉花", "type":3, "api":"csp_MianHua", "searchable":1, "quickSearch":1, "filterable":0, "jar":"http://catvod.fun:8001/tv/qj.jar;md5;f6e93e53b2384e118aa1afb6286970fe"
 }
 
 ,
  {
       "key": "qiyou", 
-      "name": "️🌸SP |奇优", 
+      "name": "️🌸影视 | 奇优", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -475,7 +475,7 @@
     }, 
 {
       "key": "csp_Vofilx", 
-      "name": "🌸SP |维夫", 
+      "name": "🌸影视 | 维夫", 
       "type": 3, 
       "api": "csp_Voflix", 
       "searchable": 1, 
@@ -484,18 +484,18 @@
       "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
     }, 
 {
-"key": "csp_Nmys", "name":"🌸SP |农民", "type":3, "api":"csp_Nmys", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
+"key": "csp_Nmys", "name":"🌸影视 | 农民", "type":3, "api":"csp_Nmys", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
 }
 
 ,
 {
-key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickSearch:1, filterable:1, jar:'http://stevenfang.github.io/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c'
+key: 'IKan', name:'🌸影视 | 爱看', type:3, api:'csp_IKan', searchable:1, quickSearch:1, filterable:1, jar:'http://stevenfang.github.io/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c'
 }
 
 ,
 {
 "key": "csp_Kunyu77",
-    "name": "🌸SP | 七七",
+    "name": "🌸影视 | 七七",
     "type": 3,
     "api": "csp_Kunyu77",
     "searchable": 1,
@@ -506,7 +506,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "bdys01",
-    "name": "🌸SP | 哔嘀",
+    "name": "🌸影视 | 哔嘀",
     "api": "csp_Bdys01",
     "type": 3,
     "filterable": 1,
@@ -517,7 +517,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_LiteApple",
-    "name": "🌸SP | 苹果",
+    "name": "🌸影视 | 苹果",
     "type": 3,
     "api": "csp_LiteApple",
     "searchable": 1,
@@ -526,10 +526,10 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{"key":"AppTT","name":"🌸SP |图图","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/qj1119.jar"},
+{"key":"AppTT","name":"🌸影视 | 图图","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/qj1119.jar"},
 {
 "key": "KanSJ_spider",
-    "name": "🌸SP | 视界",
+    "name": "🌸影视 | 视界",
     "api": "csp_KanSJ",
     "type": 3,
     "filterable": 1,
@@ -540,7 +540,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "360_spider",
-    "name": "🌸SP| 三六",
+    "name": "🌸影视 | 三六",
     "api": "csp_SP360",
     "type": 3,
     "filterable": 1,
@@ -551,7 +551,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Bttoo",
-    "name": "🌸SP | BT",
+    "name": "🌸影视 | BT",
     "type": 3,
     "api": "csp_Bttoo",
     "searchable": 1,
@@ -562,7 +562,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "快看影视",
-    "name": "🌸SP | 快看",
+    "name": "🌸影视 | 快看",
     "type": 3,
     "api": "csp_Kuaikan",
     "searchable": 1,
@@ -573,7 +573,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "追剧喵",
-    "name": "🌸SP | 追剧",
+    "name": "🌸影视 | 追剧",
     "type": 3,
     "api": "csp_ZJMiao",
     "searchable": 1,
@@ -584,7 +584,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Auete",
-    "name": "🌸SP | 乌衣",
+    "name": "🌸影视 | 乌衣",
     "type": 3,
     "api": "csp_Auete",
     "searchable": 1,
@@ -594,7 +594,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "csp_Cokemv",
-    "name": "🌸SP | 可乐",
+    "name": "🌸影视 | 可乐",
     "type": 3,
     "api": "csp_Cokemv",
     "searchable": 1,
@@ -605,7 +605,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "影图",
-    "name": "🌸SP | 影图",
+    "name": "🌸影视 | 影图",
     "type": 1,
     "api": "https://cj.vodimg.top/api.php/provide/vod/",
     "searchable": 1,
@@ -615,7 +615,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Lib",
-    "name": "🌸SP | 力播",
+    "name": "🌸影视 | 力播",
     "type": 3,
     "api": "csp_Lib",
     "searchable": 1,
@@ -624,10 +624,11 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{"key":"SP_CZYS","name":"🌸SP | 厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/ts1122.jar;md5;517cbee472fc544a9d629eec245dea63"},
+{"key":"csp_CZSPP","name":"🌸影视 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0
+,"ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/czzy1122.jar;md5;86313361c18c73747f644e5e5156d2ca"},
 {
 "key": "csp_dd5555",
-    "name": "🌸SP | 三五",
+    "name": "🌸影视 | 三五",
     "api": "csp_Dy555",
     "type": 3,
     "filterable": 1,
@@ -638,7 +639,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Yanet",
-    "name": "🌸SP |亚呢",
+    "name": "🌸影视 | 亚呢",
     "type": 3,
     "api": "csp_Yanet",
     "searchable": 1,
@@ -649,7 +650,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 ,
 {
 "key": "Lgyy",
-    "name": "🌸SP |蓝光",
+    "name": "🌸影视 | 蓝光",
     "type": 3,
     "api": "csp_Lgyy",
     "searchable": 1,
@@ -659,34 +660,25 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "Pang", "name":"🌸SP |胖虎", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+"key": "Pang", "name":"🌸影视 | 胖虎", "type":"3", "api":"csp_Dora", "searchable":"1", "quickSearch":"1", "filterable":"1", "ext":"c41fdb671b20925c76fa9b6ff8bad027", "jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
 }
 
 ,
-{"key": "XMM","name": "🌸SP |猫咪","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]},
+{"key": "XMM","name": "🌸影视 | 猫咪","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]},
+{"key":"csp_Dy1010","name":"🌸影视 | 双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/panda.jar"},
 {
-      "key": "Hei1", 
-      "name": "🌸SP |石榴", 
-      "type": "3", 
-      "api": "csp_Dora", 
-      "searchable": "1", 
-      "quickSearch": "1", 
-      "filterable": "1", 
-      "ext": "3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://download.kstore.space/download/3450/custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63"
-    }, 
-{
-"key": "csp_Nkdy", "name":"🌸SP |南柯", "type":3, "api":"csp_Nkdy", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+"key": "csp_Nkdy", "name":"🌸影视 | 南柯", "type":3, "api":"csp_Nkdy", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
 }
 
 ,
 {
-"key": "csp_Xxys", "name":"🌸SP |小熊", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
+"key": "csp_Xxys", "name":"🌸影视 | 小熊", "type":3, "api":"csp_Xxys", "searchable":1, "quickSearch":1, "filterable":1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
 }
 
 ,
 {
       "key": "csp_Mjxq", 
-      "name": "🌸SP |美剧", 
+      "name": "🌸影视 | 美剧", 
       "type": 3, 
       "api": "csp_Mjxq", 
       "searchable": 1, 
@@ -696,7 +688,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
     },
 {
 "key": "Dm84",
-    "name": "🌸SP |Dm",
+    "name": "🌸影视 | Dm",
     "type": 3,
     "api": "csp_Dm84",
     "searchable": 1,
@@ -1148,11 +1140,11 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "drpy_js_番茄影视",
-    "name": " 🎐番茄影视[DRPY]",
+"key": "drpy_js_西红柿影视",
+    "name": " 🎐西红柿影视[DRPY]",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/番茄影视.js"
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/西红柿影视.js"
 }
 
 ,
@@ -1492,7 +1484,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
-"key": "csp_xBPQ_番茄影视", "name":"🎈PQ|番茄影视", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/番茄影视.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+"key": "csp_xBPQ_西红柿影视", "name":"🎈PQ|西红柿影视", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/西红柿影视.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
