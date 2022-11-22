@@ -113,6 +113,38 @@
 {"key":"csp_Bili1","name":"♒哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://w.g9.pub:66/381203888/json/bilibili_2.json","jar":"http://w.g9.pub:66/381203888/jar/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar"},
 {"key":"csp_Bili","name":"♒哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://www.qiaoji8.com/tvbox/bili.json","jar":"http://w.g9.pub:66/381203888/jar/qj1119.jar"},
 {
+      "key": "csp_Alist",
+      "name": "♒网盘资源",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 0,
+      "playerType": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "💢小雅":"http://alistxy.ganggang.live:5678",
+        "🦀9T(Adult)": "https://drive.9t.ee",
+        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
+        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
+        "💂小兵组网盘影视": "https://6vv.app",
+        "🐋一只鱼": "https://alist.youte.ml",
+        "🌊七米蓝": "https://al.chirmyram.com",
+        "🥼帅盘": "https://hi.shuaipeng.wang",
+        "🐉神族九帝": "https://alist.shenzjd.com",
+        "☃️姬路白雪": "https://pan.jlbx.xyz",
+        "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
+        "💾DISK": "http://124.222.140.243:8080",
+        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
+        "✨星梦": "https://pan.bashroot.top",
+        "💫触光": "https://pan.ichuguang.com",
+        "🕵️好汉吧": "https://8023.haohanba.cn",
+        "💢repl": "https://ali.liucn.repl.co",
+        "🌨秋雨分享": "https://share.laowang.me",
+        "💦讯维云盘": "https://pan.xwbeta.com"
+      },
+  "jar": "http://home.jundie.top:81/jar/top98_1.jar"
+    },
+{
 "key": "Gitcafe3", "name": " ♒小纸条(一)", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "token;desc", "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
 }
 
@@ -395,20 +427,8 @@
 
 ,
 {
-"key": "极速资源三",
-    "name": "🌸SP┃极速资源三",
-    "type": 1,
-    "api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "泰国剧", "海外剧", "灾难片", "犯罪片", "悬疑片", "惊悚片", "奇幻片", "冒险片", "武侠片", "纪录片", "动画片", "国产动漫", "日韩动漫", "欧美动漫", "国内综艺", "海外综艺"]
-}
-
-,
-{
 "key": "极速资源gs",
-    "name": "🌸SP┃极速资源四",
+    "name": "🌸SP┃极速资源三",
     "type": 1,
     "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
     "searchable": 1,
@@ -604,17 +624,7 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{
-"key": "csp_CZSPP",
-    "name": "🌸SP | 厂长",
-    "type": 3,
-    "api": "csp_Czsapp",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
+{"key":"SP_CZYS","name":"🌸SP | 厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/ts1122.jar;md5;517cbee472fc544a9d629eec245dea63"},
 {
 "key": "csp_dd5555",
     "name": "🌸SP | 三五",
@@ -653,16 +663,17 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
+{"key": "XMM","name": "🌸SP |猫咪","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]},
 {
-"key": "csp_fant", "name":"🌸SP |饭团", "api":"csp_Fantuan", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
-}
-
-,
-{
-"key": "csp_Dy1010", "name":"🌸SP |双十", "type":3, "api":"csp_Dy1010", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
-}
-
-,
+      "key": "Hei1", 
+      "name": "🌸SP |石榴", 
+      "type": "3", 
+      "api": "csp_Dora", 
+      "searchable": "1", 
+      "quickSearch": "1", 
+      "filterable": "1", 
+      "ext": "3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://download.kstore.space/download/3450/custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63"
+    }, 
 {
 "key": "csp_Nkdy", "name":"🌸SP |南柯", "type":3, "api":"csp_Nkdy", "searchable":1, "quickSearch":1, "filterable":1, "jar":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e"
 }
@@ -1324,6 +1335,11 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 
 ,
 {
+"key": "drpy_js_布雷蓝光", "name": "🎐布雷蓝光[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+}
+
+,
+{
 "key": "drpy_js_vidhub", "name": "🎐微服影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vidhub.js"
 }
 
@@ -1383,18 +1399,60 @@ key: 'IKan', name:'🌸SP |爱看', type:3, api:'csp_IKan', searchable:1, quickS
 }
 
 ,
-{
-"key": "csp_xBPQ_图图", "name":"🎈PQ|图图影视", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/xBPQ/图图.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-}
-
-,
+ {
+      "key": "csp_XBPQ_6080",
+      "name": "🎈PQ|6080电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext":{
+        "请求头": "手机",
+        "起始页": "1",
+        "二次截取": "<div class=\"module-list\">&&<div class=\"mx-lrmenu\">[替换:<div class=\"fixed_right_bar\">>><div class=\"module-item\">]||首页--最新热播&&<div  class=\"module-main\"[替换:<div class=\"module module-wrapper\">>><div class=\"module-item\">]",
+        "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">[不包含:理论片]",
+        "副标题": "class=\"module-item-text\"&&<",
+        "线路数组": "class=\"module-tab-item tab-item\"&&</div>[排序:极速播放>在线观看]",
+        "线路标题": "<span>&&</small>[替换:</span>>>（更至]+集）",
+        "影片年代": "<a class=\"tag-link\"*>&&</a>",
+        "导演": "导演：</span>&&</a>",
+        "演员": "主演：</span>&&</div>",
+        "简介": "剧情：</span>&&</span>",
+        "播放数组": "<div class=\"sort-item\"&&</div>",
+        "播放列表": "<!--&&-->",
+        "免嗅": "1",
+        "嗅探词": ".m3u8#.mp4",
+        "过滤词": ".html#url=http",
+        "搜索模式": "0",
+        "搜索链接前缀": "/video/",
+        "搜索链接后缀": ".html",
+        "分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影&电视剧&综艺&动漫",
+        "分类值": "1&2&3&4",
+        "类型": "动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&纪录片&悬疑片&犯罪片&冒险片&动画片&惊悚片&奇幻片国产剧&欧美剧&日韩剧&港台剧&泰剧&海外剧大陆综艺&日韩综艺&港台综艺&欧美综艺&演唱会||国产动漫&日韩动漫&欧美动漫&港台动漫",
+        "类型值": "25&26&27&28&30&31&33&35&36&38&40&41&43&4442&45&47&49&51&5220&21&22&23&24||29&32&34&37",
+        "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他",
+        "剧情值": "*",
+        "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他内地&港台&日韩&欧美||国产&日本&欧美&其他",
+        "筛选": "1"
+      },"jar": "http://home.jundie.top:81/jar/top98_1.jar"  },
+{"key": "csp_XBPQ_南瓜影视",
+      "name": "🎈PQ|南瓜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html", "jar": "http://home.jundie.top:81/jar/top98_1.jar"
+    },
 {
 "key": "csp_xBPQ_TVB", "name":"🎈PQ|TVB云播", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/xBPQ/TVB.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
 {
-"key": "csp_xBPQ_VOFLIX", "name":"🎈PQ|VOFLIX", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/VOFLIX.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
+"key":"csp_xBPQ_VOFLIX", "name":"🎈PQ|VOFLIX","type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/VOFLIX.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
 }
 
 ,
