@@ -198,7 +198,7 @@
 "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
 "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/学生球赛录像.js"
 },
-{"key":"YQK_spider","name":"🏀球赛直播零","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/czzy1122.jar;md5;86313361c18c73747f644e5e5156d2ca"
+{"key":"YQK_spider","name":"🏀球赛直播零","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/czzy1123.jar;md5;86313361c18c73747f644e5e5156d2ca"
 },
 {
 "key": "drpy_js_88看球0", "name": "🏀球赛直播一", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
@@ -625,8 +625,7 @@ key: 'IKan', name:'🌸影视 | 爱看', type:3, api:'csp_IKan', searchable:1, q
 }
 
 ,
-{"key":"csp_CZSPP","name":"🌸影视 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0
-,"ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/czzy1122.jar;md5;86313361c18c73747f644e5e5156d2ca"},
+{"key":"csp_CZSPP","name":"🌸影视 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/czzy1123.jar;md5;86313361c18c73747f644e5e5156d2ca"},
 {
 "key": "csp_dd5555",
     "name": "🌸影视 | 三五",
