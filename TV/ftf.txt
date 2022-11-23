@@ -198,8 +198,7 @@
 "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
 "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/学生球赛录像.js"
 },
-{"key":"YQK_spider","name":"🏀球赛直播零","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/czzy1123.jar;md5;86313361c18c73747f644e5e5156d2ca"
-},
+{"key":"YQK_spider","name":"🏀球赛直播零","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://w.g9.pub:66/381203888/Jar/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
 {
 "key": "drpy_js_88看球0", "name": "🏀球赛直播一", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
@@ -2541,3 +2540,5 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 "cms.qdwght.com"
 ]
 }
+
+
