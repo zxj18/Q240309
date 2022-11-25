@@ -290,16 +290,17 @@
 
 ,
 {
-"key": "zhibo2",
-    "name": "🎀电视直播三",
-    "type": 4,
-    "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly9hZ2l0LmFpL3NzaW9wNzg5Lzk5OS9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ=",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
+      "key": "zhibo2", 
+      "name": "🎀电视直播三", 
+      "type": 3, 
+      "api": "csp_xBPQ", 
+      "filterable": 0, 
+      "quickSearch": 0, 
+      "searchable": 0, 
+      "playerType": "1", 
+      "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773", 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zhibo.json"
+    }, 
 {
 "key": "zhibo3",
     "name": "🎀电视直播四",
@@ -348,7 +349,7 @@
 "key": "zhibo8",
     "name": "🎀电视直播八",
     "type": 4,
-    "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly96enpsbGxtbW0ubmVvY2l0aWVzLm9yZy9saXZlLnR4dA==",
+    "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly9hZ2l0LmFpL3plbmdqaWFuL2hhbi9yYXcvYnJhbmNoL21hc3Rlci90di9teXR2LnR4dA==",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -526,18 +527,19 @@ key: 'IKan', name:'🌸影视 | 爱看', type:3, api:'csp_IKan', searchable:1, q
 }
 
 ,
-{"key":"AppTT","name":"🌸影视 | 图图","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/qj1119.jar"},
-{
-"key": "KanSJ_spider",
-    "name": "🌸影视 | 视界",
-    "api": "csp_KanSJ",
-    "type": 3,
-    "filterable": 1,
-    "quickSearch": 1,
-    "searchable": 1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar"
-}
-
-,
+{"key":"Tutu_spider","name":"🌸影视 | 图图","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
+ {
+      "key": "4K", 
+      "name": "🌸影视 | 4K", 
+      "type": 3, 
+      "api": "csp_xBPQ", 
+      "filterable": 1, 
+      "quickSearch": 1, 
+      "searchable": 1, 
+      "playerType": "1", 
+      "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773", 
+      "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+    }, 
 {
 "key": "360_spider",
     "name": "🌸影视 | 三六",
@@ -1785,17 +1787,16 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 }
 
 ,
-{"name":"💋天1","type":1,"url":"http://150.158.175.250:88/parse/sign/f9eec288fdae85420df3ce01e62891e2?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"💋天1","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=233711&key=dgilouvFKNRSWX2467&url="},
 {"name":"💋天2","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
-{"name":"💋天3","type":1,"url":"http://150.158.175.250:88/parse/sign/6a1ce4c80b891d3b2a417ee19a44c0cf?url="},
 {
-"name":"💋天4", "type":1, "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+"name":"💋天3", "type":1, "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
 }
 
 ,
 {
 
-"name": "💋天5",
+"name": "💋天4",
 "type": 1,
 "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
 "ext": {
@@ -1805,12 +1806,17 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 
 ,
 {
-"name":"💋天6", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
+"name":"💋天5", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
 }
 
 ,
 {
-"name":"💋天7", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
+"name":"💋天6", "type":1, "url":"http://api.kunyu77.com/api.php/provide/parserUrl?url="
+}
+
+,
+{
+"name":"💋天7", "type":1, "url":"https://vip.swuii.top/player/analysis.php?v="
 }
 
 ,
