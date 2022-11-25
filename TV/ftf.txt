@@ -145,12 +145,17 @@
   "jar": "http://home.jundie.top:81/jar/top98_1.jar"
     },
 {
-"key": "Gitcafe3", "name": " ♒小纸条(一)", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "ext": "token;desc", "jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/top97.jar"
+    "key":"Gitcafe", "name":"♒小纸条(一)", "type":3, "api":"csp_GitCafe", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/token.txt", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/qf1124.jar;md5; fcbe547de02e72d05149d3be9f275391"
 }
 
 ,
 {
-"key": "Gitcafe", "name":"♒小纸条(二)", "type":3, "api":"csp_Gitcafe", "searchable":1, "quickSearch":1, "filterable":1, "ext":"daae36603bcd490681bdd8d03940783a;desc ", "jar":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840"
+"key":"Gitcafe1", "name":"♒小纸条(二)",
+"type": 3,
+    "api": "csp_Gitcafe",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable":1, "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/alitoken.json", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/Ross.jar"
 }
 
 ,
@@ -161,28 +166,28 @@
     "api": "csp_Paper",
     "searchable": 1,
     "filterable": 1,
-    "ext": "http://home.jundie.top:666/token.txt",
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;50312162df32af94104285e780c504fe"
 }
 
 ,
 {
-    "key": "AliPS", "name":"😻盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    "key": "AliPS", "name":"😻阿里盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
 }
 
 ,
 {
-"key": "FindZY", "name":"🦊资源", "type":3, "api":"csp_Zhaozy", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+"key": "FindZY", "name":"🦊阿里资源", "type":3, "api":"csp_Zhaozy", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
 }
 
 ,
 {
-"key": "csp_Yisou", "name":"🆎易搜", "type":3, "api":"csp_Yisou", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+"key": "csp_Yisou", "name":"🆎阿里易搜", "type":3, "api":"csp_Yisou", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
 }
 
 ,
 {
-"key": "csp_Upyunso", "name":" 🔋云搜", "type":3, "api":"csp_Upyunso", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+"key": "csp_Upyunso", "name":"🔋阿里云搜", "type":3, "api":"csp_Upyunso", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
 }
 
 ,
@@ -527,7 +532,7 @@ key: 'IKan', name:'🌸影视 | 爱看', type:3, api:'csp_IKan', searchable:1, q
 }
 
 ,
-{"key":"Tutu_spider","name":"🌸影视 | 图图","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
+{ "key": "AppTT","name":"🌸影视 | 图图","type": 3,"api":"csp_Dora","jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
  {
       "key": "4K", 
       "name": "🌸影视 | 4K", 
@@ -1816,10 +1821,7 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 
 ,
 {
-"name":"💋天7", "type":1, "url":"https://vip.swuii.top/player/analysis.php?v="
-}
-
-,
+"name":"💋天7","type":1, "url":"http://150.158.175.250:88/parse/sign/552a0ef4c229907ea84dd1c7068ff063?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {
 
     "name": "💋地1",
