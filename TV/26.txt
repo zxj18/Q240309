@@ -1,0 +1,124 @@
+﻿{
+ "urls": [ 
+{
+   "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/ftf.txt",
+            "name":"🎈线路01🎈"
+    }
+
+    ,
+    {
+    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+        "name":"🎈线路02🎈"
+}
+
+,
+{
+"url": "http://饭太硬.ga/x/o.json",
+    "name": "🎈线路03🎈"
+}
+
+,
+
+{
+"url": "https://神器每日推送.tk/pz.json",
+    "name":"🎈线路04🎈"
+}
+
+,
+{
+"url": "http://drpy.site/js1",
+    "name":"🎈线路05🎈"
+}
+
+,
+{
+"url": "https://tvbox.cainisi.cf",
+    "name":"🎈线路06🎈"
+}
+
+,
+{
+"url": "https://0dlj.cn/yyds",
+    "name":"🎈线路07🎈"
+}
+
+,
+{
+"url": "http://w.g9.pub:66/381203888/666.json",
+    "name":"🎈线路08🎈"
+}
+
+,
+{
+"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
+    "name":"🎈线路09🎈"
+}
+
+,
+{
+"url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+    "name":"🎈线路10🎈"
+}
+
+,
+{
+"url": "https://agit.ai/abkier/My9394/raw/branch/master/不良帅.m3u8",
+    "name":"🎈线路11🎈"
+}
+
+,
+{
+"url": "https://agit.ai/abkier/My9394/raw/branch/master/js.m3u8",
+    "name":"🎈线路12🎈"
+}
+
+,
+{
+"url": "https://agit.ai/abkier/My9394/raw/branch/master/ProfessionalEdition.m3u8",
+    "name":"🎈线路13🎈"
+}
+
+,
+{
+"url": "https://agit.ai/675677715/test/raw/branch/master/json/2%e6%96%b0%e8%a7%84%e5%88%99.txt",
+    "name":"🎈线路14🎈"
+}
+
+,
+{
+"url": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/zz.json",
+    "name":"🎈线路15🎈"
+}
+
+,
+{
+"url": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json",
+    "name":"🎈线路16🎈"
+}
+
+,
+{
+"url":"http://2ha.cc/tv",
+    "name":"🎈线路17🎈"
+}
+
+,
+{
+"url": "https://白嫖.live/白嫖",
+    "name":"🎈线路18🎈"
+}
+
+,
+{
+"url": "http://9xi4o.tk/0725.json",
+    "name":"🎈线路19🎈"
+}
+
+,
+{
+"url": "http://52bsj.vip:98/wuai",
+    "name":"🎈线路20🎈"
+}
+]
+}
+
