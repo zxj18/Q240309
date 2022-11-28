@@ -2,13 +2,13 @@
  "urls": [ 
 {
    "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/ftf.txt",
-            "name":"🎈01自 用🎈"
+            "name":"🎈01自  用🎈"
     }
 
     ,
     {
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-        "name":"🎈02终 南🎈"
+        "name":"🎈02终  南🎈"
 }
 
 ,
@@ -21,13 +21,13 @@
 
 {
 "url": "https://神器每日推送.tk/pz.json",
-    "name":"🎈04神 器🎈"
+    "name":"🎈04神  器🎈"
 }
 
 ,
 {
 "url": "http://9xi4o.tk/0725.json",
-    "name":"🎈05星 河🎈"
+    "name":"🎈05星  河🎈"
 }
 
 ,
@@ -39,25 +39,25 @@
 ,
 {
 "url": "https://0dlj.cn/yyds",
-    "name":"🎈07多 多🎈"
+    "name":"🎈07多  多🎈"
 }
 
 ,
 {
-"url": "http://w.g9.pub:66/381203888/666.json",
-    "name":"🎈08肥 猫🎈"
+"url": "http://w.g9.pub:66/381203888/panda.jpg",
+    "name":"🎈08肥  猫🎈"
 }
 
 ,
 {
 "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
-    "name":"🎈09张 宏🎈"
+    "name":"🎈09张  宏🎈"
 }
 
 ,
 {
 "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-    "name":"🎈10巧 记🎈"
+    "name":"🎈10巧  记🎈"
 }
 
 ,
@@ -81,31 +81,31 @@
 ,
 {
 "url": "https://agit.ai/675677715/test/raw/branch/master/json/2%e6%96%b0%e8%a7%84%e5%88%99.txt",
-    "name":"🎈14网 络🎈"
+    "name":"🎈14网  络🎈"
 }
 
 ,
 {
 "url": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/zz.json",
-    "name":"🎈15Z Z🎈"
+    "name":"🎈15三  Z🎈"
 }
 
 ,
 {
 "url": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json",
-    "name":"🎈16小 米🎈"
+    "name":"🎈16小  米🎈"
 }
 
 ,
 {
 "url":"http://2ha.cc/tv",
-    "name":"🎈17二 哈🎈"
+    "name":"🎈17二  哈🎈"
 }
 
 ,
 {
-"url": "https://白嫖.live/白嫖",
-    "name":"🎈18唐 三🎈"
+"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
+    "name":"🎈18道  长🎈"
 }
 
 ,
@@ -117,7 +117,7 @@
 ,
 {
 "url": "http://52bsj.vip:98/wuai",
-    "name":"🎈20吾 爱🎈"
+    "name":"🎈20吾  爱🎈"
 }
 ]
 }

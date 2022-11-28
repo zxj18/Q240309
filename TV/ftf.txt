@@ -210,10 +210,22 @@
 
 ,
 {
-"key": "csp_xBPQ_体育录像", "name":"🏀球赛录像一", "type":3, "api":"csp_xBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/xb_体育录像.json", "jar":"https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-}
-
-,
+"key": "体育录像",
+"name": "🏀球赛录像一",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": {
+"首页": "比赛录像",
+"直接播放": "1",
+"编码": "GBK",
+"分类url": "http://miejw.com/html/{cateId}/{catePg}.html[http://miejw.com/html/{cateId}/]",
+"分类": "比赛录像$mvideo",
+"二次截取": "<ul class=\"list lh24 f14\">&&</ul>",
+"图片": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500"
+}, "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/zy.jar"},
 {
 "key": "drpy_js_学生球赛录像8",
     "name":"🏀球赛录像二",
@@ -224,7 +236,7 @@
 
 ,
 {
-"key": "YQK_spider", "name":"🏀球赛直播零", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"http://w.g9.pub:66/381203888/Jar/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"
+"key": "YQK_spider", "name":"🏀球赛直播零", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/qj.jar"
 }
 
 ,
@@ -268,10 +280,15 @@
 
 ,
 {
-"key": "csp_XPath3_88", "name":"🏀球赛直播八", "type":3, "api":"XPath3", "searchable":0, "quickSearch":0, "filterable":0, "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88kq.json"
-}
-
-,
+      "key": "csp_XYQHiker_无插件直播(XYQ)",
+      "name": "🏀球赛直播八",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/XYQ/%e6%97%a0%e6%8f%92%e4%bb%b6%e7%9b%b4%e6%92%ad.json"
+        },
 {
 "key": "JRS赛事直播00",
 "name": "🏀球赛直播九",
@@ -387,6 +404,33 @@
 }
 
 ,
+    {
+      "key": "zhibo9",
+      "name": "🎀电视直播九",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/z454234293/zg/raw/branch/master/xinghe.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },   
+   {
+      "key": "zhibo10",
+      "name": "🎀电视直播十",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/z454234293/zg/raw/branch/master/xingchen.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhibo12",
+      "name": "🎀电视直播零",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/z454234293/zg/raw/branch/master/yueguang.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
@@ -2613,3 +2657,4 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 "cms.qdwght.com"
 ]
 }
+
