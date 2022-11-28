@@ -404,33 +404,7 @@
 }
 
 ,
-    {
-      "key": "zhibo9",
-      "name": "🎀电视直播九",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=https://agit.ai/z454234293/zg/raw/branch/master/xinghe.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
-   {
-      "key": "zhibo10",
-      "name": "🎀电视直播十",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=https://agit.ai/z454234293/zg/raw/branch/master/xingchen.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zhibo12",
-      "name": "🎀电视直播零",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=https://agit.ai/z454234293/zg/raw/branch/master/yueguang.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
