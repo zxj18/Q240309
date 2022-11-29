@@ -1,0 +1,185 @@
+﻿{
+    "urls": [ {
+        "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/ftf.txt",
+            "name":"🎈01自  用🎈"
+    }
+
+    ,
+    {
+    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+        "name":"🎈02终  南🎈"
+}
+
+,
+{
+"url": "http://饭太硬.ga/x/o.json",
+    "name": "🎈03饭太硬🎈"
+}
+
+,
+
+{
+"url": "https://神器每日推送.tk/pz.json",
+    "name":"🎈04神  器🎈"
+}
+
+,
+{
+"url": "http://9xi4o.tk/0725.json",
+    "name":"🎈05星  河🎈"
+}
+
+,
+{
+"url": "https://tvbox.cainisi.cf",
+    "name":"🎈06菜妮丝🎈"
+}
+
+,
+{
+"url": "https://0dlj.cn/yyds",
+    "name":"🎈07多  多🎈"
+}
+
+,
+{
+"url": "http://w.g9.pub:66/381203888/panda.jpg",
+    "name":"🎈08肥  猫🎈"
+}
+
+,
+{
+"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
+    "name":"🎈09张  宏🎈"
+}
+
+,
+{
+"url": "http://pandown.pro/tvbox/tvbox.json",
+    "name":"🎈10巧  记🎈"
+}
+
+,
+{
+"url": "https://agit.ai/abkier/My9394/raw/branch/master/不良帅.m3u8",
+    "name":"🎈11不良帅🎈"
+}
+
+,
+{
+"url": "https://agit.ai/abkier/My9394/raw/branch/master/js.m3u8",
+    "name":"🎈12不良帅🎈"
+}
+
+,
+{
+"url": "https://agit.ai/abkier/My9394/raw/branch/master/ProfessionalEdition.m3u8",
+    "name":"🎈13不良帅🎈"
+}
+
+,
+{
+"url": "https://agit.ai/675677715/test/raw/branch/master/json/2%e6%96%b0%e8%a7%84%e5%88%99.txt",
+    "name":"🎈14网  络🎈"
+}
+
+,
+{
+"url": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/zz.json",
+    "name":"🎈15三  Z🎈"
+}
+
+,
+{
+"url": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json",
+    "name":"🎈16小  米🎈"
+}
+
+,
+{
+"url": "http://2ha.cc/tv",
+    "name":"🎈17二  哈🎈"
+}
+
+,
+{
+"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
+    "name":"🎈18道  长🎈"
+}
+
+,
+{
+"url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/js.json",
+    "name":"🎈19 JS01🎈"
+}
+
+,
+
+{
+"url": "https://xn--nlro93c.live/%E5%A5%BD%E9%AA%9A",
+    "name":"🎈20白大佬🎈"
+}
+
+,
+{
+"url": "http://52bsj.vip:98/wuai",
+    "name":"🎈21吾  爱🎈"
+}
+
+,
+{
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
+    "name": "🎈22JS02🎈"
+}
+
+,
+{
+"url": "https://cdn.jsdelivr.net/gh/zqk219/baip@main/JS/js.json",
+    "name": "🎈23JS03🎈"
+}
+
+,
+{
+"url": "http://home.jundie.top:81/top98.json",
+    "name": "🎈24俊  哥🎈"
+}
+
+,
+{
+"url": "https://hutool.ml/tang",
+    "name": "🎈25唐  三🎈"
+}
+
+,
+
+{
+"url": "http://52bsj.vip:98/sansan",
+    "name": "🎈26盒子汇🎈"
+}
+
+,
+{
+"url":"https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+    "name": "🎈27潇  洒🎈"
+}
+
+,
+{
+"url": "https://agit.ai/rolf/LEM/raw/branch/master/000.json",
+    "name": "🎈28LEM专属🎈"
+}
+
+,
+{
+"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+    "name": "🎈29五  六🎈"
+}
+
+,
+{
+"url": "http://101.34.67.237/config/3",
+    "name": "🎈30道长T4🎈"
+}
+
+]
+}
