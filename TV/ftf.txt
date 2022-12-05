@@ -3,6 +3,8 @@
     "wallpaper": "https://壁纸.神器每日推送.tk",
     "wallpaper": "https://www.yydsys.top/api.php",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
+"spider":
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
     "lives": [ {
 
         "group": "redirect",
@@ -569,11 +571,7 @@
 }
 
 ,
-{
-"key": "csp_AppTT", "name":"🌸影视 | 图图", "type":3, "api":"csp_AppTT", "searchable":1, "quickSearch":1, "filterable":1, "ext":"http://110.42.6.212:7788"
-}
-
-,
+{"key":"AppTT","name":"🌸影视 | 图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"},
 {
 "key": "csp_DiDuan", "name":"🌸影视 | 低端", "type":3, "api":"csp_Ddrk", "click":"ddys.tv;#vjsp > button", "searchable":1, "quickSearch":1, "filterable":0
 }
@@ -691,11 +689,7 @@
 }
 
 ,
-{
-"key": "XMM", "name": "🌸影视 | 猫咪", "type": 1, "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
-}
-
-,
+{"key":"csp_Xinsj","name":"🌸影视 | 视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_Nkdy", "name":"🌸影视 | 南柯", "type":3, "api":"csp_Nkdy", "searchable":1, "quickSearch":1, "filterable":1
 }
