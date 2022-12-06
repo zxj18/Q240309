@@ -5,17 +5,7 @@
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
 "spider":
 "https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;EEECD4F648758FD4D372C2716196A0C2",
-    "lives": [ {
-
-        "group": "redirect",
-        "channels": [ {
-            "name": "live", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]
-        }
-
-        ]
-    }
-
-    ],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
             "name":"👑豆瓣首页",
@@ -1788,6 +1778,486 @@
 }
 
 ,
+{
+            "key": "qiyou", 
+            "name": "️💲奇优影院(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+       
+        {
+            "key": "厂长",
+            "name": "💲厂长资源(H规则)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "playerType": "2",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/changzhang.json",
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        },
+       
+        {
+            "key": "4K", 
+            "name": "💲4K资源网(规则)", 
+            "type": 3, 
+            "api": "csp_xBPQ", 
+            "filterable": 1, 
+            "quickSearch": 1, 
+            "searchable": 1, 
+            "playerType": "1", 
+            "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869",
+            "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+        },  
+      
+        {
+            "key": "诺讯", 
+            "name": "️💲诺讯影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E8%AF%BA%E8%AE%AF%E8%B5%84%E6%BA%90.json", 
+            "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
+        }, 
+        {
+            "key": "Aifan", 
+            "name": "️💲Aifan影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/Aifan.json", 
+            "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
+        }, 
+        {
+            "key": "饺子", 
+            "name": "️💲饺子影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%E9%A5%BA%E5%AD%90.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "吼吼", 
+            "name": "️💲吼吼影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/%E5%90%BC%E5%90%BC%E8%A7%86%E9%A2%91.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "素白白", 
+            "name": "️💲素白影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+       
+        {
+            "key": "007", 
+            "name": "️💲零七影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/007ys.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "青年影院", 
+            "name": "️💲青年影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "剧白", 
+            "name": "️💲剧白影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/jubaibai.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "布雷", 
+            "name": "️💲布蕾影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E5%B8%83%E8%95%BE%E5%BD%B1%E8%A7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "csp_xf_heihei", 
+            "name": "️💲嘿嘿影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/heihei.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        },
+        {
+            "key": "miaomiao", 
+            "name": "️💲喵喵影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/maiomiao.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        },
+        {
+            "key": "美剧虫", 
+            "name": "️💲美剧虫子(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%BE%8E%E5%89%A7%E8%99%AB.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "kankan", 
+            "name": "️💲看看影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/cehsi.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "稀饭", 
+            "name": "️💲稀饭影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xifang.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "特播", 
+            "name": "️💲特播影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "看一看", 
+            "name": "️💲看一看影(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "大猪蹄子", 
+            "name": "️💲大猪蹄子(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "奈飞影视", 
+            "name": "️💲奈飞影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naifei.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "素白1", 
+            "name": "️💲素白影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQBiu", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/subaibai2.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "zizi", 
+            "name": "️💲子子影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zizi.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "3333影视", 
+            "name": "️💲3333影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/xyqh_333%e5%bd%b1%e8%a7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "fositv影视", 
+            "name": "️💲猫咪电影(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "纽约影院", 
+            "name": "💲纽约影院(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "pianku", 
+            "name": "️💲假片库网(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "fanqie", 
+            "name": "️💲番茄动漫(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "40", 
+            "name": "💲星辰影院(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/40ys.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "真不卡", 
+            "name": "️💲不卡影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/zhenbuka.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "imax", 
+            "name": "💲imax影院(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/imaxw.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "101视频", 
+            "name": "️💲噜噜影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/101.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "aifei", 
+            "name": "️💲艾菲影院(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/aifei.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "123", 
+            "name": "️💲R P影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/rp123.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "影视之光", 
+            "name": "️💲影视之光(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yszg.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "kanpain", 
+            "name": "️💲看片狂人(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/kanpin.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "耐看", 
+            "name": "️💲耐看影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naikan.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "300看世界", 
+            "name": "️💲三百世界(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/300kanshijie.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "爱看", 
+            "name": "💲爱看电影(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/lovekan.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "影视之家", 
+            "name": "️💲影视之家(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/yszj.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "freeok", 
+            "name": "️💲freeok影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/freeok.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
+        {
+            "key": "新视觉", 
+            "name": "️💲视觉影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/newshijue.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        },
+       
+        {
+            "key": "白嫖者联盟", 
+            "name": "️💲白嫖联盟(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/bpzlm.json", 
+            "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+        }, 
 {
 key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searchable:0, quickSearch:0, filterable:0, ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'
 }
