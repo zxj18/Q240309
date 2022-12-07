@@ -4,7 +4,7 @@
     "wallpaper": "https://www.yydsys.top/api.php",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;42D456EB3E86D53575B834FB85D38079",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;CCD134AEBC15E69DD95773832813675A",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
@@ -213,20 +213,27 @@
 "首页": "比赛录像",
 "直接播放": "1",
 "编码": "GBK",
-"分类url": "http://miejw.com/html/{cateId}/{catePg}.html[http://miejw.com/html/{cateId}/]",
-"分类": "比赛录像$mvideo",
+"分类url": "http://www.qklnews.com/{cateId}/{catePg}.html[http://www.qklnews.com/{cateId}/]",
+"分类": "比赛录像$matchvideo",
+"二次截取": "qkl_text_list text_list_f14&&</ul>",
+"图片": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500"
+}, "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/zy.jar"},
+{"key": "体育录像1",
+"name": "🏀球赛录像二",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": {
+"首页": "比赛录像",
+"直接播放": "1",
+"编码": "GBK",
+"分类url": "http://www.androidgreat.com/html/{cateId}/{catePg}.html[http://www.androidgreat.com/html/{cateId}/]",
+"分类": "比赛录像$matchvideo",
 "二次截取": "<ul class=\"list lh24 f14\">&&</ul>",
 "图片": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500"
 }, "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/zy.jar"},
-{
-"key": "drpy_js_学生球赛录像8",
-    "name":"🏀球赛录像二",
-    "type":3,
-    "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-    "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/学生球赛录像.js"
-}
-
-,
 {
 "key": "YQK_spider", "name":"🏀球赛直播零", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4"
 }
