@@ -4,7 +4,7 @@
     "wallpaper": "https://www.yydsys.top/api.php",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;EEECD4F648758FD4D372C2716196A0C2",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;42D456EB3E86D53575B834FB85D38079",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
