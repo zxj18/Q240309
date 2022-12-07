@@ -202,50 +202,12 @@
 
 ,
 {
-"key": "体育录像",
-"name": "🏀球赛录像一",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": {
-"首页": "比赛录像",
-"直接播放": "1",
-"编码": "GBK",
-"分类url": "http://www.qklnews.com/{cateId}/{catePg}.html[http://www.qklnews.com/{cateId}/]",
-"分类": "比赛录像$matchvideo",
-"二次截取": "qkl_text_list text_list_f14&&</ul>",
-"图片": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500"
-}, "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/zy.jar"},
-{"key": "体育录像1",
-"name": "🏀球赛录像二",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": {
-"首页": "比赛录像",
-"直接播放": "1",
-"编码": "GBK",
-"分类url": "http://www.androidgreat.com/html/{cateId}/{catePg}.html[http://www.androidgreat.com/html/{cateId}/]",
-"分类": "比赛录像$matchvideo",
-"二次截取": "<ul class=\"list lh24 f14\">&&</ul>",
-"图片": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500"
-}, "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/zy.jar"},
-{
-"key": "YQK_spider", "name":"🏀球赛直播零", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4"
+"key": "YQK_spider", "name":"🏀球赛直播一", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4"
 }
 
 ,
 {
-"key": "drpy_js_88看球0", "name": "🏀球赛直播一", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
-}
-
-,
-{
-"key": "csp_xpath_JRSKan", "name":"🏀球赛直播二", "type":3, "api":"csp_XPathFilter", "searchable":0, "quickSearch":0, "filterable":0, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/jrskan2.json"
+"key": "drpy_js_88看球0", "name": "🏀球赛直播二", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"
 }
 
 ,
