@@ -85,7 +85,7 @@
 
 ,
 {
-"url": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/zz.json",
+"url": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/zz2.json",
     "name":"🎈15三  Z🎈"
 }
 
