@@ -4,7 +4,7 @@
     "wallpaper": "https://www.yydsys.top/api.php",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F4EE03B9F90DC4D6A9F31D4E6920D25F",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;CCD134AEBC15E69DD95773832813675A",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;D4F8CDDF4C8337832DD6AD0E74D70D26",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
@@ -154,21 +154,14 @@
 }
 
 ,
-{
-"key": "Gitcafe", "name":"♒小纸条(一)", "type":3, "api":"csp_GitCafe", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/token.txt", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/qf1124.jar;md5; fcbe547de02e72d05149d3be9f275391"
-}
-
-,
-{
-"key": "Gitcafe1", "name":"♒小纸条(二)",
-    "type": 3,
-    "api": "csp_Gitcafe",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable":1, "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/alitoken.json", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/Ross.jar"
-}
-
-,
+{"key":"csp_GitCafe","name":"♒小纸条(一)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我是.肥猫.love:63/token.php"},
+{"key": "Gitcafe1","name":"♒小纸条(二)","type": 3,
+			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"http://我是.肥猫.love:63/token.php","jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/Ross.jar"
+		},
 {
 "key": "纸条",
     "name": "♒小纸条(三)",
@@ -259,18 +252,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/XYQ/%e6%97%a0%e6%8f%92%e4%bb%b6%e7%9b%b4%e6%92%ad.json"
         },
-{
-"key": "JRS赛事直播00",
-"name": "🏀球赛直播九",
-"type": 3,
-"api": "XPath3",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "{\r\n    \"author\": \"\",\r\n    \"ua\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",\r\n    \"homeUrl\": \"http://www.jrskan.com/\",\r\n    //\"homeUrl\": \"http://jrsbxj.com/\",\r\n    //\"homeUrl\": \"http://jrsyyds.com/\",\r\n    \r\n    \"cateManual\": {\r\n        \"JRS赛事直播\": \"666\"\r\n    },\r\n\t\r\n\t\r\n\t// 分类页地址 {cateId} 分类id {catePg} 当前页\r\n    \"cateUrl\": \"http://www.jrskan.com/\",\r\n\t  // 同上面的homeVod字段 分类列表中的视频信息\r\n\t\"cateVodNode\": \"//ul[@data-stype='zqlq']\",\r\n    //\"cateVodName\": \"/li[@class='lab_events']/span/text()\",\r\n    \"cateVodName\": \"concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')\",\r\n    \"cateVodId\": \"/li[@class='lab_channel']/a[1]/@href\",\r\n    \"cateVodIdR\": \"http://play.sportsteam666.com/play/steam(\\\\d+).html\",\r\n\t//\"cateVodIdR\": \"\\\\S+/(\\\\d+).html\",\r\n    \"cateVodImg\": \"/li[@class='lab_team_home']/span/img/@src\",\r\n    \"cateVodMark\": \"concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())\",\r\n\t//\"cateVodMark\": \"{vid}\",\r\n\t\"cate\": \"dj\",\r\n\t// 详情页地址 用于获取详情页信息 及 播放列表和地址\r\n    //\"dtUrl\": \"{vid}\",\r\n\t\"dtUrl\": \"http://play.sportsteam666.com/play/steam{vid}.html\",\r\n\t// 详情节点\r\n    \"dtNode\": \"//ul[@data-stype='zqlq']\",\r\n\t// 视频名\r\n    \"dtName\": \"/li[1]/span/text()\",\r\n\t// 视频图片\r\n    \"dtImg\": \"/li[3]/span/img/@src\",\r\n\t// 视频分类\r\n    \"dtCate\": \"/li[1]/span/text()\",\r\n    //演员\r\n    \"dtActor\": \"/li[1]/span/text()\",\r\n    // 导演\r\n    \"dtDirector\": \"concat('勇士总冠军')\",\r\n    \"dtDirectorR\": \"\",\r\n    // 视频简介\r\n    \"dtDesc\": \"concat(/li[3]/strong/text(),' VS ',/li[5]/strong/text())\",\r\n\t\r\n\t// 播放源节点\r\n    \"dtFromNode\": \"//div[@class='sub_channel']\",\r\n\t// 播放源名称\r\n    \"dtFromName\":  \"concat('【推荐优先选择中文超清或中文高清直播源观看】')\",\r\n    \"dtFromNameR\": \"\",\r\n\t// 播放列表节点\r\n    \"dtUrlNode\": \"//div[@class='sub_channel']\",\r\n\t// 播放地址节点\r\n    \"dtUrlSubNode\": \"/a\",\r\n    \"dtUrlSub\": \"/ff\",\r\n\t// 播放地址\r\n    \"dtUrlId\": \"@data-play\",\r\n    \"dtUrlIdR\": \"/play/(\\\\S+)\",\r\n\t//\"dtUrlIdR\": \"\\\\S+/(\\\\d+)&id2=\",\r\n\t// 剧集名称\r\n    \"dtUrlName\": \"/strong/text()\",\r\n    \"dtUrlNameR\": \"\",\r\n\t\r\n\t//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址\r\n    //\"playUrl\":\"http://play.sportsteam333.com/play/{playUrl}#ff\",\r\n    \"playUrl\":\"http://play.sportsteam666.com/play/{playUrl}\"\r\n    //\"playUrl\": \"http://play.sportsteam365.com/play/{playUrl}\"\r\n    //\"playUa\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\", \r\n    //\"playUa\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36\",\r\n\r\n}"
-}
-
-,
+{"key":"88看球66","name":"🏀球赛直播九","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88看球.json"},
 {
 "key": "88看球00",
 "name": "🏀球赛直播十",
