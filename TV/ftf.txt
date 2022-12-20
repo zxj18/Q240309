@@ -4,7 +4,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;046F07E8D4E0898921EABF6753AC6DA8",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;BC2ADDDA493B092086F9EDA452AD2E66",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;18C0CE67CBE0DBE7CCB4514F48BBC7E7",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
@@ -474,11 +474,7 @@
 }
 
 ,
-{
-"key": "csp_Nmys", "name":"🌸影视 | 农民", "type":3, "api":"csp_Nmys", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
-}
-
-,
+{"key":"csp_Nmys","name":"🌸影视 | 农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {
 "key": "csp_Kunyu77",
     "name": "🌸影视 | 七七",
@@ -512,12 +508,8 @@
 }
 
 ,
-{"key":"AppTT","name":"🌸影视 | 图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"},
-{
-"key": "csp_DiDuan", "name":"🌸影视 | 低端", "type":3, "api":"csp_Ddrk", "click":"ddys.tv;#vjsp > button", "searchable":1, "quickSearch":1, "filterable":0
-}
-
-,
+{"key":"AppTT","name":"🌸影视 | 图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://pan.css.lc/api/v3/file/get/90093/ts.jar?sign=Klan8hv3Xq9Y1yj_4P0MnmNM4D6t-EfCixSJR27btd0%3D%3A0"},
+{"key":"csp_Czsapp","name":"🌸影视 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "360_spider",
     "name": "🌸影视 | 三六",
@@ -646,6 +638,9 @@
 }
 
 ,
+{"key":"Tian","name":"🌸影视 |天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://pan.css.lc/api/v3/file/get/90093/ts.jar?sign=Klan8hv3Xq9Y1yj_4P0MnmNM4D6t-EfCixSJR27btd0%3D%3A0"},
+{"key":"Hei","name":"🌸影视 | 石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://pan.css.lc/api/v3/file/get/90093/ts.jar?sign=Klan8hv3Xq9Y1yj_4P0MnmNM4D6t-EfCixSJR27btd0%3D%3A0"},
+{"key":"Ddys","name":"🌸影视 | 低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://pan.css.lc/api/v3/file/get/90093/ts.jar?sign=Klan8hv3Xq9Y1yj_4P0MnmNM4D6t-EfCixSJR27btd0%3D%3A0"},
 {
 "key": "drpy_js_豆瓣", "name": "🎐豆瓣首页[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
 }
@@ -1288,42 +1283,6 @@
 ,
 {
 "key": "drpy_js_539影院", "name": "🎐539影院[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/539影院.js"
-}
-
-,
-{
-"key": "JRS赛事直播-",
-"name": "🎈PQ|赛事直播",
-"type": 3,
-"api": "XPath3",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "{\r\n    \"author\": \"\",\r\n    \"ua\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",\r\n    \"homeUrl\": \"http://www.jrskan.com/\",\r\n    //\"homeUrl\": \"http://jrsbxj.com/\",\r\n    //\"homeUrl\": \"http://jrsyyds.com/\",\r\n    \r\n    \"cateManual\": {\r\n        \"JRS赛事直播\": \"666\"\r\n    },\r\n\t\r\n\t\r\n\t// 分类页地址 {cateId} 分类id {catePg} 当前页\r\n    \"cateUrl\": \"http://www.jrskan.com/\",\r\n\t  // 同上面的homeVod字段 分类列表中的视频信息\r\n\t\"cateVodNode\": \"//ul[@data-stype='zqlq']\",\r\n    //\"cateVodName\": \"/li[@class='lab_events']/span/text()\",\r\n    \"cateVodName\": \"concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')\",\r\n    \"cateVodId\": \"/li[@class='lab_channel']/a[1]/@href\",\r\n    \"cateVodIdR\": \"http://play.sportsteam666.com/play/steam(\\\\d+).html\",\r\n\t//\"cateVodIdR\": \"\\\\S+/(\\\\d+).html\",\r\n    \"cateVodImg\": \"/li[@class='lab_team_home']/span/img/@src\",\r\n    \"cateVodMark\": \"concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())\",\r\n\t//\"cateVodMark\": \"{vid}\",\r\n\t\"cate\": \"dj\",\r\n\t// 详情页地址 用于获取详情页信息 及 播放列表和地址\r\n    //\"dtUrl\": \"{vid}\",\r\n\t\"dtUrl\": \"http://play.sportsteam666.com/play/steam{vid}.html\",\r\n\t// 详情节点\r\n    \"dtNode\": \"//ul[@data-stype='zqlq']\",\r\n\t// 视频名\r\n    \"dtName\": \"/li[1]/span/text()\",\r\n\t// 视频图片\r\n    \"dtImg\": \"/li[3]/span/img/@src\",\r\n\t// 视频分类\r\n    \"dtCate\": \"/li[1]/span/text()\",\r\n    //演员\r\n    \"dtActor\": \"/li[1]/span/text()\",\r\n    // 导演\r\n    \"dtDirector\": \"concat('勇士总冠军')\",\r\n    \"dtDirectorR\": \"\",\r\n    // 视频简介\r\n    \"dtDesc\": \"concat(/li[3]/strong/text(),' VS ',/li[5]/strong/text())\",\r\n\t\r\n\t// 播放源节点\r\n    \"dtFromNode\": \"//div[@class='sub_channel']\",\r\n\t// 播放源名称\r\n    \"dtFromName\":  \"concat('【推荐优先选择中文超清或中文高清直播源观看】')\",\r\n    \"dtFromNameR\": \"\",\r\n\t// 播放列表节点\r\n    \"dtUrlNode\": \"//div[@class='sub_channel']\",\r\n\t// 播放地址节点\r\n    \"dtUrlSubNode\": \"/a\",\r\n    \"dtUrlSub\": \"/ff\",\r\n\t// 播放地址\r\n    \"dtUrlId\": \"@data-play\",\r\n    \"dtUrlIdR\": \"/play/(\\\\S+)\",\r\n\t//\"dtUrlIdR\": \"\\\\S+/(\\\\d+)&id2=\",\r\n\t// 剧集名称\r\n    \"dtUrlName\": \"/strong/text()\",\r\n    \"dtUrlNameR\": \"\",\r\n\t\r\n\t//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址\r\n    //\"playUrl\":\"http://play.sportsteam333.com/play/{playUrl}#ff\",\r\n    \"playUrl\":\"http://play.sportsteam666.com/play/{playUrl}\"\r\n    //\"playUrl\": \"http://play.sportsteam365.com/play/{playUrl}\"\r\n    //\"playUa\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\", \r\n    //\"playUa\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36\",\r\n\r\n}"
-}
-
-,
-{
-"key": "88看球-",
-"name": "🎈PQ|88看球",
-"type": 3,
-"api": "XPath3",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "{\r\n\"author\": \"\",\r\n\"ua\": \"\",\r\n\"homeUrl\": \"http://www.88kanqiu.cc/\",\r\n\"cateManual\": {\r\n\"看球直播\": \"666\"\r\n},\r\n\r\n\"cateUrl\": \"http://www.88kanqiu.cc\",\r\n\"cateVodNode\": \"//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']\",\r\n\"cateVodName\": \"concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())\",\r\n\"cateVodId\": \"/div[contains(@class,'pay-btn')]/a/@href\",\r\n\"cateVodIdR\": \"/live/(\\\\d+)/play\",\r\n\"cateVodImg\": \"/div[4]/img/@src\",\r\n\"cateVodImgR\": \"\\\\S+(http\\\\S+)\",\r\n\"cateVodMark\": \"concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())\",\r\n\r\n\t// 详情页\r\n\t\"dtUrl\": \"http://www.88kanqiu.cc/live/{vid}/play\",\r\n\t// 详情节点\r\n    \"dtNode\": \"//head\",\r\n\t// 视频名\r\n    \"dtName\": \"/title/text()\",\r\n\t// 视频图片\r\n    \"dtImg\": \"'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'\",\r\n    // 视频简介\r\n    \"dtDesc\": \"concat('')\",\r\n\t\r\n\t// 播放源节点\r\n    \"dtFromNode\": \"//body\",\r\n\t// 播放源名称\r\n    \"dtFromName\":  \"'【推荐优先选择中文超清或中文高清直播源观看】'\",\r\n\t// 播放列表节点\r\n    \"dtUrlNode\": \"//div[@class='game-videos-btn-container']\",\r\n\t// 播放地址节点\r\n    \"dtUrlSubNode\": \"//a[@rel='nofollow']\",\r\n\t// 播放地址\r\n    \"dtUrlId\": \"/@href\",\r\n    \"dtUrlIdR\": \"(\\\\S+)\",\r\n\t// 剧集名称\r\n    \"dtUrlName\": \"/text()\",\r\n\t\r\n\t//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址\r\n    \"playUrl\":\"http://www.88kanqiu.cc{playUrl}\"\r\n\r\n\r\n\r\n}"
-}
-
-,
-{
-"key": "csp_XYQBiu_310直播-",
-"name": "🎈PQ|310直播",
-"type": 3,
-"api": "csp_XYQBiu",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "//写法思路来自biubiu影院，海阔视界，xpath筛选。\r\n//项目魔改至github开源仓库https://github.com/Tangsan99999/TvJar中的XBiubiu.java文件，\r\n\r\n{\r\n    //规则名\r\n    \"title\": \"310直播\",\r\n    //作者\r\n    \"author\": \"聆听优美旋律\",\r\n    //请求头UA,不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA\r\n    //习惯查看手机源码写建议用手机版UA，习惯查看PC版源码写建议用电脑版UA\r\n    \"UserAgent\":\"Mozilla/5.0 (Linux; Android 12; V2049A Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36\",\r\n    //请求头Referer参数，如果只是播放页需要，填WebView即可引用播放页的链接作嗅探Referer参数。\r\n    //一般很少用，留空或删除\r\n    \"Referer\":\"\",\r\n    //是否开启获取首页数据，0关闭，1开启\r\n    \"homeContent\":\"0\",\r\n    //分类链接起始页码,禁止负数和含小数点。\r\n    \"firstpage\": \"1\",\r\n    //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]\r\n    \"class_url\": \"http://www.310.tv/{cateId}\",\r\n    //分类名，分类1&分类2&分类3\r\n    \"class_name\": \"310直播\",\r\n    //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1\r\n    \"class_value\": \"\",\r\n    //筛选数据，json格式，参考xpath的筛选写法\r\n    \"filterdata\":{},\r\n    //分类是否二次截取\r\n    \"cat_YN_twice\": \"1\",\r\n    //分类二次截取前\r\n    \"cat_twice_pre\": \"<div class=\\\"list_content\",\r\n    //分类二次截取后\r\n    \"cat_twice_suf\": \"<div class=\\\"indexbtn\",\r\n    \r\n    //分类数组截取前\r\n    \"cat_arr_pre\": \"<a class = \\\"clearfix\",\r\n    //分类数组截取后\r\n    \"cat_arr_suf\": \"</a>\",\r\n    //分类截取片单图片，截取前缀&&截取后缀\r\n    \"cat_pic\": \"img src=\\\"&&\\\"\",\r\n    //分类截取片单标题，截取前缀&&截取后缀\r\n    \"cat_title\": \"zhudui_wuyd\\\">&&</section\",\r\n    //分类截取片单副标题，截取前缀&&截取后缀\r\n    \"cat_subtitle\": \"eventtime\\\">&&</p\",\r\n    //分类截取片单链接，截取前缀&&截取后缀\r\n    \"cat_url\": \"href=\\\"&&\\\"\",  \r\n    //分类片单链接补前缀  \r\n    \"cat_prefix\": \"\",\r\n    //分类片单链接补后缀\r\n    \"cat_suffix\": \"\",\r\n    \"force_play\": \"1\",\r\n    //是否开启手动嗅探，只对网页嗅探有效，0否，1是\r\n    \"ManualSniffer\":\"1\",\r\n    //手动嗅探视频链接关键字，每个用#隔开\r\n    \"VideoFormat\":\"\",\r\n    //手动嗅探视频链接过滤关键词,每个用#隔开\r\n    \"VideoFilter\":\".html#=http\"\r\n}"
 }
 
 ,
