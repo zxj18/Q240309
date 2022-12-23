@@ -4,7 +4,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;046F07E8D4E0898921EABF6753AC6DA8",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;18C0CE67CBE0DBE7CCB4514F48BBC7E7",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;90843F57C2A2EC547E12D3D19B447CF0",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
@@ -2165,18 +2165,53 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 
 ,
 {
-"name": "💋天5", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
+      "name": "💋天5",
+      "type": 1,
+      "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="
+    },
+   
+    {
+      "name": "💋天6",
+      "type": 1,
+      "url": "http://pandown.pro/app/ysmjx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+{
+"name": "💋天7", "type":1, "url":"http://45.248.10.163:4433/json.php?wap=0&url="
 }
 
 ,
 {
-"name": "💋天6", "type":1, "url":"http://api.kunyu77.com/api.php/provide/parserUrl?url="
+"name": "💋天8", "type":1, "url":"http://api.kunyu77.com/api.php/provide/parserUrl?url="
 }
 
 ,
 {
 
-"name":"💋天7",
+"name":"💋天9",
 "type":1,
 "url":"http://150.158.175.250:88/parse/sign/552a0ef4c229907ea84dd1c7068ff063?url=",
 "header": {
@@ -2378,6 +2413,11 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 ,
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"野","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+ {
+      "name": "So",
+      "type": 0,
+      "url": "https://tljiaqing.nde.tw/m3u8/?url="
+    },
 {
 	    "name":"小韩特别VIP解析",
 	    "type":1,
