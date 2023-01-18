@@ -2045,9 +2045,7 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/bpzlm.json", 
             "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
         }, 
-{
-key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searchable:0, quickSearch:0, filterable:0, ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/peu7gbwr.json'
-}
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}
 
 ],
 "drives": [ {
@@ -2056,38 +2054,37 @@ key: 'push_agent', name:'🎯影视推送', type:3, api:'csp_PushAgent', searcha
 
 ],
 "parses": [ 
-
 {
-"name": "Web聚合",
-    "type":3,
-    "url":"Web"
-}
-
-,
-{
-    "name": "解析聚合",
-        "type":3,
-        "url":"Demo"
-}
-
-,
-{
-"name": "Json并发",
-    "type":2,
-    "url":"Parallel"
-}
-
-,
-{
-"name": "Json轮询",
-    "type":2,
-    "url":"Sequence"
-}
-
-,
+			"name": "解析聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "Json并发",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "Web解析聚合",
+			"type": 3,
+			"url": "Web"
+		},
+		{
+			"name": "Json轮询",
+			"type": 2,
+			"url": "Sequence"
+		},
 {"name":"💋天0","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"💋天1","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"💋天2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"💋天","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"💋天1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{
+			"name": "💋天2",
+			"type": 1,
+			"url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		},
 {"name":"💋天3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💋天4","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"💋天5","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},  
