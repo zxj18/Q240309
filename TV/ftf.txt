@@ -195,7 +195,17 @@
 }
 
 ,
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_push","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+{
+"key": "push_agent",
+			"name": "🎬推送",
+			"type": 3,
+			"api": "csp_Push",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,"ext": "http://我不是.肥猫.love:63/token.php", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a5ec5bc531df9a9369b480df52b9d008"
+}
+
+,
 {
 "key": "YQK_spider", "name":"🏀球赛直播一", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4"
 }
