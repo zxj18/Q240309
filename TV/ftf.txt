@@ -4,7 +4,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;03FD9035BE8A2131E14D959603437FD1",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;203FC17AA0BD99316692CE0BC08760B8",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;41542D12E472BE5F1EF53990CF0CFD94",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
@@ -174,6 +174,7 @@
 }
 
 ,
+{"key":"csp__blss","name":"🚀小米搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/小米.json"},
 {
 "key": "AliPS", "name":"😻阿里盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
 }
