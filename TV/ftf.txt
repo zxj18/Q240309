@@ -4,7 +4,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;03FD9035BE8A2131E14D959603437FD1",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;41542D12E472BE5F1EF53990CF0CFD94",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;678BD405252EEB8EF98596EFA77B6092",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
     "sites": [ {
         "key": "js豆瓣",
@@ -174,35 +174,34 @@
 }
 
 ,
-{"key":"csp__blss","name":"🚀小米搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/小米.json"},
 {
-"key": "AliPS", "name":"😻阿里盘搜", "type":3, "api":"csp_AliPS", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+ "key": "PanSou", "name":"😻阿里盘搜", "type":3, "api":"csp_PanSou", "playerType":1, "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"
 }
 
 ,
 {
-"key": "FindZY", "name":"🦊阿里资源", "type":3, "api":"csp_Zhaozy", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+"key": "YiSo", "name":"🆎阿里易搜", "type":3, "api":"csp_YiSo", "playerType":1, "searchable":1, "quickSearch":1, "filterable":0, "ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"
 }
 
 ,
 {
-"key": "csp_Yisou", "name":"🆎阿里易搜", "type":3, "api":"csp_Yisou", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+"key": "UpYun", "name":"🔋阿里云搜", "type":3, "api":"csp_UpYun", "playerType":1, "searchable":1, "quickSearch":1, "filterable":0, "ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"
 }
 
 ,
 {
-"key": "csp_Upyunso", "name":"🔋阿里云搜", "type":3, "api":"csp_Upyunso", "searchable":1, "playerType":1, "quickSearch":1, "filterable":1, "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+"key": "Zhaozy", "name":"🦊阿里资源", "type":3, "api":"csp_Zhaozy", "playerType":1, "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"
 }
 
 ,
 {
 "key": "push_agent",
-			"name": "🎬推送",
-			"type": 3,
-			"api": "csp_Push",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,"ext": "http://我不是.肥猫.love:63/token.php", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a5ec5bc531df9a9369b480df52b9d008"
+    "name": "🎬推送",
+    "type": 3,
+    "api": "csp_Push",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable":1,"ext":"http://我不是.肥猫.love:63/token.php","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a5ec5bc531df9a9369b480df52b9d008"
 }
 
 ,
