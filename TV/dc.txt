@@ -37,13 +37,13 @@
 
 ,
 {
-"url": "https://0dlj.cn/yyds",
+"url": "https://yydsys.top/duo/v.json",
     "name":"🎈07多  多🎈"
 }
 
 ,
 {
-"url": "http://w.g9.pub:66/381203888/panda.jpg",
+"url": "http://肥猫.love",
     "name":"🎈08肥  猫🎈"
 }
 
@@ -61,14 +61,14 @@
 
 ,
 {
-"url": "https://agit.ai/abkier/My9394/raw/branch/master/不良帅.m3u8",
-    "name":"🎈11不良帅🎈"
+"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+    "name":"🎈11小苹果🎈"
 }
 
 ,
 {
-"url": "https://agit.ai/abkier/My9394/raw/branch/master/js.m3u8",
-    "name":"🎈12不良帅🎈"
+"url": "http://tvbox.lengniuge.eu.org/ts",
+    "name":"🎈12冷牛哥🎈"
 }
 
 ,
