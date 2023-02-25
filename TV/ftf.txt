@@ -4,20 +4,10 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;03FD9035BE8A2131E14D959603437FD1",
 "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;5F7E225597A5CAA094F8406E774BA8DE",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
-    "sites": [ {
-        "key": "js豆瓣",
-            "name":"👑豆瓣首页",
-            "type":3,
-            "api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
-    }
-
-    ,
+    "sites": [ 
+{"key":"T4_douban","name":"👑豆瓣首页","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
     {
     "key": "drpy_js_百忙无果",
         "name": "👑芒果TV",
@@ -154,7 +144,7 @@
 }
 
 ,
-{"key":"csp_GitCafe","name":"♒小纸条(一)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我是.肥猫.love:63/token.php"},
+{"key":"csp_GitCafe","name":"♒小纸条(一)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key": "Gitcafe1","name":"♒小纸条(二)","type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
@@ -174,37 +164,11 @@
 }
 
 ,
-{
- "key": "PanSou", "name":"😻阿里盘搜", "type":3, "api":"csp_PanSou", "playerType":1, "searchable":1, "quickSearch":1, "filterable":1, "ext": "http://我不是.肥猫.love:63/token.php"
-}
-
-,
-{
-"key": "YiSo", "name":"🆎阿里易搜", "type":3, "api":"csp_YiSo", "playerType":1, "searchable":1, "quickSearch":1, "filterable":0, "ext": "http://我不是.肥猫.love:63/token.php"
-}
-
-,
-{
-"key": "UpYun", "name":"🔋阿里云搜", "type":3, "api":"csp_UpYun", "playerType":1, "searchable":1, "quickSearch":1, "filterable":0, "ext": "http://我不是.肥猫.love:63/token.php"
-}
-
-,
-{
-"key": "Zhaozy", "name":"🦊阿里资源", "type":3, "api":"csp_Zhaozy", "playerType":1, "searchable":1, "quickSearch":1, "filterable":1, "ext": "http://我不是.肥猫.love:63/token.php"
-}
-
-,
-{
-"key": "push_agent",
-    "name": "🎬推送",
-    "type": 3,
-    "api": "csp_Push",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable":1,"ext":"http://我不是.肥猫.love:63/token.php","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a5ec5bc531df9a9369b480df52b9d008"
-}
-
-,
+{"key":"YiSo","name":"🆎阿里易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"Zhaozy","name":"🦊阿里资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
+{"key":"PanSou","name":"😻阿里盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"UpYun","name":"🔋阿里云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {
 "key": "YQK_spider", "name":"🏀球赛直播一", "api":"csp_YQKAPP", "type":3, "filterable":1, "playerType":2, "quickSearch":1, "searchable":1, "ext":"https://api-tx.shumaxc.xyz", "jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4"
 }
@@ -244,18 +208,13 @@
 
 ,
 {
-"key": "csp_xpath_qiumi", "name":"🏀球赛直播六", "type": 3, "api": "csp_XPath3", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/dj看球.json"
-}
-
-,
-{
-"key": "csp_XYQBiu_310直播", "name":"🏀球赛直播七", "type":3, "api":"csp_XYQBiu", "searchable":0, "quickSearch":0, "filterable":0, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/310直播.json"
+"key": "csp_XYQBiu_310直播", "name":"🏀球赛直播六", "type":3, "api":"csp_XYQBiu", "searchable":0, "quickSearch":0, "filterable":0, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/310直播.json"
 }
 
 ,
 {
       "key": "csp_XYQHiker_无插件直播(XYQ)",
-      "name": "🏀球赛直播八",
+      "name": "🏀球赛直播七",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
@@ -263,111 +222,6 @@
       "filterable": 0,
       "ext": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/XYQ/%e6%97%a0%e6%8f%92%e4%bb%b6%e7%9b%b4%e6%92%ad.json"
         },
-{"key":"88看球66","name":"🏀球赛直播九","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88看球.json"},
-{
-"key": "88看球00",
-"name": "🏀球赛直播十",
-"type": 3,
-"api": "XPath3",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 0,
-"ext": "{\r\n\"author\": \"\",\r\n\"ua\": \"\",\r\n\"homeUrl\": \"http://www.88kanqiu.cc/\",\r\n\"cateManual\": {\r\n\"看球直播\": \"666\"\r\n},\r\n\r\n\"cateUrl\": \"http://www.88kanqiu.cc\",\r\n\"cateVodNode\": \"//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']\",\r\n\"cateVodName\": \"concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())\",\r\n\"cateVodId\": \"/div[contains(@class,'pay-btn')]/a/@href\",\r\n\"cateVodIdR\": \"/live/(\\\\d+)/play\",\r\n\"cateVodImg\": \"/div[4]/img/@src\",\r\n\"cateVodImgR\": \"\\\\S+(http\\\\S+)\",\r\n\"cateVodMark\": \"concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())\",\r\n\r\n\t// 详情页\r\n\t\"dtUrl\": \"http://www.88kanqiu.cc/live/{vid}/play\",\r\n\t// 详情节点\r\n    \"dtNode\": \"//head\",\r\n\t// 视频名\r\n    \"dtName\": \"/title/text()\",\r\n\t// 视频图片\r\n    \"dtImg\": \"'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'\",\r\n    // 视频简介\r\n    \"dtDesc\": \"concat('')\",\r\n\t\r\n\t// 播放源节点\r\n    \"dtFromNode\": \"//body\",\r\n\t// 播放源名称\r\n    \"dtFromName\":  \"'【推荐优先选择中文超清或中文高清直播源观看】'\",\r\n\t// 播放列表节点\r\n    \"dtUrlNode\": \"//div[@class='game-videos-btn-container']\",\r\n\t// 播放地址节点\r\n    \"dtUrlSubNode\": \"//a[@rel='nofollow']\",\r\n\t// 播放地址\r\n    \"dtUrlId\": \"/@href\",\r\n    \"dtUrlIdR\": \"(\\\\S+)\",\r\n\t// 剧集名称\r\n    \"dtUrlName\": \"/text()\",\r\n\t\r\n\t//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址\r\n    \"playUrl\":\"http://www.88kanqiu.cc{playUrl}\"\r\n\r\n\r\n\r\n}"
-}
-
-,
-{
-"key": "VIPlive",
-    "name": "🎀电视直播一",
-    "type": 4,
-    "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9naXRjb2RlLm5ldC9iaC90di8tL3Jhdy9tYXN0ZXIvemIudHh0=",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "zhibo1",
-    "name": "🎀电视直播二",
-    "type": 4,
-    "api": "http://120.53.102.254/live?url=https://gitcode.net/weixin_58340148/box/-/raw/master/ZB/JTZB.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "zhibo2",
-    "name": "🎀电视直播三",
-    "type": 3,
-    "api": "csp_xBPQ",
-    "filterable": 0,
-    "quickSearch": 0,
-    "searchable": 0,
-    "playerType": "1",
-    "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773",
-    "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zhibo.json"
-}
-
-,
-{
-"key": "zhibo3",
-    "name": "🎀电视直播四",
-    "type": 4,
-    "api": "http://120.53.102.254/live2?url==aHR0cHM6Ly9hZ2l0LmFpL3hkZngvcGxheS9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "zhibo4",
-    "name": "🎀电视直播五",
-    "type": 4,
-    "api": "http://120.53.102.254/live2?url=http://159.138.137.208/tv/zb.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "zhibo5",
-    "name": "🎀电视直播六",
-    "type": 4,
-    "api": "http://120.53.102.254/live2?url==aHR0cHM6Ly9hZ2l0LmFpL3lhbi9UZXMvcmF3L2JyYW5jaC9tYXN0ZXIvVFZsaXZlLVBQLnR4dA==",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "zhibo7",
-    "name": "🎀电视直播七",
-    "type": 4,
-    "api": "http://120.53.102.254/live?url=http://w.g9.pub:66/381203888/%E7%9B%B4%E6%92%AD/zb2.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-{
-"key": "zhibo8",
-    "name": "🎀电视直播八",
-    "type": 4,
-    "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly9hZ2l0LmFpL3plbmdqaWFuL2hhbi9yYXcvYnJhbmNoL21hc3Rlci90di9teXR2LnR4dA==",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-
-,
-   
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
@@ -481,7 +335,7 @@
 
 ,
 {"key":"BuLei","name":"🌸影视 |布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🌸影视 |图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+{"key":"csp_AppTT","name":"🌸影视 |图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
 {"key":"csp_Nmys","name":"🌸影视 | 农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_SP2345","name":"🌸影视 | 2345","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🌸影视 | 胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
