@@ -144,8 +144,7 @@
 }
 
 ,
-{"key":"csp_GitCafe","name":"♒小纸条(一)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
-{"key": "Gitcafe1","name":"♒小纸条(二)","type": 3,
+{"key": "Gitcafe1","name":"♒小纸条(一)","type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -154,7 +153,7 @@
 		},
 {
 "key": "纸条",
-    "name": "♒小纸条(三)",
+    "name": "♒小纸条(二)",
     "type": 3,
     "api": "csp_Paper",
     "searchable": 1,
@@ -335,7 +334,7 @@
 
 ,
 {"key":"BuLei","name":"🌸影视 |布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🌸影视 |图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
+{"key":"csp_AppTT","name":"🌸影视 |图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==","jar":"https://9xi4o.tk/smallgirl/spider/xo1403.jar;md5;59e72aace81382dcce86b9b73998aa7f"},
 {"key":"csp_Nmys","name":"🌸影视 | 农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_SP2345","name":"🌸影视 | 2345","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🌸影视 | 胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
