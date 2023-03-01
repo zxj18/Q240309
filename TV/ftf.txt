@@ -5,14 +5,77 @@
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;03FD9035BE8A2131E14D959603437FD1",
 "spider":
 "https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0ppZUxlSHVpL1RWL3Jhdy9icmFuY2gvbWFzdGVyL0pMSFRWLnR4dA=="]}]}],
+"lives": [
+{"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Aishang-V4","type":0,"playerType":1,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"FY-BESTV-V4","type":0,"url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u"},
+{"name":"FY-GHYX-V4","type":0,"url":"https://telegram-feiyangdigital.v1.mk/ghyx.m3u"},
+{"name":"备用IPV4","type":0,"url":"https://raw.fastgit.org/vamoschuck/TV/main/M3U"},
+{"name":"直播IPV6","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+{"name":"港澳台","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u"}
+],
     "sites": [ 
-    {
-    "key": "drpy_js_百忙无果",
-        "name": "👑芒果TV",
-        "type": 3,
-        "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-        "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
+{
+    "key": "腾讯资源",
+        "name": "👑腾讯TV",
+        "type": 1,
+        "api": "http://zy.mx91.top/api.php/provide/vod/from/qq/?ac=list",
+        "playUrl":"https://jxdp.codermart.net/jxplayer.php?v=",
+        "searchable": 1,
+        "quickSearch": 1,
+        "categories": [ "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+        ]
+}
+
+,
+{
+"key": "芒果资源",
+    "name": "👑芒果TV",
+    "type": 1,
+    "api": "http://zy.mx91.top/api.php/provide/vod/from/mgtv/?ac=list",
+    "searchable": 1,
+    "playUrl":"https://jx.jsonplayer.com/player/?url=",
+    "quickSearch": 1,
+    "categories": [ "国产剧",
+    "韩国剧",
+    "香港剧",
+    "台湾剧",
+    "欧美剧",
+    "动作片",
+    "科幻片",
+    "战争片",
+    "奇幻片",
+    "喜剧片",
+    "爱情片",
+    "恐怖片",
+    "犯罪片",
+    "悬疑片",
+    "惊悚片",
+    "剧情片",
+    "冒险片",
+    "记录片",
+    "综艺",
+    "动漫"
+    ]
 }
 
 ,
@@ -31,15 +94,6 @@
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
     "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"
-}
-
-,
-{
-"key": "drpy_js_腾云驾雾",
-    "name": "👑腾讯TV",
-    "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"
 }
 
 ,
@@ -1949,6 +2003,11 @@
 ],
 "parses":
 [
+{
+			"name": "Web解析聚合",
+			"type": 3,
+			"url": "Web"
+		},
 
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -2052,6 +2111,12 @@
       "type": 1,
       "url": "http://jx.xdv.icu/api/?key=E55lCKr0ZJ5kMWpyd5&url="
     },	
+{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"CK","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"XM","type":0,"url":"https://dm.xmflv.com:4433/?url="},
+{"name":"LK①","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"LK②","type":0,"url":"https://okjx.cc/?url="},
+{"name":"LK③","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 	{
       "name": "5号线",
       "type": 0,
