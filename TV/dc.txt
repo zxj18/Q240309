@@ -37,7 +37,7 @@
 
 ,
 {
-"url": "https://yydsys.top/duo/v.json",
+"url": "https://yydsys.top/duo",
     "name":"🎈07多  多🎈"
 }
 
@@ -49,7 +49,7 @@
 
 ,
 {
-"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
+"url": "https://agit.ai/study520x/zhanghong1983/raw/branch/main/tvbox.json",
     "name":"🎈09张  宏🎈"
 }
 
@@ -67,7 +67,7 @@
 
 ,
 {
-"url": "http://tvbox.lengniuge.eu.org/ts",
+"url": "https://agit.ai/lengniuge/tv/raw/branch/master/yingshi",
     "name":"🎈12冷牛哥🎈"
 }
 
@@ -85,8 +85,8 @@
 
 ,
 {
-"url": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/zz2.json",
-    "name":"🎈15三  Z🎈"
+"url": "https://gitea.com/lige/tv/raw/branch/0/FTY/FTY.json",
+    "name":"🎈15黎 歌🎈"
 }
 
 ,
@@ -97,7 +97,7 @@
 
 ,
 {
-"url": "http://2ha.cc/tv",
+"url": " https://tv.5ye.cc",
     "name":"🎈17二  哈🎈"
 }
 
@@ -116,8 +116,8 @@
 ,
 
 {
-"url": "https://xn--nlro93c.live/%E5%A5%BD%E9%AA%9A",
-    "name":"🎈20白大佬🎈"
+"url": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json",
+    "name":"🎈20喵 影🎈"
 }
 
 ,
@@ -146,8 +146,8 @@
 
 ,
 {
-"url": "https://hutool.ml/tang",
-    "name": "🎈25唐  三🎈"
+"url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%e9%be%99%e9%97%a8%e5%bd%b1%e8%a7%86.json",
+    "name": "🎈25龙 门🎈"
 }
 
 ,
@@ -159,7 +159,7 @@
 
 ,
 {
-"url":"https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+"url":"https://download.kstore.space/download/2863/01.txt",
     "name": "🎈27潇  洒🎈"
 }
 
@@ -177,8 +177,8 @@
 
 ,
 {
-"url": "http://101.34.67.237/config/3",
-    "name": "🎈30道长T4🎈"
+"url": "https://pastebin.com/raw/5NHaxyGR,
+    "name": "🎈30道长🎈"
 }
 
 ]
