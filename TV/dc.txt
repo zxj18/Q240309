@@ -177,7 +177,7 @@
 
 ,
 {
-"url": "https://pastebin.com/raw/5NHaxyGR,
+"url": "https://pastebin.com/raw/5NHaxyGR",
     "name": "🎈30道长🎈"
 }
 
