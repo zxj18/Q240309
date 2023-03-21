@@ -3,7 +3,8 @@
     "wallpaper": "https://壁纸.神器每日推送.tk",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "spider":
-"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
+"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;6C22C52D5A00AA832BB95EFBF8490298
+",
 "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
 "lives": [
 {"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
