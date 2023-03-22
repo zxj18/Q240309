@@ -97,14 +97,14 @@
 
 ,
 {
-"url": " https://嚎.ml/tvbox.json",
-    "name":"🎈17二  嚎🎈"
+"url": " https://369936.xyz/web119",
+    "name":"🎈17春 风🎈"
 }
 
 ,
 {
-"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json",
-    "name":"🎈18道  长🎈"
+"url": "https://d.looks.wang/945KM",
+    "name":"🎈18就是我🎈"
 }
 
 ,
@@ -134,8 +134,8 @@
 
 ,
 {
-"url": "https://cdn.jsdelivr.net/gh/zqk219/baip@main/JS/js.json",
-    "name": "🎈23JS03🎈"
+"url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
+    "name": "🎈23 YSC 🎈"
 }
 
 ,
