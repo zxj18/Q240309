@@ -176,9 +176,55 @@
 }
 
 ,
+ {
+ "url": "https://try.gitea.io/live/TVRule/raw/branch/main/XYQTVBox.json",
+    "name": "🎈30香雅情🎈 "
+        },
+{
+"url": "http://9xi4o.tk/0725.json",
+    "name": "🎈31 4 K线路 🎈"
+}
+,
+{
+"url": "https://codeberg.org/S8/K8/raw/branch/main/YS.txt",
+    "name": "🎈32 Y S线路 🎈"
+}
+,
+{
+"url": "http://dd.ma/HGPKqPcZ",
+    "name": "🎈33 刘公子 🎈"
+}
+,
+{
+"url": "https://goo.gs/dybz",
+    "name": "🎈34 大眼宝藏 🎈"
+}
+,
+{
+"url": "https://agit.ai/1452635819/h/raw/branch/master/L2",
+    "name": "🎈35 hogo 🎈"
+}
+,
+{
+"url": "http://www.dmtv.ml/mao/mao.php?type=single",
+    "name": "🎈36 呆萌TV猫 🎈"
+}
+,
+{
+            "url": "https://cccimg.com/down.php/6d1a7a6411175550662a85a1c921bd4e.txt",
+            "name": "🎈37直解🎈"
+        },
+          {
+            "url": "https://cccimg.com/down.php/6dd352cddbfb708a956437b6ac8c4d2d.txt",
+            "name": "🎈38影视🎈"
+        },
+{
+               "url": "https://cccimg.com/down.php/c17fb1cdff628c4f5c4844d175e01ecc.txt",
+                "name": "🎈39官解🎈️"
+      },
 {
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈30道长🎈"
+    "name": "🎈40 道长🎈"
 }
 
 ]
