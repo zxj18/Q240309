@@ -181,8 +181,8 @@
     "name": "🎈30香雅情🎈 "
         },
 {
-"url": "http://9xi4o.tk/0725.json",
-    "name": "🎈31 4 K线路 🎈"
+"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+    "name": "🎈31 云星线路 🎈"
 }
 ,
 {
@@ -196,8 +196,8 @@
 }
 ,
 {
-"url": "https://goo.gs/dybz",
-    "name": "🎈34 大眼宝藏 🎈"
+"url": "https://gitea.com/hjie/TV/raw/branch/main/LY.txt",
+    "name": "🎈34  LY线路 🎈"
 }
 ,
 {
@@ -211,20 +211,42 @@
 }
 ,
 {
-            "url": "https://cccimg.com/down.php/6d1a7a6411175550662a85a1c921bd4e.txt",
-            "name": "🎈37直解🎈"
+               "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro",
+                "name": "🎈37宝 盒🎈️"
+      },
+
+{
+            "url": "https://agit.ai/CloudMist/TVBox/raw/branch/master/wyh.json",
+            "name": "🎈38云 雾🎈"
         },
           {
-            "url": "https://cccimg.com/down.php/6dd352cddbfb708a956437b6ac8c4d2d.txt",
-            "name": "🎈38影视🎈"
+            "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/ymzjp.txt",
+            "name": "🎈39夜 猫🎈"
         },
 {
-               "url": "https://cccimg.com/down.php/c17fb1cdff628c4f5c4844d175e01ecc.txt",
-                "name": "🎈39官解🎈️"
-      },
+ "url": "https://agit.ai/ttys/1/raw/branch/master/666.json",
+            "name": "🎈40 三 六🎈"
+        },
+{
+  "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+            "name": "🎈41 小 胡🎈"
+        },
+{
+  "url": "https://agit.ai/19281042/hong/raw/branch/master/在线xb.json",
+.json",
+            "name": "🎈42 小 红🎈"
+        },
+ {
+ "url": "https://agit.ai/wsl/box/raw/branch/m/tvboxhh/0321fty/0321fty.json",
+            "name": "🎈43 饭太硬+🎈"
+        },
+ {
+ "url": "https://agit.ai/wsl/box/raw/branch/m/hh/Alist/dd.json",
+            "name": "🎈44 多多+🎈"
+        },
 {
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈40 道长🎈"
+    "name": "🎈45 道长🎈"
 }
 
 ]
