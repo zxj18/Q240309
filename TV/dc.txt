@@ -228,13 +228,13 @@
             "name": "🎈40 三 六🎈"
         },
 {
-  "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+  "url": 
+"https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
             "name": "🎈41 小 胡🎈"
         },
 {
   "url": "https://agit.ai/19281042/hong/raw/branch/master/在线xb.json",
-.json",
-            "name": "🎈42 小 红🎈"
+           "name": "🎈42 小 红🎈"
         },
  {
  "url": "https://agit.ai/wsl/box/raw/branch/m/tvboxhh/0321fty/0321fty.json",
@@ -245,8 +245,12 @@
             "name": "🎈44 多多+🎈"
         },
 {
+ "url": "https://gitee.com/lichuanrui/iptv/raw/master/传说.json",
+            "name": "🎈45 盒子集 🎈"
+        },
+{
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈45 道长🎈"
+    "name": "🎈46 道长🎈"
 }
 
 ]
