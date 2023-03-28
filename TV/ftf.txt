@@ -5,7 +5,8 @@
    "spider":
 "https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;6C22C52D5A00AA832BB95EFBF8490298
 ",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A02ADB9E07C948BF74E8BB6F4737F865",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F0CBE346A2D22F8C05ECCFD4F8B2593E
+",
 "lives": [
 {"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Aishang-V4","type":0,"playerType":1,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
