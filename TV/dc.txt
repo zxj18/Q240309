@@ -196,8 +196,8 @@
 }
 ,
 {
-"url": "https://gitea.com/hjie/TV/raw/branch/main/LY.txt",
-    "name": "🎈34  LY线路 🎈"
+"url": "http://dxawi.github.io/0/0.json",
+    "name": "🎈34  dxawi 🎈"
 }
 ,
 {
@@ -249,8 +249,25 @@
             "name": "🎈45 盒子集 🎈"
         },
 {
+ "url": "https://agit.ai/sn123456/dc1/raw/branch/master/lm.json",
+            "name": "🎈46 老 马 🎈"
+        },
+{
+ "url": "https://猫接口.ml/tvbox.json",
+            "name": "🎈47 老 猫 🎈"
+        },
+{
+ "url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json",
+            "name": "🎈48 小 明 🎈"
+        },
+{
+"url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
+    "name": "🎈49 云星阿里 🎈"
+}
+,
+{
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈46 道长🎈"
+    "name": "🎈50 道长🎈"
 }
 
 ]
