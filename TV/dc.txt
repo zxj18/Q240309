@@ -49,10 +49,9 @@
 
 ,
 {
-"url": "https://agit.ai/study520x/zhanghong1983/raw/branch/main/tvbox.json",
-    "name":"🎈09张  宏🎈"
+"url": "http://miaotvs.cn/osc",
+    "name": "🎈09 太 阳 🎈"
 }
-
 ,
 {
 "url": "http://pandown.pro/tvbox/tvbox.json",
@@ -91,16 +90,15 @@
 
 ,
 {
-"url": "http://smallmi.xiaohewanwan.love:63/xm.json",
-    "name":"🎈16小  米🎈"
+"url": "https://agit.ai/65012833/TVbox/raw/branch/master/YS.json",
+    "name":"🎈16 Y S 🎈"
 }
 
 ,
 {
-"url": " https://369936.xyz/web119",
-    "name":"🎈17春 风🎈"
+"url": "https://raw.githubusercontent.com/habao260/zy/main/2023.json",
+    "name": "🎈17 哈 宝 🎈"
 }
-
 ,
 {
 "url": "https://d.looks.wang/945KM",
@@ -116,7 +114,7 @@
 ,
 
 {
-"url": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json",
+"url":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json",
     "name":"🎈20喵 影🎈"
 }
 
@@ -128,10 +126,9 @@
 
 ,
 {
-"url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
-    "name": "🎈22JS02🎈"
+"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+    "name": "🎈22 悠 闲 🎈"
 }
-
 ,
 {
 "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
@@ -151,7 +148,6 @@
 }
 
 ,
-
 {
 "url": "http://52bsj.vip:98/sansan",
     "name": "🎈26盒子汇🎈"
@@ -245,9 +241,10 @@
             "name": "🎈44 多多+🎈"
         },
 {
- "url": "https://gitee.com/lichuanrui/iptv/raw/master/传说.json",
-            "name": "🎈45 盒子集 🎈"
-        },
+"url": "http://api.wemtime.com/TVBOX/b.json",
+    "name": "🎈45 时 光 🎈"
+}
+,
 {
  "url": "https://agit.ai/sn123456/dc1/raw/branch/master/lm.json",
             "name": "🎈46 老 马 🎈"
@@ -266,8 +263,14 @@
 }
 ,
 {
+"url": "http://hz752.love:63/js.json",
+    "name": "🎈50 那里花开 🎈"
+}
+,
+
+{
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈50 道长🎈"
+    "name": "🎈51 道长🎈"
 }
 
 ]
