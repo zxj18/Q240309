@@ -49,13 +49,12 @@
 
 ,
 {
-"url": "http://miaotvs.cn/osc",
-    "name": "🎈09 太 阳 🎈"
-}
-,
+ "url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json",
+            "name": "🎈09 小 明 🎈"
+        },
 {
 "url": "http://pandown.pro/tvbox/tvbox.json",
-    "name":"🎈10巧  记🎈"
+    "name":"🎈10巧  记 🎈"
 }
 
 ,
@@ -96,8 +95,8 @@
 
 ,
 {
-"url": "https://raw.githubusercontent.com/habao260/zy/main/2023.json",
-    "name": "🎈17 哈 宝 🎈"
+"url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
+    "name": "🎈17 云星阿里 🎈"
 }
 ,
 {
@@ -143,7 +142,7 @@
 
 ,
 {
-"url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%e9%be%99%e9%97%a8%e5%bd%b1%e8%a7%86.json",
+"url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/龙门影视.json",
     "name": "🎈25龙 门🎈"
 }
 
@@ -254,23 +253,12 @@
             "name": "🎈47 老 猫 🎈"
         },
 {
- "url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json",
-            "name": "🎈48 小 明 🎈"
+ "url": "https://369936.xyz/web119",
+            "name": "🎈48 春 风 🎈"
         },
 {
-"url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
-    "name": "🎈49 云星阿里 🎈"
-}
-,
-{
-"url": "http://hz752.love:63/js.json",
-    "name": "🎈50 那里花开 🎈"
-}
-,
-
-{
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈51 道长🎈"
+    "name": "🎈49 道长🎈"
 }
 
 ]
