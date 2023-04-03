@@ -83,8 +83,8 @@
 
 ,
 {
-"url": "https://gitea.com/lige/tv/raw/branch/0/FTY/FTY.json",
-    "name":"🎈15黎 歌🎈"
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+    "name":"🎈15二 哈 🎈"
 }
 
 ,
@@ -142,7 +142,7 @@
 
 ,
 {
-"url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/龙门影视.json",
+"url": "https://yydsys.top/lm.json",
     "name": "🎈25龙 门🎈"
 }
 
@@ -160,14 +160,14 @@
 
 ,
 {
-"url": "https://agit.ai/rolf/LEM/raw/branch/master/000.json",
-    "name": "🎈28LEM专属🎈"
+"url": "https://agit.ai/kvymin/pyramid/raw/branch/master/config.json",
+    "name": "🎈28金字塔🎈"
 }
 
 ,
 {
-"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-    "name": "🎈29五  六🎈"
+"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0820.json",
+    "name": "🎈29 0820 🎈"
 }
 
 ,
@@ -240,8 +240,8 @@
             "name": "🎈44 多多+🎈"
         },
 {
-"url": "http://api.wemtime.com/TVBOX/b.json",
-    "name": "🎈45 时 光 🎈"
+"url": "https://agit.ai/kvymin/TV/raw/branch/master/maoys.json",
+    "name": "🎈45 猫影视 🎈"
 }
 ,
 {
@@ -257,8 +257,16 @@
             "name": "🎈48 春 风 🎈"
         },
 {
+ "url": "https://4kal.netlify.app/s.json",
+            "name": "🎈49 LAN 🎈"
+        },
+{
+ "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "🎈50 小 易 🎈"
+        },
+{
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈49 道长🎈"
+    "name": "🎈51 道长🎈"
 }
 
 ]
