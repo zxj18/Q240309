@@ -4,7 +4,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "spider":
 "https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5; 3FF662D44D19110691030E502FA92833
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5; 7373CFDE72043479157CAD08FA726B34
 ",
 "lives": [
 {"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
