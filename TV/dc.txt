@@ -17,13 +17,10 @@
 }
 
 ,
-
 {
-"url": "https://神器每日推送.tk/pz.json",
-    "name":"🎈04神  器🎈"
-}
-
-,
+ "url":"http://rihou.cc/荷城茶秀",
+            "name": "🎈04荷城茶秀🎈"
+        },
 {
 "url": "http://9xi4o.tk/0725.json",
     "name":"🎈05星  河🎈"
@@ -142,8 +139,8 @@
 
 ,
 {
-"url": "https://yydsys.top/lm.json",
-    "name": "🎈25龙 门🎈"
+"url": "https://codeberg.org/Ygfxz/999xx/raw/branch/main/999.m3u8",
+    "name": "🎈25牛 牛 🎈"
 }
 
 ,
@@ -265,8 +262,27 @@
             "name": "🎈50 小 易 🎈"
         },
 {
+ "url": "http://tvmvip110.club/tv/box/xc.json",
+            "name": "🎈51 玉 玉 🎈"
+        },
+{
+ "url":"http://www.zkyle.cn/api/static/kkbox.json",
+            "name": "🎈52  K K 🎈"
+        },
+{
+ "url":"http://calendre.top/TVBox/YXHC.json",
+            "name": "🎈53 夕 晨 🎈"
+        },
+
+{
+"url": "https://神器每日推送.tk/pz.json",
+    "name":"🎈54神  器🎈"
+}
+
+,
+{
 "url": "https://pastebin.com/raw/5NHaxyGR",
-    "name": "🎈51 道长🎈"
+    "name": "🎈55 道长🎈"
 }
 
 ]
