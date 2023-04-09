@@ -212,7 +212,7 @@
             "name": "🎈38云 雾🎈"
         },
           {
-            "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/ymzjp.txt",
+            "url": "https://d.looks.wang/VhJTH",
             "name": "🎈39夜 猫🎈"
         },
 {
@@ -266,8 +266,8 @@
             "name": "🎈51 玉 玉 🎈"
         },
 {
- "url":"http://www.zkyle.cn/api/static/kkbox.json",
-            "name": "🎈52  K K 🎈"
+ "url":"https://codeberg.org/ouyang/TVBox-line/raw/branch/main/json/ouyang.json",
+            "name": "🎈52 欧 阳 🎈"
         },
 {
  "url":"http://calendre.top/TVBox/YXHC.json",
