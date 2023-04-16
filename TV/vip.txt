@@ -24,11 +24,14 @@
 }
 ,
 {
-"key": "drpy_js_农民影视",
+"key": "csp_LiteApple",
     "name": "👑综合影院二",
     "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"
+    "api": "csp_LiteApple",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 }
 ,
 {
@@ -47,27 +50,25 @@
 }
 }
 ,
+{"key":"csp_Nmys","name":"👑综合影院四","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {
 "key": "快看影视",
-    "name": "👑综合影院四",
+    "name": "👑综合影院五",
     "type": 3,
     "api": "csp_Kuaikan",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
 },
-{"key":"csp_YQKAPP","name":"👑综合影院五","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
+{"key":"csp_YQKAPP","name":"👑综合影院六","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {
-"key": "csp_LiteApple",
-    "name": "👑综合影院六",
+"key": "drpy_js_农民影视",
+    "name": "👑综合影院七",
     "type": 3,
-    "api": "csp_LiteApple",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"
 }
 ,
-{"key":"csp_Nmys","name":"👑综合影院七","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
  {
     "key":"zy_乱舞1",
     "name":"👑腾讯TV",
@@ -168,7 +169,7 @@
     ]
     },
 {
-"key": "drpy_js_奇珍异兽",
+"key": "drpy_js_奇珍异兽1",
     "name": "👑奇异TV",
     "type": 3,
     "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
@@ -176,6 +177,12 @@
 }
 
 ,
+{"key":"drpy_js_优酷","name":"👑优酷影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"👑腾讯影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"👑芒果影视TV","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/百忙无果.js"},
+{"key":"drpy_js_奇珍异兽","name":"👑奇艺影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/奇珍异兽.js"},
+{"key":"drpy_js_360影视","name":"👑三六影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/360影视.js"},
+{"key":"drpy_js_菜狗","name":"👑搜狗影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/菜狗.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
@@ -243,11 +250,17 @@
 
 ],
 "parses":[
+    {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, 
 	{
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
-	}, {
+	},
+{
 		"name": "Json并发",
 		"type": 2,
 		"url": "Parallel"
@@ -278,6 +291,8 @@
 {"name":"播放6","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
 {"name":"播放7","type":0,"url":"https://jx.zhanlangbu.com/?url=", "type": 0, "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0"}}}, 
 { "name": "播放8", "type": 1,"url": "https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=", "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0" }}}, 
+{"name":"多线解析","type":0,"url":"http://43.140.205.222/jiexi.php?url=","header": {"User-Agent": "okhttp/4.1.0"}},
+{"name":"易点","type":0,"url":"https://jxdp.codermart.net/?url=","header": {"User-Agent": "Mozilla/5.0"}},
  {
 		"name": "随便1",
 		"type": 1,
