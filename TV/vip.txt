@@ -18,11 +18,12 @@
     "name": "👑综合影院一",
     "type": 3,
     "api": "csp_Kunyu77",
+ "m3u8ads": "hd.youyhn.com",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
 }
-,
+,   
 {
 "key": "csp_LiteApple",
     "name": "👑综合影院二",
@@ -181,6 +182,17 @@
 {"key":"drpy_js_腾云驾雾","name":"👑腾讯影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"👑芒果影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/百忙无果.js"},
 {"key":"drpy_js_奇珍异兽","name":"👑奇艺影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/奇珍异兽.js"},
+   {   "key": "csp_Kunyu77_TS",
+            "name": "👑酷云影视",
+            "type": 3,
+            "api": "csp_Dora",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+"jar": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/JAR/lem0415.jar;md5;CE0E178FD62636EE269310222DF2F10E",
+            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
+        },
 {"key":"drpy_js_360影视","name":"👑三六影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/360影视.js"},
 {"key":"drpy_js_菜狗","name":"👑搜狗影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/菜狗.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
 {
@@ -269,6 +281,8 @@
 		"type": 2,
 		"url": "Sequence"
 	},
+{"name":"嗅探1","url":"https://jx.bozrc.com:4433/player/?url=", "showType":1}, 
+{"name": "嗅探2","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
  {
 		"name": "播放1",
 		"type": 1,
