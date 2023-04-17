@@ -2,7 +2,7 @@
 
     "wallpaper": "https://壁纸.神器每日推送.tk",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83",
 "lives": [
 {"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Aishang-V4","type":0,"playerType":1,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -61,129 +61,14 @@
     "quickSearch": 1,
     "filterable": 1
 },
-{"key":"csp_YQKAPP","name":"👑综合影院六","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
-{
-"key": "drpy_js_农民影视",
-    "name": "👑综合影院七",
-    "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"
-}
-,
- {
-    "key":"zy_乱舞1",
-    "name":"👑腾讯TV",
-    "type":1,
-    "api":"https://cms.json.vin/api.php/provide/vod/from/qq/?ac=list",
-    "searchable":1,
-    "playUrl":"https://jx.jsonplayer.com/player/?url=",
-    "quickSearch":1,
-    "categories":[
-    "国产剧",
-    "韩国剧",
-    "香港剧",
-    "台湾剧",
-    "欧美剧",
-    "电影",
-    "连续剧",
-    "综艺",
-    "动漫",
-    "动作片",
-    "科幻片",
-    "战争片",
-    "奇幻片",
-    "喜剧片",
-    "爱情片",
-    "恐怖片",
-    "犯罪片",
-    "悬疑片",
-    "惊悚片",
-    "剧情片",
-    "冒险片",
-    "记录片"
-    ]
-    },
-    {
-    "key":"zy_乱舞2",
-    "name":"👑芒果TV",
-    "type":1,
-    "api":"https://cms.json.vin/api.php/provide/vod/from/mgtv/?ac=list",
-    "searchable":1,
-    "playUrl":"https://jx.jsonplayer.com/player/?url=",
-    "quickSearch":1,
-    "categories":[
-    "国产剧",
-    "韩国剧",
-    "香港剧",
-    "台湾剧",
-    "欧美剧",
-    "电影",
-    "连续剧",
-    "综艺",
-    "动漫",
-    "动作片",
-    "科幻片",
-    "战争片",
-    "奇幻片",
-    "喜剧片",
-    "爱情片",
-    "恐怖片",
-    "犯罪片",
-    "悬疑片",
-    "惊悚片",
-    "剧情片",
-    "冒险片",
-    "记录片"
-    ]
-    },
-    {
-    "key":"zy_乱舞4",
-    "name":"👑优酷TV",
-    "type":1,
-    "api":"https://cms.json.vin/api.php/provide/vod/from/youku/?ac=list",
-    "searchable":1,
-    "playUrl":"https://jx.jsonplayer.com/player/?url=",
-    "quickSearch":1,
-    "categories":[
-    "电影",
-    "连续剧",
-    "综艺",
-    "动漫",
-    "国产剧",
-    "韩国剧",
-    "香港剧",
-    "台湾剧",
-    "欧美剧",
-    "动作片",
-    "科幻片",
-    "战争片",
-    "奇幻片",
-    "喜剧片",
-    "爱情片",
-    "恐怖片",
-    "犯罪片",
-    "悬疑片",
-    "惊悚片",
-    "剧情片",
-    "冒险片",
-    "记录片"
-    ]
-    },
-{
-"key": "drpy_js_奇珍异兽1",
-    "name": "👑奇异TV",
-    "type": 3,
-    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"
-}
-
-,
-{"key":"drpy_js_优酷","name":"👑优酷影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"👑腾讯影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"👑芒果影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/百忙无果.js"},
-{"key":"drpy_js_奇珍异兽","name":"👑奇艺影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/奇珍异兽.js"},
+{"key":"drpy_js_360影视","name":"👑综合影院六","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/360影视.js"},
+{"key":"drpy_js_菜狗","name":"👑综合影院七","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
+{"key":"drpy_js_奇珍异兽","name":"👑奇艺TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"👑优酷TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"👑腾讯TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"👑芒果TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
    {   "key": "csp_Kunyu77_TS",
-            "name": "👑酷云影视",
+            "name": "👑酷云TV",
             "type": 3,
             "api": "csp_Dora",
             "m3u8ads": "hd.youyhn.com",
@@ -193,8 +78,6 @@
 "jar": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/JAR/lem0415.jar;md5;CE0E178FD62636EE269310222DF2F10E",
             "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
         },
-{"key":"drpy_js_360影视","name":"👑三六影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/360影视.js"},
-{"key":"drpy_js_菜狗","name":"👑搜狗影视","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/菜狗.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
@@ -262,16 +145,17 @@
 
 ],
 "parses":[
-    {
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, 
+   
 	{
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
 	},
+ {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, 
 {
 		"name": "Json并发",
 		"type": 2,
