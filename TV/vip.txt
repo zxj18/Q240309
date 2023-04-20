@@ -62,8 +62,17 @@
     "filterable": 1
 },
 {"key":"csp_fantuan","name":"👑综合影院六","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
- {"key":"影院","name":"👑综合影院七","type":1,"api":"https://lsys.dsmynas.com:3070/api.php/provide/vod/","categories": ["电影", "连续剧", "综艺","动漫" ],
-"playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
+{
+"key": "csp_XBPQ_影院",
+"name": "👑综合影院七",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{\"免嗅\":\"1\",\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",\"导演\": \"导演：&&</li\",\"主演\": \"主演：&&</li\",\"简介\": \"hl-content-text\\\"><em>&&</em\",\"线路数组\": \"hl-tabs-btn hl-slide-swiper&&</a>\",\"线路标题\":\"></i>&&</a>\",\"播放数组\":\"id=\\\"hl-plays-list&&</ul>\",\"播放标题\":\">&&</a\",\"分类\":\"电视剧$2#电影$1#综艺$4#动漫$3#动画片$6\",\"分类url\":\"http://www.jurenm.com/show/{cateId}/page/{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"
+}
+,
 {
     "key": "腾讯资源", "name":"👑腾讯TV", "type":1, "api":"http://anltv.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"]
 }
@@ -84,17 +93,12 @@
 }
 
 ,
-   {   "key": "csp_Kunyu77_TS",
-            "name": "👑酷云TV",
-            "type": 3,
-            "api": "csp_Dora",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-"jar": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/JAR/lem0415.jar;md5;CE0E178FD62636EE269310222DF2F10E",
-            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
-        },
+{
+"key": "阿里官采", "name": "👑阿里TV", "type": 1, "api":"http://anltv.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": ["国产剧", "港台剧", "日韩剧", "电影", "欧美剧", "海外剧", "综艺",  "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "悬疑片", "惊悚片", "恐怖片", "犯罪片", "冒险片", "奇幻片", "灾难片", "战争片", "动画片"],
+"playerType":2
+}
+,
+{"key":"csp_SP360","name":"👑影视TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
