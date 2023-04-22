@@ -2,7 +2,7 @@
 
     "wallpaper": "https://壁纸.神器每日推送.tk",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;43927c91e9c631d24057be2e400dc8a5",
 "lives": [
 {"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Aishang-V4","type":0,"playerType":1,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -14,16 +14,17 @@
 ],
     "sites": [ 
 {
-"key": "csp_Kunyu77",
+"key": "csp_appysv2_东方视频",
     "name": "👑综合影院一",
     "type": 3,
-    "api": "csp_Kunyu77",
- "m3u8ads": "hd.youyhn.com",
+    "api": "csp_AppYsV2",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1,
+    "ext": "https://www.dfspapp.com/api.php/app/"
 }
-,   
+
+,
 {
 "key": "csp_LiteApple",
     "name": "👑综合影院二",
