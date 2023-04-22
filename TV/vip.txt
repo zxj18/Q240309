@@ -2,7 +2,7 @@
 
     "wallpaper": "https://壁纸.神器每日推送.tk",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;43927c91e9c631d24057be2e400dc8a5",
+"spider":"https://agit.ai/895322156/Q/raw/branch/master/jar/教育.jar",
 "lives": [
 {"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Aishang-V4","type":0,"playerType":1,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -14,17 +14,16 @@
 ],
     "sites": [ 
 {
-"key": "csp_appysv2_东方视频",
+"key": "csp_Kunyu77",
     "name": "👑综合影院一",
     "type": 3,
-    "api": "csp_AppYsV2",
+    "api": "csp_Kunyu77",
+ "m3u8ads": "hd.youyhn.com",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.dfspapp.com/api.php/app/"
+    "filterable": 1
 }
-
-,
+,   
 {
 "key": "csp_LiteApple",
     "name": "👑综合影院二",
@@ -62,16 +61,21 @@
     "quickSearch": 1,
     "filterable": 1
 },
-{"key":"csp_fantuan","name":"👑综合影院六","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {
-"key": "csp_XBPQ_影院",
-"name": "👑综合影院七",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "{\"免嗅\":\"1\",\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",\"导演\": \"导演：&&</li\",\"主演\": \"主演：&&</li\",\"简介\": \"hl-content-text\\\"><em>&&</em\",\"线路数组\": \"hl-tabs-btn hl-slide-swiper&&</a>\",\"线路标题\":\"></i>&&</a>\",\"播放数组\":\"id=\\\"hl-plays-list&&</ul>\",\"播放标题\":\">&&</a\",\"分类\":\"电视剧$2#电影$1#综艺$4#动漫$3#动画片$6\",\"分类url\":\"http://www.jurenm.com/show/{cateId}/page/{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"
+"key": "csp_appysv2_东方视频",
+    "name": "👑综合影院六",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://www.dfspapp.com/api.php/app/"
+}
+
+,
+{
+"key": "阿里官采", "name": "👑综合影院七", "type": 1, "api":"http://anltv.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": ["国产剧", "港台剧", "日韩剧", "电影", "欧美剧", "海外剧", "综艺",  "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "悬疑片", "惊悚片", "恐怖片", "犯罪片", "冒险片", "奇幻片", "灾难片", "战争片", "动画片"],
+"playerType":2
 }
 ,
 {
@@ -95,12 +99,6 @@
 
 ,
 {
-"key": "阿里官采", "name": "👑阿里TV", "type": 1, "api":"http://anltv.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": ["国产剧", "港台剧", "日韩剧", "电影", "欧美剧", "海外剧", "综艺",  "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "悬疑片", "惊悚片", "恐怖片", "犯罪片", "冒险片", "奇幻片", "灾难片", "战争片", "动画片"],
-"playerType":2
-}
-,
-{"key":"csp_SP360","name":"👑影视TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
-{
 "key": "知识",
     "name": "🌏知识┃学堂",
     "type": 3,
@@ -108,7 +106,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://dxawi.github.io/1/json/xx1.json", "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/知识.json"
 }
 
 ,
@@ -120,7 +118,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://dxawi.github.io/1/json/xx2.json", "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/少儿.json"
 }
 
 ,
@@ -132,8 +130,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://dxawi.github.io/1/json/xx3.json", "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
-}
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/小学.json"}
 
 ,
 {
@@ -144,8 +141,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://dxawi.github.io/1/json/xx4.json", "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
-}
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/初中.json"}
 
 ,
 {
@@ -156,7 +152,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://dxawi.github.io/1/json/xx5.json", "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ea4f3186d5bd63fbd57ba41c86b448a2"
+    "ext": "https://agit.ai/895322156/Q/raw/branch/master/XB/高中.json"
 }
 
 
