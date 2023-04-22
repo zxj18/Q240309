@@ -64,16 +64,7 @@
 }
 }
 ,
-         {  "key": "HDmoli",
-            "name": "👑综合影院八",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-    "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/教育.jar",
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/sub/HDmoli.json"
-        },
+{"key":"drpy_js_HDmoli","name":"👑综合影院八","type":3,"api":"https://lantongxue.cc/vcbx/lib/drpy2.min.js","ext":"https://lantongxue.cc/vcbx/js/HDmoli.js"},
 {
     "key": "腾讯资源", "name":"👑腾讯TV", "type":1, "api":"http://anltv.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"]
 }
