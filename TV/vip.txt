@@ -36,7 +36,7 @@
     "filterable": 1
 }
 ,
-{"key": "csp_XYQHiker_农民影视","name":"👑综合影院四","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/农民影视.json","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/xyq.jar"},
+{"key": "csp_XYQHiker_农民影视","name":"👑综合影院四","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/农民影视.json","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/9.jar"},
   {     "key": "csp_AppMr",
             "name": "👑综合影院五",
             "type": 3,
