@@ -38,11 +38,9 @@
 }
 ,
 {"key": "csp_XYQHiker_农民影视","name":"👑综合影院四","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/农民影视.json","jar":""},
-{"key": "蛋蛋影院","name": "👑综合影院五","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\" http://www.cddys.vip/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html\"}","线路数组": "data-dropdown-value=&&</div>[排序:臭蛋蛋3>高清③>高清①>高清②>臭蛋蛋4>臭蛋蛋1]"},
-{"key":"k7yy","name":"👑综合影院六","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 {
 "key":"csp_xb_lez3",
-"name":"👑综合影院七",
+"name":"👑综合影院五",
 "type":3,
 "api":"csp_XBiu",
 "searchable":1,
@@ -56,7 +54,8 @@
 }
 }
 ,
-{"key":"csp_Xinsj","name":"👑综合影院八","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key":"lx","name":"👑综合影院六","type":1,"api":"http://web.lxsgyl.com/api.php/provide/vod/","categories": ["电影", "连续剧", "综艺","动漫" ],"playUrl":"http://43.154.45.43/?url=","searchable":1,"quickSearch":1,"filterable":1"}, 
+{"key":"csp_Xinsj","name":"👑综合影院七","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {
     "key": "腾讯资源", "name":"👑腾讯TV", "type":1, "api":"http://anltv.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"]
 }
