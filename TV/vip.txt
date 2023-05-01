@@ -56,7 +56,16 @@
 ,
 {"key":"lx","name":"👑综合影院六","type":1,"api":"http://web.lxsgyl.com/api.php/provide/vod/","categories": ["电影", "连续剧", "综艺","动漫" ],"playUrl":"http://43.154.45.43/?url=","searchable":1,"quickSearch":1,"filterable":1"}, 
 {
-"key": "csp_fant", "name":"👑综合影院七", "api":"csp_Fantuan", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "jar":""
+      "key": "csp_kuaikan",
+      "name": "👑综合影院七",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+"key": "csp_fant", "name":"👑综合影院八", "api":"csp_Fantuan", "type":3, "filterable":1, "quickSearch":1, "searchable":1, "jar":""
 }
 
 ,
