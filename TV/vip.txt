@@ -13,17 +13,8 @@
 {"name":"港澳台","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u"}
 ],
     "sites": [ 
-{
-"key": "csp_Kunyu77",
-    "name": "👑综合影院一",
-    "type": 3,
-    "api": "csp_Kunyu77",
- "m3u8ads": "hd.youyhn.com",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-}
-,   
+ {"key":"csp_Kunyu77","name":"👑综合影院一","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/zy.jar;md5;43927c91e9c631d24057be2e400dc8a5"
+},
 {"key":"csp_Czsapp","name":"👑综合影院二","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/a.jar;md5;43927c91e9c631d24057be2e400dc8a5"
 },
 {
