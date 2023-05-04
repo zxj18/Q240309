@@ -101,15 +101,10 @@
     "quickSearch": 1,
     "filterable": 1
 },
- {   "key": "csp_AppTT",
-            "name": "👑综合影院十",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        },
+{
+"key": "csp_XYQHiker_异视琳琅", "name":"👑综合影院十", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/异视琳琅.json", "jar":""
+}
+,
 {"key":"drpy_js_酷客影院","name":"👑综合影院十一","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷客影院.js"},
 {
     "key": "csp_Kunyu77",
