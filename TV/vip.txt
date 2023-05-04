@@ -2,8 +2,10 @@
 
     "wallpaper": "https://壁纸.神器每日推送.tk",
         "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-   "spider":"clan://TVBOX/jar/9.jar",     "spider":"https://agit.ai/895322156/Q/raw/branch/master/jar/0.jar;md5;1094abdd85adbd4e56f08e65495cf0d3",
-"spider":"https://download.kstore.space/download/4127/js/6x.txt ;md5;1094abdd85adbd4e56f08e65495cf0d3",
+   "spider":"clan://TVBOX/jar/9.jar",  
+   "spider":"https://download.kstore.space/download/4127/0.txt;md5; e911ef9b3f3c5101a90cdfd022f566f0",
+"spider":"https://agit.ai/895322156/Q/raw/branch/master/jar/0.jar;md5;1094abdd85adbd4e56f08e65495cf0d3",
+"spider":"https://download.kstore.space/download/4127/js/6x.txt;md5; 6c68e5f9757d1c0e4d5dd966a4adaa01",
         "lives": [ {
         "name":"直播IPV4",
         "type":0,
@@ -76,7 +78,16 @@
 
 ,
 {
-"key": "lx", "name":"👑综合影院六", "type":1, "api":"http://web.lxsgyl.com/api.php/provide/vod/", "categories": ["电影", "连续剧", "综艺", "动漫"], "playUrl":"http://43.154.45.43/?url=", "searchable":1, "quickSearch":1, "filterable":1"}, 
+		"key": "csp_Dadagui",
+		"name": "👑综合影院六",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+	},
  {
     "key": "csp_kuaikan",
         "name": "👑综合影院七",
@@ -107,15 +118,16 @@
 ,
 {"key":"drpy_js_酷客影院","name":"👑综合影院十一","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷客影院.js"},
 {
-    "key": "csp_Kunyu77",
-        "name": "👑综合影院十二",
-        "type": 3,
-        "api": "csp_Kunyu77",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-}
-,   
+		"key": "csp_libvio",
+		"name": "👑综合影院十二",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 1,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+	},
 {
 "key": "腾讯资源", "name":"👑腾讯TV", "type":1, "api":"http://anltv.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"]
 }
@@ -230,6 +242,29 @@
 }
 
 ,
+{
+		"name": "爱奇艺",
+		"type": 0,
+		"url": "https://jx.zhanlangbu.com/?url="
+	},{
+		"name": "腾讯",
+		"type": 0,
+		"url": "https://jx.777jiexi.com/player/?url="
+	},{
+		"name": "芒果",
+		"type": 0,
+		"url": "https://jx.jsonplayer.com/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},{
+		"name": "优酷",
+		"type": 0,
+		"url": "https://www.ckmov.com/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},
 {
 
 "name": "播放1",
