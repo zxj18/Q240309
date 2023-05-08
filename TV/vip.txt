@@ -135,8 +135,8 @@
 }
 
 ,
- {"key": "csp_XYQHiker_土狗搜索","name":"👑资源搜索","type":3,"api":"csp_XYQHiker","playerType":1, "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/土狗搜索.json", "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/xyq.jar" },
-{"key":"push_agent","name":"👑资源推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/xyq.jar"},
+ {"key":"csp_UpYun","name":"👑资源搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"}, 
+{"key":"push_agent","name":"👑资源推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 {
 "key": "知识",
     "name": "🌏知识┃学堂",
