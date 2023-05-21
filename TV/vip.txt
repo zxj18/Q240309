@@ -6,7 +6,6 @@
 "spider":"https://download.kstore.space/download/4127/js/6x.txt;md5; 6c68e5f9757d1c0e4d5dd966a4adaa01",
 "spider":"https://agit.ai/895322156/Q/raw/branch/master/jar/l0513.jar;md5;DBED8635C8F1C4D6B25CE0ACDE781875",
 
-
         "lives": [ {
         "name":"直播IPV4",
         "type":0,
@@ -52,8 +51,9 @@
 
 ],
 "sites": [ 
-{"key":"drpy_js_酷云七七","name":"👑综合影院一","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷云77.js"},
-{"key": "csp_XYQHiker_联盟影视","name":"👑综合影院二","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/联盟.json"},
+{"key":"drpy_js_酷云七七","name":"👑综合影院一","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/酷云77.js"},
+{"key":"csp_Czsapp","name":"👑综合影院二","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":""
+},
 {
 "key": "csp_XYQHiker_乐猪", "name":"👑综合影院三", "type":3, "api":"csp_XYQHiker", "playerType":2, "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/乐猪TV.json", "jar":"https://agit.ai/895322156/Q/raw/branch/master/jar/custom_spider.jar"
 }
@@ -111,6 +111,9 @@
 "key": "csp_XYQHiker_voflix HD", "name":"👑综合影院十二", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/voflix HD.json", "jar":""
 }
 ,
+{"key": "csp_XYQHiker_联盟影视","name":"👑综合影院十三","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XYQ/联盟.json"},
+{"key":"如意4K","name":"👑综合影院十四","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+	{"key":"酷影蓝光","name":"👑综合影院十五","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 {
 "key": "腾讯资源", "name":"👑腾讯TV", "type":1, "api":"http://anltv.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"]
 }
@@ -131,7 +134,26 @@
 }
 
 ,
+{
+"key": "drpy_yak", "name":"👑港剧TV", "type":3, "api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js", "ext":"https://download.kstore.space/download/3313/js/粤爱看.js"
+}
+
+,
+{"key":"csp_WoGG","name":"👑4K影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunpan/token.txt",  
+"jar":""},
+{"key":"csp_AList","name":"👑阿里影视","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Alist.json"},
  {"key":"csp_UpYun","name":"👑资源搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"}, 
+ {
+            "key": "csp_Zhaozy",
+            "name": "👑阿里搜索",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "8941496e48f3460ebca93c3faefc7d6f$$$crimetv$$$88888888"
+        },
 {"key":"push_agent","name":"👑资源推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 {
 "key": "知识",
@@ -981,4 +1003,5 @@
 "msg":"自动拉取数据成功!",
 "function":"Python3.7.9"
 }
+
 
